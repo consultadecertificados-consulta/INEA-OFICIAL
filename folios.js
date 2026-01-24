@@ -1,7 +1,7 @@
 // folios.js - Base de datos completa de certificados INEA (60 Registros)
 const baseDatos = {
     // --- FOLIOS ORIGINALES (UUID) ---
-    "9da9226f-6e07-41cc-81f6-23cb903e659-": { nombre: "ANTONIO EMBARCADERO NAVA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TLALNEPANTLA, EDO MEX", id: "0410255274" },
+    "9da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "ANTONIO EMBARCADERO NAVA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TLALNEPANTLA, EDO MEX", id: "0410255274" },
     "8ea8226f-5f07-41cc-81f6-23cb903e7500": { nombre: "VIRGINIO GOMEZ GUTIERREZ", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-10-20", emision: "2025-10-20", lugar: "CHIAPA DE CORZO, CHIAPAS", id: "0511255380" },
     "8da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "GIOVANNY AGUSTIN RUIZ TIRADO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-10-10", emision: "2025-10-15", lugar: "CIUDAD DE MEXICO", id: "1420256273" },
     "7da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "BRENDA GUADALUPE BAZALDUA MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NL", id: "1319256162" },
