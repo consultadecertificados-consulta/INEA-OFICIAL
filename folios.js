@@ -1,7 +1,7 @@
 // folios.js - Base de datos completa de certificados INEA (60 Registros)
 const baseDatos = {
     // --- FOLIOS ORIGINALES (UUID) ---
-    "9da9226f-6e07-41cc-81f6-23cb903e6999": { nombre: "JUAN SALVADOR SANTIAGO VALDERAMA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lug "GUADALAJARA, JALISCO", id: "0410255274" },
+    "9da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "VIANNEY VILLARREAL COTA", nivel: "SECUNDARIA", promedio: "7.7", conclusion: "2024-11-24", emision: "2024-11-29", lugar: "CAMPECHE, CAMPECHE", id: "0410255274" },
     "8ea8226f-5f07-41cc-81f6-23cb903e7500": { nombre: "VIRGINIO GOMEZ GUTIERREZ", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-10-20", emision: "2025-10-20", lugar: "CHIAPA DE CORZO, CHIAPAS", id: "0511255380" },
     "8da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "GIOVANNY AGUSTIN RUIZ TIRADO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-10-10", emision: "2025-10-15", lugar: "CIUDAD DE MEXICO", id: "1420256273" },
     "7da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "BRENDA GUADALUPE BAZALDUA MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NL", id: "1319256162" },
@@ -51,7 +51,7 @@ const baseDatos = {
     "1da9226f-6e07-41cc-81f6-888b903e6593": { nombre: "ANTONIA CRUZ RAMOS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-09-20", emision: "2025-09-25", lugar: "REYNOSA, TAMAULIPAS", id: "5662260805" },
      "6da9226f-6e07-41cc-81f6-23cb903e6666": { nombre: "RAMIRO OCHOA BRICEÑO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "REYNOSA, TAMAULIPAS", id: "5763260916" },
    "9da92666-6e07-41cc-81f6-23cb903e6593": { nombre: "VICTORIA NAYELI JULIAN LOPEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-12-15", emision: "2025-11-20", lugar: "TLAQUEPAQUE, JALISCO", id: "5864261027" },
-   "0888226f-6e07-41cc-81f6-23cb903e6591": { nombre: "-------------", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "VERACRUZ, VERACRUZ", id: "5965261138" },
+   "0888226f-6e07-41cc-81f6-23cb903e6591": { nombre: "JUAN SALVADOR SANTIAGO VALDERAMA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "5965261138" },
     "9da9226f-6e07-41cc-81f6-999b903e6598": { nombre: "VICTOR MANUEL ESQUIVEL JUAREZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "COAHUILA, COAHUILA", id: "6066261249" },
    "3da9226f-6e07-41cc-8155-23cb903e6593": { nombre: "ISABEL MILLAN", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "YECAPIXTLA, MORELOS", id: "6167261360" },
     "folio-inf-51": { nombre: "RAMON VALDEZ SOTO", nivel: "SECUNDARIA", promedio: "7.8", conclusion: "2025-02-28", emision: "2025-03-04", lugar: "DURANGO, DGO", id: "6268261471" },
@@ -66,6 +66,113 @@ const baseDatos = {
     "folio-inf-60": { nombre: "LORENA HERRERA P.", nivel: "SECUNDARIA", promedio: "8.9", conclusion: "2025-03-25", emision: "2025-03-30", lugar: "ACAPULCO, GRO", id: "7177262470" }
 
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
