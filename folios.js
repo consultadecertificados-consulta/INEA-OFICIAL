@@ -3,7 +3,7 @@ const baseDatos = {
     // --- FOLIOS ORIGINALES (UUID) ---
     "9da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "ANTONIO EMBARCADERO NAVA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TLALNEPANTLA, EDO MEX", id: "0410255274" },
     "8ea8226f-5f07-41cc-81f6-23cb903e750-": { nombre: "JUAN RAMON LARA VERA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "IZTAPALAPA, CDMX", id: "0511255380" },
-    "8da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "VICENTE ROBLEDO JIMENEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "HUIXQUILUCAN, EDO MEX", id: "1420256273" },
+    "8da9226f-6e07-41cc-81f6-23cb903e659-": { nombre: "--------------", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "HUIXQUILUCAN, EDO MEX", id: "1420256273" },
     "7da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "BRENDA GUADALUPE BAZALDUA MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NL", id: "1319256162" },
     "6da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "JESSICA MARLENE HERNANDEZ COTA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-10-20", emision: "2025-10-25", lugar: "SAN LUIS POTOSI", id: "1521256384" },
     "0da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "VICTOR HUGO ECHEVERRIA GONZALES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "15-11-2025", emision: "20-11-2025", lugar: "JALISCO", id: "1622256495" },
