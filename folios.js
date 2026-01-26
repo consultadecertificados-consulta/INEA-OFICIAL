@@ -11,7 +11,7 @@ const baseDatos = {
     "3da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "MARTHA PATRICIA BRIONES GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-10-15", emision: "2025-10-20", lugar: "SALTILLO, COAHUILA", id: "1824256617" },
     "2da9226f-6e07-41cc-81f6-23cb903e6590": { nombre: "CARLOS MICHAEL GARCIA LIMA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-10-15", emision: "2025-10-20", lugar: "PUEBLA, PUEBLA", id: "1925256728" },
     "1da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "NARCISA RUIZ GUTIERREZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SAN LUIS POTOSI", id: "2026256839" },
-    "11a9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "RENE ALONSO CHAVES LUGO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2022-07-27", emision: "2022-08-10", lugar: "GUANAJUATO, GUANAJUATO", id: "2127256940" },
+    "11a9226f-6e07-41cc-81f6-23cb000e6593": { nombre: "RENE ALONSO CHAVES LUGO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2022-07-27", emision: "2022-08-10", lugar: "GUANAJUATO, GUANAJUATO", id: "2127256940" },
     "0aa9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "------------", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "LEON GUANAJUATO", id: "2228257051" },
 
     // --- SERIE FOLIO-INF (12 al 60) ---
