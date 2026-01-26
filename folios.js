@@ -9,8 +9,8 @@ const baseDatos = {
     "0da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "YENI LIZBETH OLAN GOMEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "15-11-2025", emision: "20-11-2025", lugar: "MERIDA, YUCATAN", id: "1622256495" },
     "4da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "RENE ALONSO CHAVES LUGO", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2015-10-15", emision: "2015-10-20", lugar: "CHIHUAHUA, CHIHUAHUA", id: "1723256506" },
     "3da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "MARTHA PATRICIA BRIONES GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-10-15", emision: "2025-10-20", lugar: "SALTILLO, COAHUILA", id: "1824256617" },
-    "2da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "---------------", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-10-20", emision: "2025-10-20", lugar: "NUEVO LEON", id: "1925256728" },
-    "1da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "CYNDI LIZETH LOPEZ ARREDONDO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MATAMOROS, TAMAULIPAS", id: "2026256839" },
+    "2da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "ERNESTO NAZARIO FERNANDEZ ORTEGA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-10-15", emision: "2025-10-20", lugar: "GUADALAJARA, JALISCO", id: "1925256728" },
+    "1da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "------------", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MATAMOROS, TAMAULIPAS", id: "2026256839" },
     "11a9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "MACARIO TAPIA BARRIENTOS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUANAJUATO, GUANAJUATO", id: "2127256940" },
     "0aa9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "MERCEDES LILIANA FLORES SANCHEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "LEON GUANAJUATO", id: "2228257051" },
 
