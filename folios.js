@@ -12,10 +12,10 @@ const baseDatos = {
     "2da9226f-6e07-41cc-81f6-23cb903e6590": { nombre: "CARLOS MICHAEL GARCIA LIMA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-10-15", emision: "2025-10-20", lugar: "PUEBLA, PUEBLA", id: "1925256728" },
     "1da9226f-6e07-41cc-81f6-23cb903e6598": { nombre: "LUZ MARIA HERNANDEZ PEREZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "2026256839" },
     "11a9226f-6e07-41cc-81f6-23cb000e6593": { nombre: "RENE ALONSO CHAVEZ LUGO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2022-07-27", emision: "2022-08-10", lugar: "CHIHUAHUA, CHIHUAHUA", id: "2127256940" },
-    "0aa9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "------------", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "LEON GUANAJUATO", id: "2228257051" },
+    "0aa9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "ISABEL MONSERRAT SOTO VALLADARES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TOLUCA, EDO MEX", id: "2228257051" },
 
     // --- SERIE FOLIO-INF (12 al 60) ---
-     "11a9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "ROSALINDA PROA FLORES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TAMAULIPAS", id: "2329257162" },
+     "11a9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "---------------", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TAMAULIPAS", id: "2329257162" },
    "12a9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "JIMENA CAPISTRANO TORRES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ESTADO DE MEXICO", id: "2430257273" },
     "13a9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "VERONICA VICTORIA VARGAS RESENDIZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ESTADO DE MEXICO", id: "2531257384" },
     "14a9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "ANADELIA DOMINGUEZ NESTOSO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MOLOACAN, VER", id: "2632257495" },
