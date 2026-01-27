@@ -10,7 +10,7 @@ const baseDatos = {
     "4da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "RENE ALONSO CHAVEZ LUGO", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2015-10-15", emision: "2015-10-20", lugar: "CHIHUAHUA, CHIHUAHUA", id: "1723256506" },
     "3da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "MARTHA PATRICIA BRIONES GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-10-15", emision: "2025-10-20", lugar: "SALTILLO, COAHUILA", id: "1824256617" },
     "2da9226f-6e07-41cc-81f6-23cb903e6590": { nombre: "CARLOS MICHAEL GARCIA LIMA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-10-15", emision: "2025-10-20", lugar: "PUEBLA, PUEBLA", id: "1925256728" },
-    "1da9226f-6e07-41cc-81f6-23cb903e659-": { nombre: "-------", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SAN LUIS POTOSI", id: "2026256839" },
+    "1da9226f-6e07-41cc-81f6-23cb903e6598": { nombre: "LUZ MARIA HERNANDEZ PEREZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "2026256839" },
     "11a9226f-6e07-41cc-81f6-23cb000e6593": { nombre: "RENE ALONSO CHAVEZ LUGO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2022-07-27", emision: "2022-08-10", lugar: "CHIHUAHUA, CHIHUAHUA", id: "2127256940" },
     "0aa9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "------------", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "LEON GUANAJUATO", id: "2228257051" },
 
