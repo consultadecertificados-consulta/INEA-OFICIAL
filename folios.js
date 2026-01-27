@@ -5,14 +5,14 @@ const baseDatos = {
     "8ea8226f-5f07-41cc-81f6-23cb903e7502": { nombre: "NANCY KARINA RODRIGUEZ DUEÑES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SALTILL0, COAHUILA", id: "0511255380" },
     "8da9226f-6e07-41cc-81f6-23cb903e6591": { nombre: "FANNY SANCHEZ ISIDORO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MIGUEL HIDALGO, CDMX", id: "1420256273" },
     "7da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "JOAQUIN GONZALEZ GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "COATZACOALCOS, VER", id: "1319256162" },
-    "2da9226f-6e07-41cc-81f6-23cb903e6333": { nombre: "MARIA DEL ROBLE GARCIA FLORES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SALTILLO, COAHUILA", id: "1521256384" },
+    "2da9226f-6e07-41cc-81f6-23cb903e633-": { nombre: "-------------------", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SALTILLO, COAHUILA", id: "1521256384" },
     "0da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "YENI LIZBETH OLAN GOMEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "15-11-2025", emision: "20-11-2025", lugar: "MERIDA, YUCATAN", id: "1622256495" },
     "4da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "RENE ALONSO CHAVEZ LUGO", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2015-10-15", emision: "2015-10-20", lugar: "CHIHUAHUA, CHIHUAHUA", id: "1723256506" },
     "3da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "MARTHA PATRICIA BRIONES GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-10-15", emision: "2025-10-20", lugar: "SALTILLO, COAHUILA", id: "1824256617" },
     "2da9226f-6e07-41cc-81f6-23cb903e6590": { nombre: "CARLOS MICHAEL GARCIA LIMA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-10-15", emision: "2025-10-20", lugar: "PUEBLA, PUEBLA", id: "1925256728" },
-    "1da9226f-6e07-41cc-81f6-23cb903e6598": { nombre: "LUZ MARIA HERNANDEZ PEREZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "2026256839" },
+    "1da9226f-6e07-41cc-81f6-23cb903e659-": { nombre: "----------------Z", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "2026256839" },
     "11a9226f-6e07-41cc-81f6-23cb000e6593": { nombre: "RENE ALONSO CHAVEZ LUGO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2022-07-27", emision: "2022-08-10", lugar: "CHIHUAHUA, CHIHUAHUA", id: "2127256940" },
-    "0aa9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "ISABEL MONSERRAT SOTO VALLADARES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TOLUCA, EDO MEX", id: "2228257051" },
+    "0aa9226f-6e07-41cc-81f6-23cb903e659-": { nombre: "............", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TOLUCA, EDO MEX", id: "2228257051" },
 
     // --- SERIE FOLIO-INF (12 al 60) ---
      "11a9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "---------------", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TAMAULIPAS", id: "2329257162" },
