@@ -16,7 +16,7 @@ const baseDatos = {
 
     // --- SERIE FOLIO-INF (12 al 60) ---
      "11a9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "JOSE ALBERTO HERNANDEZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2025-11-17", emision: "2025-11-25", lugar: "JALISCO, JALISCO", id: "2329257162" },
-   "12a9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "_------", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CUERNAVACA, MORELOS", id: "2430257273" },
+   "12a9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "ANGEL URIEL MERCADO CEPEDA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SALTILLO, COAHUILA", id: "2430257273" },
     "13a9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "CRISTHIAN EDUARDO PEREZ PEREZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TONALA, JALISCO", id: "2531257384" },
     "14a9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "----------------", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MOLOACAN, VER", id: "2632257495" },
    "1qa9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "JESSICA ALEJANDRO MONTEJO", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "LAS CHOAPAS, VER", id: "2733257606" },
