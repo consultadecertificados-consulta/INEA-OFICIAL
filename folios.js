@@ -6,7 +6,7 @@ const baseDatos = {
     "8da9226f-6e07-41cc-81f6-23cb903e6591": { nombre: "FANNY SANCHEZ ISIDORO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MIGUEL HIDALGO, CDMX", id: "1420256273" },
     "7da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "JOAQUIN GONZALEZ GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "COATZACOALCOS, VER", id: "1319256162" },
     "2da9226f-6e07-41cc-81f6-23cb903e6333": { nombre: "RICARDO AVILA HUERTA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TLAXCALA, TLAXCALA", id: "1521256384" },
-    "0da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "YENI LIZBETH OLAN GOMEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "15-11-2025", emision: "20-11-2025", lugar: "MERIDA, YUCATAN", id: "1622256495" },
+    "0da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "MACARIO SANTIAGO DEL ANGEL", nivel: "PRIMARIA", promedio: "8.5", conclusion: "15-11-2025", emision: "20-11-2025", lugar: "TEMPOAL, VERACRUZ", id: "1622256495" },
     "4da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "RENE ALONSO CHAVEZ LUGO", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2015-10-15", emision: "2015-10-20", lugar: "CHIHUAHUA, CHIHUAHUA", id: "1723256506" },
     "3da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "MARTHA PATRICIA BRIONES GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-10-15", emision: "2025-10-20", lugar: "SALTILLO, COAHUILA", id: "1824256617" },
     "2da9226f-6e07-41cc-81f6-23cb903e6590": { nombre: "CARLOS MICHAEL GARCIA LIMA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-10-15", emision: "2025-10-20", lugar: "PUEBLA, PUEBLA", id: "1925256728" },
