@@ -51,15 +51,16 @@ const baseDatos = {
     "1da9226f-6e07-41cc-81f6-888b903e6593": { nombre: "MAYELA MARGARITA CARLOS CARLOS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEON ", id: "5662260805" },
      "6da9226f-6e07-41cc-81f6-23cb903e6663": { nombre: "ENRRIQUE GARCIA MORALES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "POZA RICA, VERACRUZ", id: "5763260916" },
    "9da92666-6e07-41cc-81f6-23cb903e6593": { nombre: "JOSE GUADALUPE JUAREZ MORALES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SOLEDAD DE GRACIANO SANCHEZ, SLP", id: "5864261027" },
-   "0888226f-6e07-41cc-81f6-23cb903e659122": { nombre: "JOSE EMMANUEL JUAREZ CONTRERAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SOLEDAD DE GRACIANO SANCHEZ, SLP", id: "5965261138" },
-    "9da9226f-6e07-41cc-81f6-999b903e6598": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "COAHUILA, COAHUILA", id: "6066261249" },
+   "0888226f-6e07-41cc-81f6-23cb903e6591": { nombre: "----------", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "5965261138" },
+    "9da9226f-6e07-41cc-81f6-999b903e6598": { nombre: "VICTOR MANUEL ESQUIVEL JUAREZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "COAHUILA, COAHUILA", id: "6066261249" },
    "3da9226f-6e07-41cc-8155-23cb903e6593": { nombre: "ISABEL MILLAN", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "YECAPIXTLA, MORELOS", id: "6167261360" },
     "folio-inf-51": { nombre: "RAMON VALDEZ SOTO", nivel: "SECUNDARIA", promedio: "7.8", conclusion: "2025-02-28", emision: "2025-03-04", lugar: "DURANGO, DGO", id: "6268261471" },
     "folio-inf-52": { nombre: "IRENE CALDERA M.", nivel: "SECUNDARIA", promedio: "9.5", conclusion: "2025-03-02", emision: "2025-03-07", lugar: "MAZATLAN, SIN", id: "6369261582" },
     "folio-inf-53": { nombre: "RUBEN DARIO LIMA", nivel: "PRIMARIA", promedio: "8.4", conclusion: "2025-03-05", emision: "2025-03-10", lugar: "ENSENADA, BC", id: "6470261693" },
     "folio-inf-54": { nombre: "KARINA MENA ROJO", nivel: "SECUNDARIA", promedio: "8.7", conclusion: "2025-03-08", emision: "2025-03-13", lugar: "CELAYA, GTO", id: "6571261804" },
     "folio-inf-55": { nombre: "SERGIO OSORIO T.", nivel: "SECUNDARIA", promedio: "7.9", conclusion: "2025-03-11", emision: "2025-03-16", lugar: "REYNOSA, TAMPS", id: "6672261915" },
-    "folio-inf-56": { nombre: "PAOLA NUÑEZ REAL", nivel: "PRIMARIA", promedio: "9.1", conclusion: "2025-03-14", emision: "2025-03-19", lugar: "TORREON, COAH", i se": { nombre: "MANUEL IBARRA VAL", nivel: "SECUNDARIA", promedio: "8.0", conclusion: "2025-03-17", emision: "2025-03-22", lugar: "CIUDAD JUAREZ", id: "6874262137" },
+    "folio-inf-56": { nombre: "PAOLA NUÑEZ REAL", nivel: "PRIMARIA", promedio: "9.1", conclusion: "2025-03-14", emision: "2025-03-19", lugar: "TORREON, COAH", id: "6773262026" },
+    "folio-inf-57": { nombre: "MANUEL IBARRA VAL", nivel: "SECUNDARIA", promedio: "8.0", conclusion: "2025-03-17", emision: "2025-03-22", lugar: "CIUDAD JUAREZ", id: "6874262137" },
     "folio-inf-58": { nombre: "GLORIA ESTEFAN O.", nivel: "SECUNDARIA", promedio: "9.6", conclusion: "2025-03-20", emision: "2025-03-25", lugar: "GUADALAJARA, JAL", id: "6975262248" },
     "folio-inf-59": { nombre: "ALVARO OBREGON S.", nivel: "PRIMARIA", promedio: "7.4", conclusion: "2025-03-23", emision: "2025-03-28", lugar: "TAPACHULA, CHIS", id: "7076262359" },
     "folio-inf-60": { nombre: "LORENA HERRERA P.", nivel: "SECUNDARIA", promedio: "8.9", conclusion: "2025-03-25", emision: "2025-03-30", lugar: "ACAPULCO, GRO", id: "7177262470" }
@@ -82,6 +83,206 @@ const baseDatos = {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
 
 
