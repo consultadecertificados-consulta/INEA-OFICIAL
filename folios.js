@@ -51,7 +51,7 @@ const baseDatos = {
     "1da9226f-6e07-41cc-81f6-888b903e6593": { nombre: "MAYELA MARGARITA CARLOS CARLOS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEON ", id: "5662260805" },
      "6da9226f-6e07-41cc-81f6-23cb903e6663": { nombre: "ENRRIQUE GARCIA MORALES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "POZA RICA, VERACRUZ", id: "5763260916" },
    "9da92666-6e07-41cc-81f6-23cb903e6593": { nombre: "JOSE GUADALUPE JUAREZ MORALES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SOLEDAD DE GRACIANO SANCHEZ, SLP", id: "5864261027" },
-   "0888226f-6e07-41cc-81f6-23cb903e6591": { nombre: "JOSE EMMANUEL JUAREZ CONTRERAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SOLEDAD DE GRACIANO SANCHEZ, SLP", id: "5965261138" },
+   "0888226f-6e07-41cc-81f6-23cb903e659122": { nombre: "JOSE EMMANUEL JUAREZ CONTRERAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SOLEDAD DE GRACIANO SANCHEZ, SLP", id: "5965261138" },
     "9da9226f-6e07-41cc-81f6-999b903e6598": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "COAHUILA, COAHUILA", id: "6066261249" },
    "3da9226f-6e07-41cc-8155-23cb903e6593": { nombre: "ISABEL MILLAN", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "YECAPIXTLA, MORELOS", id: "6167261360" },
     "folio-inf-51": { nombre: "RAMON VALDEZ SOTO", nivel: "SECUNDARIA", promedio: "7.8", conclusion: "2025-02-28", emision: "2025-03-04", lugar: "DURANGO, DGO", id: "6268261471" },
