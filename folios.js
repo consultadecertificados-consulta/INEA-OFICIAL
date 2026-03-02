@@ -60,7 +60,7 @@ const baseDatos = {
     "3da9226f-6e07-41cc-8155-23cb90000509": { nombre: "MARIA CONCEPCION LOPEZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-11-15", emision: "2024-11-20", lugar: "NICOLAS ROMERO, EDO MEX", id: "6571261804" },
     "3da9226f-6e07-41cc-8155-23cb90000508": { nombre: "ERIKA RAMIREZ MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TEMASCALCINGO, ESTADO DE MEXICO", id: "6672261915" },
     "3da9226f-6e07-41cc-8155-23cb90000505": { nombre: "BRYAN OSIRIS VEGA GAYOSO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2018-11-15", emision: "2018-11-20", lugar: "POZA RICA, VERACRUZ", id: "6773262026" },
-    "folio-inf-57": { nombre: "MANUEL IBARRA VAL", nivel: "SECUNDARIA", promedio: "8.0", conclusion: "2025-03-17", emision: "2025-03-22", lugar: "CIUDAD JUAREZ", id: "6874262137" },
+    "3da9226f-6e07-41cc-8155-23cb90000501": { nombre: "MARIA ESTHER MALDONADO NORIEGA", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTEREY, NUEVO LEON", id: "6874262137" },
     "folio-inf-58": { nombre: "GLORIA ESTEFAN O.", nivel: "SECUNDARIA", promedio: "9.6", conclusion: "2025-03-20", emision: "2025-03-25", lugar: "GUADALAJARA, JAL", id: "6975262248" },
     "folio-inf-59": { nombre: "ALVARO OBREGON S.", nivel: "PRIMARIA", promedio: "7.4", conclusion: "2025-03-23", emision: "2025-03-28", lugar: "TAPACHULA, CHIS", id: "7076262359" },
     "folio-inf-60": { nombre: "LORENA HERRERA P.", nivel: "SECUNDARIA", promedio: "8.9", conclusion: "2025-03-25", emision: "2025-03-30", lugar: "ACAPULCO, GRO", id: "7177262470" }
