@@ -1,7 +1,7 @@
 // folios.js - Base de datos completa de certificados INEA (60 Registros)
 const baseDatos = {
     // --- FOLIOS ORIGINALES (UUID) ---
-    "9da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "ANTONIO EMBARCADERO NAVA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TLALNEPANTLA, EDO MEX", id: "0410255274" },
+    "9da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "WILDER RAMON ZELAYA FUNEZ", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2018-11-15", emision: "2018-11-20", lugar: "EL CARMEN, NUEVO LEÓN", id: "0410255274" },
     "8ea8226f-5f07-41cc-81f6-23cb903e7502": { nombre: "NANCY KARINA RODRIGUEZ DUEÑES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SALTILL0, COAHUILA", id: "0511255380" },
     "8da9226f-6e07-41cc-81f6-23cb903e6591": { nombre: "FANNY SANCHEZ ISIDORO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MIGUEL HIDALGO, CDMX", id: "1420256273" },
     "7da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "JOAQUIN GONZALEZ GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "COATZACOALCOS, VER", id: "1319256162" },
