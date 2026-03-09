@@ -114,7 +114,7 @@ const baseDatos = {
     "8xy9226f-2e07-87cc-81f6-23cb903e65t7": { nombre: "TOMAS DE JESÚS LÓPEZ", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "JIUTEPEC, MORELOS", id: "1184267147" },
     "9yz9226f-3e07-88cc-81f6-23cb903e65u8": { nombre: "ANDREA MICHELLE MORA", nivel: "SECUNDARIA", promedio: "9.1", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "METEPEC, ESTADO DE MEXICO", id: "1195267258" },
     "0za9226f-4e07-89cc-81f6-23cb903e65v9": { nombre: "BENJAMIN FRANKLIN RUIZ", nivel: "SECUNDARIA", promedio: "8.4", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CHOLULA, PUEBLA", id: "1206267369" },
-    "1ab9226f-5e07-90cc-81f6-23cb903e65w0": { nombre: "GUADALUPE VICTORIA MARIN", nivel: "PRIMARIA", promedio: "8.7", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SAN JUAN DEL RIO, QRO", id: "1217267470" }
+    "1ab9226f-5e07-90cc-81f6-23cb903e65w0": { nombre: "GUADALUPE VICTORIA MARIN", nivel: "PRIMARIA", promedio: "8.7", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SAN JUAN DEL RIO, QRO", id: "1217267470" },
 };
 
 
