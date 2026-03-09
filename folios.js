@@ -153,7 +153,7 @@ const baseDatos = {
     "7d8d8d9e-c0d1-4e24-c5d6-e7f890a1b2c7": { nombre: "VALENTIN ELIZALDE V.", nivel: "SECUNDARIA", promedio: "8.0", conclusion: "2027-02-12", emision: "2027-02-22", lugar: "NAVOJOA, SONORA", id: "3845278557" },
     "8e8e8ea0-d1e2-4f35-d6e7-f890a1b2c3d8": { nombre: "WENDY GONZALEZ", nivel: "PRIMARIA", promedio: "9.2", conclusion: "2027-02-15", emision: "2027-02-25", lugar: "MONTERREY, NL", id: "3946278668" },
     "9f9f9fb1-e2f3-4a46-e7f8-90a1b2c3d4e9": { nombre: "YOLANDA MONTES T.", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2027-02-18", emision: "2027-02-28", lugar: "CDMX", id: "4047278779" },
-    "0a0a0ac2-f3a4-4b57-f890-a1b2c3d4e5f0": { nombre: "ZURITA MARIO LARA", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2027-02-20", emision: "2027-03-02", lugar: "SALTILLO, COAHUILA", id: "4148278890" },
+    "0a0a0ac2-f3a4-4b57-f890-a1b2c3d4e5f0": { nombre: ".........", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2027-02-20", emision: "2027-03-02", lugar: "SALTILLO, COAHUILA", id: "4148278890" },
     // --- FOLIOS ORIGINALES (UUID) ---
     "9da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "WILDER RAMON ZELAYA FUNEZ", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2018-11-15", emision: "2018-11-20", lugar: "EL CARMEN, NUEVO LEÓN", id: "0410255274" },
     "8ea8226f-5f07-41cc-81f6-23cb903e7502": { nombre: "ISRAEL MEXICANO IBARRA", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GENERAL ESCOBEDO, NUEVO LEON", id: "0511255380" },
