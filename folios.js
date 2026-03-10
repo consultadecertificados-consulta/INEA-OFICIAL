@@ -4,7 +4,7 @@ const baseDatos = {
     // --- NUEVOS REGISTROS SIMULADOS (50 ADICIONALES) ---
     "a1b2c3d4-e5f6-47a8-b9c0-1d2e3f4a5b61": { nombre: "ISIDRO SIERRA SALAZAR", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "MONTERREY, NUEVO LEON", id: "7278262471" },
     "b2c3d4e5-f6a7-48b9-c0d1-2e3f4a5b6c72": { nombre: "KIARA ALIZEE MURILLO MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "7379262582" },
-    "c3d4e5f6-a7b8-49c0-d1e2-3f4a5b6c7d8": { nombre: "----------", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "GUADALAJARA, JALISCO", id: "7480262693" },
+    "c3d4e5f6-a7b8-49c0-d1e2-3f4a5b6c7d8": { nombre: "EZEQUIEL YALEZ HINOJOSA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2016-11-15", emision: "2016-11-20", lugar: "REYNOSA ,TAMAULIPAS", id: "7480262693" },
     "d4e5f6a7-b8c9-40d1-e2f3-4a5b6c7d8e94": { nombre: "JOSE ANTONIO VASQUEZ LOPEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-07-08", emision: "2015-07-15", lugar: "SANTIAGO LACHIGUIRI TEHUANTEPEC, OAXACA", id: "7581262804" },
     "e5f6a7b8-c9d0-41e2-f3a4-5b6c7d8e9f05": { nombre: ".......", nivel: "PRIMARIA", promedio: "7.9", conclusion: "2026-01-25", emision: "2026-02-02", lugar: "REYNOSA, TAMAULIPAS", id: "7682262915" },
     "f6a7b8c9-d0e1-42f3-a4b5-6c7d8e9f0a16": { nombre: "FABIOLA TORRES RIVAS", nivel: "SECUNDARIA", promedio: "9.4", conclusion: "2026-01-28", emision: "2026-02-05", lugar: "MERIDA, YUCATAN", id: "7783263026" },
