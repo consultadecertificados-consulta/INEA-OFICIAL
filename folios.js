@@ -6,7 +6,7 @@ const baseDatos = {
     "b2c3d4e5-f6a7-48b9-c0d1-2e3f4a5b6c72": { nombre: "KIARA ALIZEE MURILLO MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "7379262582" },
     "c3d4e5f6-a7b8-49c0-d1e2-3f4a5b6c7d8": { nombre: "EZEQUIEL YAÑEZ HINOJOSA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2016-11-15", emision: "2016-11-20", lugar: "REYNOSA ,TAMAULIPAS", id: "7480262693" },
     "d4e5f6a7-b8c9-40d1-e2f3-4a5b6c7d8e94": { nombre: "JOSE ANTONIO VASQUEZ LOPEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-07-08", emision: "2015-07-15", lugar: "SANTIAGO LACHIGUIRI TEHUANTEPEC, OAXACA", id: "7581262804" },
-    "e5f6a7b8-c9d0-41e2-f3a4-5b6c7d8e9f05": { nombre: ".......", nivel: "PRIMARIA", promedio: "7.9", conclusion: "2026-01-25", emision: "2026-02-02", lugar: "REYNOSA, TAMAULIPAS", id: "7682262915" },
+    "e5f6a7b8-c9d0-41e2-f3a4-5b6c7d8e9f05": { nombre: "MARIANO ISMAEL ROSAS SANTIAGO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "7682262915" },
     "f6a7b8c9-d0e1-42f3-a4b5-6c7d8e9f0a16": { nombre: "----", nivel: "SECUNDARIA", promedio: "9.4", conclusion: "2026-01-28", emision: "2026-02-05", lugar: "MERIDA, YUCATAN", id: "7783263026" },
     "a7b8c9d0-e1f2-43a4-b5c6-7d8e9f0a1b27": { nombre: "----", nivel: "SECUNDARIA", promedio: "8.8", conclusion: "2026-02-01", emision: "2026-02-10", lugar: "SALTILLO, COAHUILA", id: "7884263137" },
     "b8c9d0e1-f2a3-44b5-c6d7-8e9f0a1b2c38": { nombre: "HUGO ENRIQUE MEZA", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2026-02-03", emision: "2026-02-12", lugar: "TIJUANA, BC", id: "7985263248" },
