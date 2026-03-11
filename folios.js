@@ -8,7 +8,7 @@ const baseDatos = {
     "d4e5f6a7-b8c9-40d1-e2f3-4a5b6c7d8e94": { nombre: "JOSE ANTONIO VASQUEZ LOPEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-07-08", emision: "2015-07-15", lugar: "SANTIAGO LACHIGUIRI TEHUANTEPEC, OAXACA", id: "7581262804" },
     "e5f6a7b8-c9d0-41e2-f3a4-5b6c7d8e9f05": { nombre: "MARIANO ISMAEL ROSAS SANTIAGO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "7682262915" },
     "f6a7b8c9-d0e1-42f3-a4b5-6c7d8e9f0a16": { nombre: "MARIA DEL REFUGIO SANTIAGO HARO", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2025-11-17", emision: "2025-11-22", lugar: "GUADALAJARA, JALISCO", id: "7783263026" },
-    "a7b8c9d0-e1f2-43a4-b5c6-7d8e9f0a1b2": { nombre: "RICARDO YAÑES MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-08-15", emision: "2024-08-20", lugar: "REYNOSA, TAMAULIPAS", id: "7884263137" },
+    "a7b8c9d0-e1f2-43a4-b5c6-7d8e9f0a1b2": { nombre: "RICARDO YAÑEZ MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-08-15", emision: "2024-08-20", lugar: "REYNOSA, TAMAULIPAS", id: "7884263137" },
     "b8c9d0e1-f2a3-44b5-c6d7-8e9f0a1b2c38": { nombre: "....", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2026-02-03", emision: "2026-02-12", lugar: "TIJUANA, BC", id: "7985263248" },
     "c9d0e1f2-a3b4-45c6-d7e8-9f0a1b2c3d49": { nombre: "IRIS XIMENA VALDEZ", nivel: "SECUNDARIA", promedio: "9.1", conclusion: "2026-02-05", emision: "2026-02-15", lugar: "LEON, GUANAJUATO", id: "8086263359" },
     "d0e1f2a3-b4c5-46d7-e8f9-0a1b2c3d4e50": { nombre: "JORGE LUIS PERAZA", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2026-02-08", emision: "2026-02-18", lugar: "CANCUN, Q. ROO", id: "8187263470" },
