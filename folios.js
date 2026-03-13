@@ -9,7 +9,7 @@ const baseDatos = {
     "e5f6a7b8-c9d0-41e2-f3a4-5b6c7d8e9f05": { nombre: "MARIANO ISMAEL ROSAS SANTIAGO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "7682262915" },
     "f6a7b8c9-d0e1-42f3-a4b5-6c7d8e9f0a16": { nombre: "MARIA DEL REFUGIO SANTIAGO HARO", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2025-11-17", emision: "2025-11-22", lugar: "GUADALAJARA, JALISCO", id: "7783263026" },
     "a7b8c9d0-e1f2-43a4-b5c6-7d8e9f0a1b2": { nombre: "RICARDO YAÑEZ MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-08-15", emision: "2024-08-20", lugar: "REYNOSA, TAMAULIPAS", id: "7884263137" },
-    "b8c9d0e1-f2a3-44b5-c6d7-8e9f0a1b2c3": { nombre: "LUIS VAZQUEZ CHAPARRO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2017-11-15", emision: "2017-11-20", lugar: "IZTAPALAPA, CIUDAD DE MEXICO", id: "7985263248" },
+    "b8c9d0e1-f2a3-44b5-c6d7-8e9f0a1b2c-": { nombre: "LUIS VAZQUEZ CHAPARRO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2017-11-15", emision: "2017-11-20", lugar: "IZTAPALAPA, CIUDAD DE MEXICO", id: "7985263248" },
     "c9d0e1f2-a3b4-45c6-d7e8-9f0a1b2c3d49": { nombre: "----", nivel: "SECUNDARIA", promedio: "9.1", conclusion: "2026-02-05", emision: "2026-02-15", lugar: "LEON, GUANAJUATO", id: "8086263359" },
     "d0e1f2a3-b4c5-46d7-e8f9-0a1b2c3d4e50": { nombre: "JORGE LUIS PERAZA", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2026-02-08", emision: "2026-02-18", lugar: "CANCUN, Q. ROO", id: "8187263470" },
     "e1f2a3b4-c5d6-47e8-f90a-1b2c3d4e5f61": { nombre: "KARLA VANESSA LOPEZ", nivel: "PRIMARIA", promedio: "9.5", conclusion: "2026-02-10", emision: "2026-02-20", lugar: "VERACRUZ, VER", id: "8288263581" },
