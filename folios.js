@@ -10,7 +10,7 @@ const baseDatos = {
     "f6a7b8c9-d0e1-42f3-a4b5-6c7d8e9f0a16": { nombre: "MARIA DEL REFUGIO SANTIAGO HARO", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2025-11-17", emision: "2025-11-22", lugar: "GUADALAJARA, JALISCO", id: "7783263026" },
     "a7b8c9d0-e1f2-43a4-b5c6-7d8e9f0a1b2": { nombre: "RICARDO YAÑEZ MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-08-15", emision: "2024-08-20", lugar: "REYNOSA, TAMAULIPAS", id: "7884263137" },
     "b8c9d0e1-f2a3-44b5-c6d7-8e9f0a1b2c": { nombre: "FELIPE  DE JESUS RUIZ SALDAÑA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "COATEPEC, VERACRUZ", id: "7985263248" },
-    "c9d0e1f2-a3b4-45c6-d7e8-9f0a1b2c3d49": { nombre: "----", nivel: "SECUNDARIA", promedio: "9.1", conclusion: "2026-02-05", emision: "2026-02-15", lugar: "LEON, GUANAJUATO", id: "8086263359" },
+    "c9d0e1f2-a3b4-45c6-d7e8-9f0a1b2c3d49": { nombre: "SALOME GERARDO LOPEZ ESPINO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MATAMOROS,TAMAULIPAS", id: "8086263359" },
     "d0e1f2a3-b4c5-46d7-e8f9-0a1b2c3d4e50": { nombre: "------", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2026-02-08", emision: "2026-02-18", lugar: "CANCUN, Q. ROO", id: "8187263470" },
     "e1f2a3b4-c5d6-47e8-f90a-1b2c3d4e5f61": { nombre: "KARLA VANESSA LOPEZ", nivel: "PRIMARIA", promedio: "9.5", conclusion: "2026-02-10", emision: "2026-02-20", lugar: "VERACRUZ, VER", id: "8288263581" },
     "f2a3b4c5-d6e7-48f9-0a1b-2c3d4e5f6a72": { nombre: "LUIS ALBERTO MORALES", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2026-02-12", emision: "2026-02-22", lugar: "MORELIA, MICHOACAN", id: "8389263692" },
