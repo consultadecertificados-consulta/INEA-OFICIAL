@@ -12,7 +12,7 @@ const baseDatos = {
     "b8c9d0e1-f2a3-44b5-c6d7-8e9f0a1b2c": { nombre: "FELIPE  DE JESUS RUIZ SALDAÑA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "COATEPEC, VERACRUZ", id: "7985263248" },
     "c9d0e1f2-a3b4-45c6-d7e8-9f0a1b2c3d49": { nombre: "SALOME GERARDO LOPEZ ESPINO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MATAMOROS,TAMAULIPAS", id: "8086263359" },
     "d0e1f2a3-b4c5-46d7-e8f9-0a1b2c3d4e50": { nombre: "JOSE RAUL RODRIGUEZ ANAYA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "8187263470" },
-    "e1f2a3b4-c5d6-47e8-f90a-1b2c3d4e5f61": { nombre: "ANAI RAFAELA MURILLO MARTINEZ", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "8288263581" },
+    "e1f2a3b4-c5d6-47e8-f90a-1b2c3d4e5f6": { nombre: "ANAI RAFAELA MURILLO MARTINEZ", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "8288263581" },
     "f2a3b4c5-d6e7-48f9-0a1b-2c3d4e5f6a72": { nombre: ".....", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2026-02-12", emision: "2026-02-22", lugar: "MORELIA, MICHOACAN", id: "8389263692" },
     "a3b4c5d6-e7f8-490a-1b2c-3d4e5f6a7b83": { nombre: "MONICA IVETTE SALAS", nivel: "SECUNDARIA", promedio: "8.9", conclusion: "2026-02-15", emision: "2026-02-25", lugar: "QUERETARO, QRO", id: "8490263803" },
     "b4c5d6e7-f890-4a1b-2c3d-4e5f6a7b8c94": { nombre: "NORBERTO DIAZ RUIZ", nivel: "PRIMARIA", promedio: "8.1", conclusion: "2026-02-18", emision: "2026-02-28", lugar: "PACHUCA, HIDALGO", id: "8591263914" },
