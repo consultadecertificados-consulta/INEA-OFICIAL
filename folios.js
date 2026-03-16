@@ -15,7 +15,7 @@ const baseDatos = {
     "e1f2a3b4-c5d6-47e8-f90a-1b2c3d98767": { nombre: "JOSE ALBERTO CEPEDA MORAN", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEON", id: "8288263581" },
     "f2a3b4c5-d6e7-48f9-0a1b-2c3d4e554328": { nombre: "ANAI RAFAELA MURILLO MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "8389263692" },
     "a3b4c5d6-e7f8-490a-1b2c-3d4e5f6a7b83": { nombre: "ALEJANDRO GOMEZ JIMENEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ECATEPEC, ESTADO DE MÉXICO", id: "8490263803" },
-    "b4c5d6e7-f890-4a1b-2c3d-4e5f6a7b8c94": { nombre: "JORGE LUIS GLORIA MENDOZA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-11-15", emision: "2024-11-20", lugar: "JUAREZ , NUEVO LEON", id: "8591263914" },
+    "b4c5d6e7-f890-4a1b-2c3d-4e5f6a7b8c9-": { nombre: "JORGE LUIS GLORIA MENDOZA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-11-15", emision: "2024-11-20", lugar: "JUAREZ , NUEVO LEON", id: "8591263914" },
     "c5d6e7f8-90a1-4b2c-3d4e-5f6a7b8c9d05": { nombre: ".......", nivel: "SECUNDARIA", promedio: "8.4", conclusion: "2026-02-20", emision: "2026-03-02", lugar: "OAXACA, OAXACA", id: "8692264025" },
     "d6e7f890-a1b2-4c3d-4e5f-6a7b8c9d0e16": { nombre: "PATRICIA NOEMI SOLIS", nivel: "SECUNDARIA", promedio: "9.0", conclusion: "2026-02-22", emision: "2026-03-05", lugar: "TLAXCALA, TLAX", id: "8793264136" },
     "e7f890a1-b2c3-4d4e-5f6a-7b8c9d0e1f27": { nombre: "QUINTIN FLORES HERRERA", nivel: "PRIMARIA", promedio: "8.7", conclusion: "2026-02-25", emision: "2026-03-08", lugar: "COLIMA, COLIMA", id: "8894264247" },
