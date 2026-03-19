@@ -19,7 +19,7 @@ const baseDatos = {
     "c5d6e7f8-90a1-4b2c-3d4e-5f6a7b8c9d05": { nombre: "JAZMIN HERNANDEZ MANCILLA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TOLUCA, ESTADO DE MÉXICO", id: "8692264025" },
     "d6e7f890-a1b2-4c3d-4e5f-6a7b8c9d0e": { nombre: "LUIS VAZQUEZ CHAPARRO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2017-08-15", emision: "2017-08-20", lugar: "IZTAPALAPA, CIUDAD DE MEXICO", id: "8793264136" },
     "e7f890a1-b2c3-4d4e-5f6a-7b8c9d0e1f27": { nombre: "CAROLINA BUENROSTRO UREÑA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "8894264247" },
-    "f890a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a38": { nombre: "JESSICA MARTINEZ GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2007-11-15", emision: "2007-11-20", lugar: "IRAPUATO, GUANAJUATO", id: "8995264358" },
+    "f890a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a3-": { nombre: "JESSICA MARTINEZ GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2007-11-15", emision: "2007-11-20", lugar: "IRAPUATO, GUANAJUATO", id: "8995264358" },
     "90a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b49": { nombre: "......", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2026-03-02", emision: "2026-03-12", lugar: "CUERNAVACA, MORELOS", id: "9096264469" },
     "0a1b2c3d-4e5f-46a7-b8c9-d0e1f2a3b4c0": { nombre: "TANIA LIZBETH OCHOA", nivel: "PRIMARIA", promedio: "9.3", conclusion: "2026-03-05", emision: "2026-03-15", lugar: "CULIACAN, SINALOA", id: "9197264570" },
     "1b2c3d4e-5f6a-47b8-c9d0-e1f2a3b4c5d1": { nombre: "URIELL VARGAS LARA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2026-03-08", emision: "2026-03-18", lugar: "DURANGO, DURANGO", id: "9298264681" },
