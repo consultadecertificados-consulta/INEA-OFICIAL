@@ -30,7 +30,7 @@ const baseDatos = {
     "6a7b8c9d-0e1f-42a3-b4c5-d6e7f890a1b6": { nombre: "EMMANUEL GONZALEZ PERALES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CIENEGA DE FLORES, NUEVO LEÓN", id: "9713265236" },
     "7b8c9d0e-1f2a-43b4-c5d6-e7f890a1b2c7": { nombre: "MIA ELIZABETH FIGUEROA LOZANO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TECATE,BC", id: "9814265347" },
     "8c9d0e1f-2a3b-44c5-d6e7-f890a1b2c3d8": { nombre: "FREDY RAFAEL DELFIN ABAD", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2023-11-15", emision: "2023-11-20", lugar: "REYNOSA ,TAMAULIPAS", id: "9915265458" },
-    "9d0e1f2a-3b4c-45d6-e7f8-90a1b2c3d4e9": { nombre: "ERICK FRANCISCO NOGUEZ GUZMAN", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "ECATEPEC DE MORELOS, ESTADO DE MÉXICO", id: "1016265569" },
+    "9d0e1f2a-3b4c-45d6-e7f8-90a1b2c3d4e-": { nombre: ".....", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "ECATEPEC DE MORELOS, ESTADO DE MÉXICO", id: "1016265569" },
     "0e1f2a3b-4c5d-46e7-f890-a1b2c3d4e5f0": { nombre: "......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2026-03-30", emision: "2026-04-10", lugar: "TUXTLA, CHIAPAS", id: "1117265670" },
     "1f2a3b4c-5d6e-47f8-90a1-b2c3d4e5f6a1": { nombre: "ESTEBAN QUITO ROJAS", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2026-04-02", emision: "2026-04-12", lugar: "TEPIC, NAYARIT", id: "1218265781" },
     "2a3b4c5d-6e7f-4809-a1b2-c3d4e5f6a7b2": { nombre: "FLOR DE MARIA POOT", nivel: "PRIMARIA", promedio: "9.1", conclusion: "2026-04-05", emision: "2026-04-15", lugar: "MERIDA, YUCATAN", id: "1319265892" },
