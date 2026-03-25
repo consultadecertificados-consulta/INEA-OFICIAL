@@ -34,7 +34,7 @@ const baseDatos = {
     "0e1f2a3b-4c5d-46e7-f890-a1b2c3d4e5f0": { nombre: "LUIS ANGEL GALAVIZ ARREAGA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2022-11-15", emision: "2022-11-20", lugar: "GUADALUPE, NUEVO LEÓN", id: "1117265670" },
     "1f2a3b4c-5d6e-47f8-90a1-b2c3d4e5f611": { nombre: "IVAN  TORRES  HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "EL CARMEN, NUEVO LEÓN", id: "1218265781" },
     "2a3b4c5d-6e7f-4809-a1b2-c3d4e5f6a7b2": { nombre: "------", nivel: "PRIMARIA", promedio: "9.1", conclusion: "2026-04-05", emision: "2026-04-15", lugar: "MERIDA, YUCATAN", id: "1319265892" },
-    "3b4c5d6e-7f89-490a-1b2c-3d4e5f6a7b83": { nombre: "GERARDO LOZA REYES", nivel: "SECUNDARIA", promedio: "8.4", conclusion: "2026-04-08", emision: "2026-04-18", lugar: "GUADALAJARA, JALISCO", id: "1420266003" },
+    "3b4c5d6e-7f89-490a-1b2c-3d4e5f6a7b83": { nombre: "------", nivel: "SECUNDARIA", promedio: "8.4", conclusion: "2026-04-08", emision: "2026-04-18", lugar: "GUADALAJARA, JALISCO", id: "1420266003" },
     "4c5d6e7f-890a-4a1b-2c3d-4e5f6a7b8c94": { nombre: "HECTOR MANUEL VELA", nivel: "SECUNDARIA", promedio: "8.8", conclusion: "2026-04-10", emision: "2026-04-20", lugar: "MONTERREY, NL", id: "1521266114" },
     "5d6e7f89-0a1b-4b2c-3d4e-5f6a7b8c9d05": { nombre: "IVETTE ALEJANDRA", nivel: "PRIMARIA", promedio: "9.7", conclusion: "2026-04-12", emision: "2026-04-22", lugar: "CIUDAD DE MEXICO", id: "1622266225" },
     "6d7e8f90-a1b2-4c3d-4e5f-6a7b8c9d0e16": { nombre: "JAVIER DUARTE FRUTOS", nivel: "SECUNDARIA", promedio: "7.8", conclusion: "2026-04-15", emision: "2026-04-25", lugar: "VERACRUZ, VER", id: "1723266336" },
