@@ -36,7 +36,7 @@ const baseDatos = {
     "2a3b4c5d-6e7f-4809-a1b2-c3d4e5f6a7b": { nombre: "LUIS FERNANDO AMADOR VAZQUEZ", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2014-11-15", emision: "2014-11-20", lugar: "REYNOSA, TAMAULIPAS", id: "1319265892" },
     "3b4c5d6e-7f89-490a-1b2c-3d4e5f6a7b83": { nombre: "ANALLELY ABARCA RAMOS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2018-11-15", emision: "2018-11-20", lugar: "TLAJOMULCO DE ZUÑIGA, JALISCO", id: "1420266003" },
     "4c5d6e7f-890a-4a1b-2c3d-4e5f6a7b8c94": { nombre: ".....", nivel: "SECUNDARIA", promedio: "8.8", conclusion: "2026-04-10", emision: "2026-04-20", lugar: "MONTERREY, NL", id: "1521266114" },
-    "5d6e7f89-0a1b-4b2c-3d4e-5f6a7b8c9d05": { nombre: "IVETTE ALEJANDRA", nivel: "PRIMARIA", promedio: "9.7", conclusion: "2026-04-12", emision: "2026-04-22", lugar: "CIUDAD DE MEXICO", id: "1622266225" },
+    "5d6e7f89-0a1b-4b2c-3d4e-5f6a7b8c9d05": { nombre: "-----", nivel: "PRIMARIA", promedio: "9.7", conclusion: "2026-04-12", emision: "2026-04-22", lugar: "CIUDAD DE MEXICO", id: "1622266225" },
     "6d7e8f90-a1b2-4c3d-4e5f-6a7b8c9d0e16": { nombre: "JAVIER DUARTE FRUTOS", nivel: "SECUNDARIA", promedio: "7.8", conclusion: "2026-04-15", emision: "2026-04-25", lugar: "VERACRUZ, VER", id: "1723266336" },
     "7e8f90a1-b2c3-4d4e-5f6a-7b8c9d0e1f27": { nombre: "KAREN LIZETH SALAS", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2026-04-18", emision: "2026-04-28", lugar: "AGUASCALIENTES, AGS", id: "1824266447" },
     "8f90a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a38": { nombre: "LEONARDO DICAPRIO M.", nivel: "PRIMARIA", promedio: "8.0", conclusion: "2026-04-20", emision: "2026-04-30", lugar: "MATAHUALA, SLP", id: "1925266558" },
