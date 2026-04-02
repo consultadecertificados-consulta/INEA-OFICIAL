@@ -38,7 +38,7 @@ const baseDatos = {
     "4c5d6e7f-890a-4a1b-2c3d-4e5f6a7b8c94": { nombre: "MARIA DE LOS ANGELES GUTIERREZ TORRES", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NL", id: "1521266114" },
     "5d6e7f89-0a1b-4b2c-3d4e-5f6a7b8c9d05": { nombre: "MA  ESTHER ARAIZA NUÑEZ", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ELOTA, SINALOA", id: "1622266225" },
     "6d7e8f90-a1b2-4c3d-4e5f-6a7b8c9d0e16": { nombre: "-----S", nivel: "SECUNDARIA", promedio: "7.8", conclusion: "2026-04-15", emision: "2026-04-25", lugar: "VERACRUZ, VER", id: "1723266336" },
-    "7e8f90a1-b2c3-4d4e-5f6a-7b8c9d0e1f27": { nombre: "KAREN LIZETH SALAS", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2026-04-18", emision: "2026-04-28", lugar: "AGUASCALIENTES, AGS", id: "1824266447" },
+    "7e8f90a1-b2c3-4d4e-5f6a-7b8c9d0e1f27": { nombre: "........S", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2026-04-18", emision: "2026-04-28", lugar: "AGUASCALIENTES, AGS", id: "1824266447" },
     "8f90a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a38": { nombre: "LEONARDO DICAPRIO M.", nivel: "PRIMARIA", promedio: "8.0", conclusion: "2026-04-20", emision: "2026-04-30", lugar: "MATAHUALA, SLP", id: "1925266558" },
     "90a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b49": { nombre: "MIRIAM GUADALUPE", nivel: "SECUNDARIA", promedio: "9.2", conclusion: "2026-04-22", emision: "2026-05-02", lugar: "APODACA, NL", id: "2026266669" },
     "a1b2c3d4-4e5f-46a7-b8c9-d0e1f2a3b4c0": { nombre: "NIDIA ARACELI LARA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2026-04-25", emision: "2026-05-05", lugar: "CELAYA, GUANAJUATO", id: "2127266770" },
