@@ -42,7 +42,7 @@ const baseDatos = {
     "8f90a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a38": { nombre: "JOSE FELIPE FLORES GUILLEN", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2025-02-08", emision: "2025-03-03", lugar: "APATZINGÁN, MICHOACÁN", id: "1925266558" },
     "90a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b49": { nombre: "JESUS PORFIRIO BARRAGAN CABRERA", nivel: "SECUNDARIA", promedio: "7.8", conclusion: "2024-08-23", emision: "2024-08-25", lugar: "COLIMA, COLIMA", id: "2026266669" },
     "a1b2c3d4-4e5f-46a7-b8c9-d0e1f2a3b4c0": { nombre: "LIDIA LOPEZ CARDENAS", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CARDENAS ,TABASCO", id: "2127266770" },
-    "b2c3d4e5-5f6a-47b8-c9d0-e1f2a3b4c5d1": { nombre: "JULIO CESAR MARTINEZ RUELAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2018-11-15", emision: "2018-11-20", lugar: "PUERTO VALLARTA ,JALISCO", id: "2228266881" },
+    "b2c3d4e5-5f6a-47b8-c9d0-e1f2a3b4c5d-": { nombre: "JULIO CESAR MARTINEZ RUELAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2018-11-15", emision: "2018-11-20", lugar: "PUERTO VALLARTA ,JALISCO", id: "2228266881" },
     "c3d4e5f6-6a7b-48c9-d0e1-f2a3b4c5d6e2": { nombre: "ANA CRISTINA MARTINEZ MARQUEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "VALLE HERMOSO, TAMAULIPAS", id: "2329266992" },
     "d4e5f6a7-7b8c-49d0-e1f2-a3b4c5d6e7f3": { nombre: ".....", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2026-05-05", emision: "2026-05-15", lugar: "GUAYMAS, SONORA", id: "2430267103" },
     "e5f6a7b8-8c9d-40e1-f2a3-b4c5d6e7f894": { nombre: "SARA ELIZONDO RUIZ", nivel: "PRIMARIA", promedio: "9.5", conclusion: "2026-05-08", emision: "2026-05-18", lugar: "MONTERREY, NL", id: "2531267214" },
