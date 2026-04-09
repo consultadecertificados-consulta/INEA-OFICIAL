@@ -44,7 +44,7 @@ const baseDatos = {
     "a1b2c3d4-4e5f-46a7-b8c9-d0e1f2a3b4c0": { nombre: "LIDIA LOPEZ CARDENAS", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CARDENAS ,TABASCO", id: "2127266770" },
     "b2c3d4e5-5f6a-47b8-c9d0-e1f2a3b4c5d": { nombre: "KARLA SARAY SOLIS HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2018-11-15", emision: "2018-11-20", lugar: "TECAMAC, ESTADO DE MEXICO", id: "2228266881" },
     "c3d4e5f6-6a7b-48c9-d0e1-f2a3b4c5d6e-": { nombre: "ANA CRISTINA MARTINEZ MARQUEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "VALLE HERMOSO, TAMAULIPAS", id: "2329266992" },
-    "d4e5f6a7-7b8c-49d0-e1f2-a3b4c5d6e7f3": { nombre: "RUT YALILA FRANCO FIGUEROA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-11-15", emision: "2024-11-20", lugar: "JALISCO, JALISCO ", id: "2430267103" },
+    "d4e5f6a7-7b8c-49d0-e1f2-a3b4c5d6e7f-": { nombre: "RUT YALILA FRANCO FIGUEROA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-11-15", emision: "2024-11-20", lugar: "JALISCO, JALISCO ", id: "2430267103" },
     "e5f6a7b8-8c9d-40e1-f2a3-b4c5d6e7f894": { nombre: "SARA ELIZONDO RUIZ", nivel: "PRIMARIA", promedio: "9.5", conclusion: "2026-05-08", emision: "2026-05-18", lugar: "MONTERREY, NL", id: "2531267214" },
     "f6a7b8c9-9d0e-41f2-a3b4-c5d6e7f890a5": { nombre: "TOMAS SANTIAGO SOSA", nivel: "SECUNDARIA", promedio: "8.4", conclusion: "2026-05-10", emision: "2026-05-20", lugar: "PUEBLA, PUEBLA", id: "2632267325" },
     "6a7b8c9d-1e1f-42a3-b4c5-d6e7f890a1b6": { nombre: "URSULA CORBERO M.", nivel: "SECUNDARIA", promedio: "8.7", conclusion: "2026-05-12", emision: "2026-05-22", lugar: "CIUDAD JUAREZ, CHIH", id: "2733267436" },
