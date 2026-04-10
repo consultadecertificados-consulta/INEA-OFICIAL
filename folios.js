@@ -45,7 +45,7 @@ const baseDatos = {
     "b2c3d4e5-5f6a-47b8-c9d0-e1f2a3b4c5d": { nombre: "KARLA SARAY SOLIS HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2018-11-15", emision: "2018-11-20", lugar: "TECAMAC, ESTADO DE MEXICO", id: "2228266881" },
     "c3d4e5f6-6a7b-48c9-d0e1-f2a3b4c5d6e-": { nombre: "ANA CRISTINA MARTINEZ MARQUEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "VALLE HERMOSO, TAMAULIPAS", id: "2329266992" },
     "d4e5f6a7-7b8c-49d0-e1f2-a3b4c5d6e7f-": { nombre: "RUT YALILA FRANCO FIGUEROA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-11-15", emision: "2024-11-20", lugar: "JALISCO, JALISCO ", id: "2430267103" },
-    "e5f6a7b8-8c9d-40e1-f2a3-b4c5d6e7f894": { nombre: "SARA ELIZONDO RUIZ", nivel: "PRIMARIA", promedio: "9.5", conclusion: "2026-05-08", emision: "2026-05-18", lugar: "MONTERREY, NL", id: "2531267214" },
+    "e5f6a7b8-8c9d-40e1-f2a3-b4c5d6e7f894": { nombre: "JOSE GUILLERMO CAMPILLO LOPEZ", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2021-11-15", emision: "2021-11-20", lugar: "TULANCINGO DE BRAVO, HIDALGO", id: "2531267214" },
     "f6a7b8c9-9d0e-41f2-a3b4-c5d6e7f890a5": { nombre: "TOMAS SANTIAGO SOSA", nivel: "SECUNDARIA", promedio: "8.4", conclusion: "2026-05-10", emision: "2026-05-20", lugar: "PUEBLA, PUEBLA", id: "2632267325" },
     "6a7b8c9d-1e1f-42a3-b4c5-d6e7f890a1b6": { nombre: "URSULA CORBERO M.", nivel: "SECUNDARIA", promedio: "8.7", conclusion: "2026-05-12", emision: "2026-05-22", lugar: "CIUDAD JUAREZ, CHIH", id: "2733267436" },
     "7b8c9d0e-2f2a-43b4-c5d6-e7f890a1b2c7": { nombre: "VICTOR MANUEL DIAZ", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2026-05-15", emision: "2026-05-25", lugar: "ENSENADA, BC", id: "2834267547" },
