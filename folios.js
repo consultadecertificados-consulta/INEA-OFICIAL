@@ -43,7 +43,7 @@ const baseDatos = {
     "90a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b49": { nombre: "JESUS PORFIRIO BARRAGAN CABRERA", nivel: "SECUNDARIA", promedio: "7.8", conclusion: "2024-08-23", emision: "2024-08-25", lugar: "COLIMA, COLIMA", id: "2026266669" },
     "a1b2c3d4-4e5f-46a7-b8c9-d0e1f2a3b4c0": { nombre: "LIDIA LOPEZ CARDENAS", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CARDENAS ,TABASCO", id: "2127266770" },
     "b2c3d4e5-5f6a-47b8-c9d0-e1f2a3b4c5d": { nombre: "KARLA SARAY SOLIS HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2018-11-15", emision: "2018-11-20", lugar: "TECAMAC, ESTADO DE MEXICO", id: "2228266881" },
-    "c3d4e5f6-6a7b-48c9-d0e1-f2a3b4c5d6e": { nombre: ",,,,", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "GUADALUPE, CHIHUAHUA", id: "2329266992" },
+    "c3d4e5f6-6a7b-48c9-d0e1-f2a3b4c5d6e": { nombre: "MARCELO RUIZ RAMOS", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2015-08-15", emision: "2015-08-20", lugar: "COLIMA, COLIMA", id: "2329266992" },
     "d4e5f6a7-7b8c-49d0-e1f2-a3b4c5d6e7f": { nombre: ".......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-11-15", emision: "2024-11-20", lugar: "JALISCO, JALISCO ", id: "2430267103" },
     "e5f6a7b8-8c9d-40e1-f2a3-b4c5d6e7f894": { nombre: "JOSE GUILLERMO CAMPILLO LOPEZ", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2021-11-15", emision: "2021-11-20", lugar: "TULANCINGO DE BRAVO, HIDALGO", id: "2531267214" },
     "f6a7b8c9-9d0e-41f2-a3b4-c5d6e7f890a5": { nombre: ".......", nivel: "SECUNDARIA", promedio: "8.4", conclusion: "2026-05-10", emision: "2026-05-20", lugar: "PUEBLA, PUEBLA", id: "2632267325" },
