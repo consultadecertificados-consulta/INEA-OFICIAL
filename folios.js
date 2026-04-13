@@ -47,7 +47,7 @@ const baseDatos = {
     "d4e5f6a7-7b8c-49d0-e1f2-a3b4c5d6e7f": { nombre: "BLANCA ESTELA MENDOZA MENDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "EL SALTO, JALISCO", id: "2430267103" },
     "e5f6a7b8-8c9d-40e1-f2a3-b4c5d6e7f894": { nombre: "JOSE GUILLERMO CAMPILLO LOPEZ", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2021-11-15", emision: "2021-11-20", lugar: "TULANCINGO DE BRAVO, HIDALGO", id: "2531267214" },
     "f6a7b8c9-9d0e-41f2-a3b4-c5d6e7f890a5": { nombre: "YURIANA MARISOL VILLELA ACOSTA", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEÓN", id: "2632267325" },
-    "6a7b8c9d-1e1f-42a3-b4c5-d6e7f890a1b6": { nombre: "...", nivel: "SECUNDARIA", promedio: "8.7", conclusion: "2026-05-12", emision: "2026-05-22", lugar: "CIUDAD JUAREZ, CHIH", id: "2733267436" },
+    "6a7b8c9d-1e1f-42a3-b4c5-d6e7f890a1b6": { nombre: "JUAN CARLOS CAVAZOS LEAL", nivel: "PRIMARIA", promedio: "8.6", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEÓN", id: "2733267436" },
     "7b8c9d0e-2f2a-43b4-c5d6-e7f890a1b2c7": { nombre: "VICTOR MANUEL DIAZ", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2026-05-15", emision: "2026-05-25", lugar: "ENSENADA, BC", id: "2834267547" },
     "8c9d0e1f-3a3b-44c5-d6e7-f890a1b2c3d8": { nombre: "WENDY GUEVARA", nivel: "SECUNDARIA", promedio: "9.0", conclusion: "2026-05-18", emision: "2026-05-28", lugar: "LEON, GUANAJUATO", id: "2935267658" },
     "9d0e1f2a-4b4c-45d6-e7f8-90a1b2c3d4e9": { nombre: "YOLANDA ANDRADE", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2026-05-20", emision: "2026-05-30", lugar: "CDMX", id: "3036267769" },
