@@ -49,7 +49,7 @@ const baseDatos = {
     "f6a7b8c9-9d0e-41f2-a3b4-c5d6e7f890a5": { nombre: "YURIANA MARISOL VILLELA ACOSTA", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEÓN", id: "2632267325" },
     "6a7b8c9d-1e1f-42a3-b4c5-d6e7f890a1b6": { nombre: "JUAN CARLOS CAVAZOS LEAL", nivel: "PRIMARIA", promedio: "8.6", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEÓN", id: "2733267436" },
     "7b8c9d0e-2f2a-43b4-c5d6-e7f890a1b2c7": { nombre: "VICTOR MANUEL DIAZ", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2026-05-15", emision: "2026-05-25", lugar: "ENSENADA, BC", id: "2834267547" },
-    "8c9d0e1f-3a3b-44c5-d6e7-f890a1b2c3d8": { nombre: "ANDRES HERNANDEZ RUIZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NL", id: "2935267658" },
+    "8c9d0e1f-3a3b-44c5-d6e7-f890a1b2c3d-": { nombre: "ANDRES HERNANDEZ RUIZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NL", id: "2935267658" },
     "9d0e1f2a-4b4c-45d6-e7f8-90a1b2c3d4e9": { nombre: "ISMAEL OSVALDO RUIZ SALDAÑA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2019-11-15", emision: "2019-11-20", lugar: "COATEPEC, VERACRUZ", id: "3036267769" },
     "0e1f2a3b-5c5d-46e7-f890-a1b2c3d4e5f0": { nombre: "ZENON EL GRANJERO", nivel: "PRIMARIA", promedio: "9.1", conclusion: "2026-05-22", emision: "2026-06-01", lugar: "LAGOS DE MORENO, JAL", id: "3137267870" },
      // --- SEGUNDA TANDA DE REGISTROS SIMULADOS (50 ADICIONALES) ---
