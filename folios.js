@@ -55,7 +55,7 @@ const baseDatos = {
      // --- SEGUNDA TANDA DE REGISTROS SIMULADOS (50 ADICIONALES) ---
     "f7a1b2c3-d4e5-4a6b-c7d8-e9f0a1b2c3d1": { nombre: "JORGE DE JESUS SANCHEZ RAMOS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2017-11-15", emision: "2017-11-20", lugar: "PUEBLA, PUEBLA", id: "3238267981" },
     "e6b2c3d4-f5a6-4b7c-d8e9-f0a1b2c3d4e2": { nombre: "...", nivel: "SECUNDARIA", promedio: "9.1", conclusion: "2026-06-08", emision: "2026-06-18", lugar: "CIUDAD DE MEXICO", id: "3339268092" },
-    "d5c3d4e5-a6f7-4c8d-e9f0-a1b2c3d4e5f3": { nombre: "CRISTIAN CASTRO RUIZ", nivel: "PRIMARIA", promedio: "7.8", conclusion: "2026-06-10", emision: "2026-06-20", lugar: "VERACRUZ, VERACRUZ", id: "3440268203" },
+    "d5c3d4e5-a6f7-4c8d-e9f0-a1b2c3d4e5f3": { nombre: "....", nivel: "PRIMARIA", promedio: "7.8", conclusion: "2026-06-10", emision: "2026-06-20", lugar: "VERACRUZ, VERACRUZ", id: "3440268203" },
     "c4d4e5f6-b7a8-4d9e-f0a1-b2c3d4e5f6a4": { nombre: "DANIELA ROMO SOSA", nivel: "SECUNDARIA", promedio: "8.9", conclusion: "2026-06-12", emision: "2026-06-22", lugar: "ZACATECAS, ZAC", id: "3541268314" },
     "b3e5f6a7-c8b9-4e0f-a1b2-c3d4e5f6a7b5": { nombre: "ERNESTO LAGUARDIA M.", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2026-06-15", emision: "2026-06-25", lugar: "TORREON, COAHUILA", id: "3642268425" },
     "a2f6a7b8-d9c0-4f1a-b2c3-d4e5f6a7b8c6": { nombre: "FLAVIO CESAR PENICHE", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2026-06-18", emision: "2026-06-28", lugar: "MONTERREY, NL", id: "3743268536" },
