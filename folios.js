@@ -58,7 +58,7 @@ const baseDatos = {
     "d5c3d4e5-a6f7-4c8d-e9f0-a1b2c3d4e5f3": { nombre: "MARGARITA MEDINA SANDOVAL", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ZAPOPAN, JALISCO", id: "3440268203" },
     "c4d4e5f6-b7a8-4d9e-f0a1-b2c3d4e5f6a4": { nombre: "RICARDO DANIEL FERNANDEZ MEDINA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ZAPOPAN, JALISCO", id: "3541268314" },
     "b3e5f6a7-c8b9-4e0f-a1b2-c3d4e5f6a7b5": { nombre: "-----.", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2026-06-15", emision: "2026-06-25", lugar: "TORREON, COAHUILA", id: "3642268425" },
-    "a2f6a7b8-d9c0-4f1a-b2c3-d4e5f6a7b8c6": { nombre: "FLAVIO CESAR PENICHE", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2026-06-18", emision: "2026-06-28", lugar: "MONTERREY, NL", id: "3743268536" },
+    "a2f6a7b8-d9c0-4f1a-b2c3-d4e5f6a7b8c6": { nombre: "....", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2026-06-18", emision: "2026-06-28", lugar: "MONTERREY, NL", id: "3743268536" },
     "91a7b8c9-e0d1-4a2b-c3d4-e5f6a7b8c9d7": { nombre: "GLORIA TREVIÑO RUIZ", nivel: "SECUNDARIA", promedio: "9.0", conclusion: "2026-06-20", emision: "2026-06-30", lugar: "MONTERREY, NL", id: "3844268647" },
     "80b8c9d0-f1e2-4b3c-d4e5-f6a7b8c9d0e8": { nombre: "HORACIO VILLALOBOS", nivel: "SECUNDARIA", promedio: "8.7", conclusion: "2026-06-22", emision: "2026-07-02", lugar: "CIUDAD DE MEXICO", id: "3945268758" },
     "79c9d0e1-a2f3-4c4d-e5f6-a7b8c9d0e1f9": { nombre: "ITZEL MANCERA LARA", nivel: "PRIMARIA", promedio: "9.4", conclusion: "2026-06-25", emision: "2026-07-05", lugar: "LEON, GUANAJUATO", id: "4046268869" },
