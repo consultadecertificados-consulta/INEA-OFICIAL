@@ -59,7 +59,7 @@ const baseDatos = {
     "c4d4e5f6-b7a8-4d9e-f0a1-b2c3d4e5f6a4": { nombre: "RICARDO DANIEL FERNANDEZ MEDINA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ZAPOPAN, JALISCO", id: "3541268314" },
     "b3e5f6a7-c8b9-4e0f-a1b2-c3d4e5f6a7b5": { nombre: "ISABEL GUADALUPE ESPINOZA CHAPA", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SAN JOSE GARCIA, NUEVO LEÓN", id: "3642268425" },
     "a2f6a7b8-d9c0-4f1a-b2c3-d4e5f6a7b8c6": { nombre: "DIEGO VENTURA ALFARO OVIEDO", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2018-11-15", emision: "2018-11-20", lugar: "MONTERREY, NL", id: "3743268536" },
-    "91a7b8c9-e0d1-4a2b-c3d4-e5f6a7b8c9d7": { nombre: "TERESA DE JESUS ESTRADA ESTRADA", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "JUAREZ, NUEVO LEON", id: "3844268647" },
+    "91a7b8c9-e0d1-4a2b-c3d4-e5f6a7b8c9d7": { nombre: "TERESA DE JESUS ESTRADA ESTRADA", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "JUAREZ, NUEVO LEON", id: "3844268647" },
     "80b8c9d0-f1e2-4b3c-d4e5-f6a7b8c9d0e8": { nombre: ".....", nivel: "SECUNDARIA", promedio: "8.7", conclusion: "2026-06-22", emision: "2026-07-02", lugar: "CIUDAD DE MEXICO", id: "3945268758" },
     "79c9d0e1-a2f3-4c4d-e5f6-a7b8c9d0e1f9": { nombre: "ITZEL MANCERA LARA", nivel: "PRIMARIA", promedio: "9.4", conclusion: "2026-06-25", emision: "2026-07-05", lugar: "LEON, GUANAJUATO", id: "4046268869" },
     "68d0e1f2-b3a4-4d5e-f6a7-b8c9d0e1f2a0": { nombre: "JUAN CARLOS BODOQUE", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2026-06-28", emision: "2026-07-08", lugar: "SANTIAGO, CHIH", id: "4147268970" },
