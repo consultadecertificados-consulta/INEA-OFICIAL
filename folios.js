@@ -66,7 +66,7 @@ const baseDatos = {
     "57e1f2a3-c4b5-4e6f-a7b8-c9d0e1f2a3b1": { nombre: "MAYRA RODRIGUEZ CARRILLO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ZUMPANGO, ESTADO DE MÉXICO", id: "4248269081" },
     "46f2a3b4-d5c6-4f7a-b8c9-d0e1f2a3b4c2": { nombre: "ANDRES RODRIGUEZ PIÑA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2023-06-15", emision: "2023-06-20", lugar: "SAN FELIPE, GUANAJUATO", id: "4349269192" },
     "35a3b4c5-e6d7-4a8b-c9d0-e1f2a3b4c5d3": { nombre: "....", nivel: "SECUNDARIA", promedio: "9.7", conclusion: "2026-07-08", emision: "2026-07-18", lugar: "CDMX", id: "4450269303" },
-    "24b4c5d6-f7e8-4b9c-d0e1-f2a3b4c5d6e4": { nombre: "NATALIA LAFOURCADE", nivel: "SECUNDARIA", promedio: "9.2", conclusion: "2026-07-10", emision: "2026-07-20", lugar: "COATEPEC, VER", id: "4551269414" },
+    "24b4c5d6-f7e8-4b9c-d0e1-f2a3b4c5d6e4": { nombre: "ESMERALDA VARGAS LOPEZ", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CHINA, NUEVO LEON", id: "4551269414" },
     "13c5d6e7-a8f9-4c0a-1b2c-3d4e5f6a7b85": { nombre: "OCTAVIO PAZ LOZANO", nivel: "PRIMARIA", promedio: "9.9", conclusion: "2026-07-12", emision: "2026-07-22", lugar: "MIXCOAC, CDMX", id: "4652269525" },
     "02d6e7f8-b9a0-4d1b-2c3d-4e5f6a7b8c96": { nombre: "PEDRO INFANTE CRUZ", nivel: "SECUNDARIA", promedio: "8.0", conclusion: "2026-07-15", emision: "2026-07-25", lugar: "MAZATLAN, SIN", id: "4753269636" },
     "91e7f890-c0b1-4e2c-3d4e-5f6a7b8c9d07": { nombre: "QUETA JIMENEZ CH.", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2026-07-18", emision: "2026-07-28", lugar: "IRAPUATO, GTO", id: "4854269747" },
