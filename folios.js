@@ -70,7 +70,7 @@ const baseDatos = {
     "13c5d6e7-a8f9-4c0a-1b2c-3d4e5f6a7b85": { nombre: "JAVIER CABALLERO CARPIO", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2022-11-15", emision: "2022-11-20", lugar: "TULTEPEC, ESTADO DE MÉXICO", id: "4652269525" },
     "02d6e7f8-b9a0-4d1b-2c3d-4e5f6a7b8c96": { nombre: "WILLIAM ALBEIRO LIÑAN ORNELAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SAN NICOLAS DE LA GARZA, NUEVO LEON", id: "4753269636" },
     "91e7f890-c0b1-4e2c-3d4e-5f6a7b8c9d07": { nombre: "JOSE FRANCISCO GAETA SALGADO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2023-11-15", emision: "2023-11-20", lugar: "NAUCALPAN DE JUAREZ,EDO MEX", id: "4854269747" },
-    "80f890a1-d1c2-4f3d-4e5f-6a7b8c9d0e18": { nombre: ".....", nivel: "PRIMARIA", promedio: "9.3", conclusion: "2026-07-20", emision: "2026-07-30", lugar: "CDMX", id: "4955269858" },
+    "80f890a1-d1c2-4f3d-4e5f-6a7b8c9d0e18": { nombre: "CESAR DANILO LIÑAN ORNELAS", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2026-04-20", emision: "2026-04-27", lugar: "SAN NICOLAS DE LA GARZA, NUEVO LEON", id: "4955269858" },
     "79a90a1b-e2d3-4a4e-5f6a-7b8c9d0e1f29": { nombre: ".....", nivel: "SECUNDARIA", promedio: "8.8", conclusion: "2026-07-22", emision: "2026-08-01", lugar: "GUAYMAS, SON", id: "5056269969" },
     "68b0b1c2-f3e4-4b5f-6a7b-8c9d0e1f2a30": { nombre: "THALIA SODI MIRANDA", nivel: "SECUNDARIA", promedio: "9.1", conclusion: "2026-07-25", emision: "2026-08-05", lugar: "CIUDAD DE MEXICO", id: "5157270070" },
     "57c1c2d3-a4f5-4c6a-7b8c-9d0e1f2a3b41": { nombre: "USHER RAYMOND IV", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2026-07-28", emision: "2026-08-08", lugar: "MONTERREY, NL", id: "5258270181" },
