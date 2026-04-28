@@ -74,7 +74,7 @@ const baseDatos = {
     "79a90a1b-e2d3-4a4e-5f6a-7b8c9d0e1f29": { nombre: "MARIA SELENE TREJO RANGEL", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "REYNOSA, TAMAULIPAS", id: "5056269969" },
     "68b0b1c2-f3e4-4b5f-6a7b-8c9d0e1f2a30": { nombre: "PEDRO TOVAR SOTO", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "PIEDRAS NEGRAS, COAHUILA", id: "5157270070" },
     "57c1c2d3-a4f5-4c6a-7b8c-9d0e1f2a3b41": { nombre: "-----", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2026-07-28", emision: "2026-08-08", lugar: "MONTERREY, NL", id: "5258270181" },
-    "46d2d3e4-b5a6-4d7b-8c9d-0e1f2a3b4c52": { nombre: "VICENTE FERNANDEZ G.", nivel: "SECUNDARIA", promedio: "7.9", conclusion: "2026-07-30", emision: "2026-08-10", lugar: "HUENTITAN, JAL", id: "5359270292" },
+    "46d2d3e4-b5a6-4d7b-8c9d-0e1f2a3b4c52": { nombre: "----", nivel: "SECUNDARIA", promedio: "7.9", conclusion: "2026-07-30", emision: "2026-08-10", lugar: "HUENTITAN, JAL", id: "5359270292" },
     "35e3e4f5-c6b7-4e8c-9d0e-1f2a3b4c5d63": { nombre: "WENCESLAO MOCTEZUMA", nivel: "SECUNDARIA", promedio: "8.4", conclusion: "2026-08-02", emision: "2026-08-12", lugar: "TOLUCA, EDO MEX", id: "5460270403" },
     "24f4f5a6-d7c8-4f9d-0e1f-2a3b4c5d6e74": { nombre: "XAVIER LOPEZ RDZ", nivel: "PRIMARIA", promedio: "9.0", conclusion: "2026-08-05", emision: "2026-08-15", lugar: "CDMX", id: "5561270514" },
     "13a5a6b7-e8d9-4a0e-1f2a-3b4c5d6e7f85": { nombre: "YURI CANSECO VALENZUELA", nivel: "SECUNDARIA", promedio: "8.8", conclusion: "2026-08-08", emision: "2026-08-18", lugar: "VERACRUZ, VER", id: "5662270625" },
