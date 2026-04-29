@@ -77,7 +77,7 @@ const baseDatos = {
     "46d2d3e4-b5a6-4d7b-8c9d-0e1f2a3b4c5-": { nombre: "CARLOS DANIEL ZAPATA CASTRO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "LA PILA, SLP", id: "5359270292" },
     "35e3e4f5-c6b7-4e8c-9d0e-1f2a3b4c5d63": { nombre: "JUAN CARLOS VIVAR MERAZ", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2014-05-23", emision: "2014-05-25", lugar: "TEXCOCO,EDO MEX", id: "5460270403" },
     "24f4f5a6-d7c8-4f9d-0e1f-2a3b4c5d6e74": { nombre: "------", nivel: "PRIMARIA", promedio: "9.0", conclusion: "2026-08-05", emision: "2026-08-15", lugar: "CDMX", id: "5561270514" },
-    "13a5a6b7-e8d9-4a0e-1f2a-3b4c5d6e7f85": { nombre: "YURI CANSECO VALENZUELA", nivel: "SECUNDARIA", promedio: "8.8", conclusion: "2026-08-08", emision: "2026-08-18", lugar: "VERACRUZ, VER", id: "5662270625" },
+    "13a5a6b7-e8d9-4a0e-1f2a-3b4c5d6e7f85": { nombre: "-------", nivel: "SECUNDARIA", promedio: "8.8", conclusion: "2026-08-08", emision: "2026-08-18", lugar: "VERACRUZ, VER", id: "5662270625" },
     "02b6b7c8-f9a0-4b1f-2a3b-4c5d6e7f8906": { nombre: "ZOE SALDAÑA PEREZ", nivel: "SECUNDARIA", promedio: "9.5", conclusion: "2026-08-10", emision: "2026-08-20", lugar: "PLAYA DEL CARMEN, QROO", id: "5763270736" },
     "91c7c8d9-a0b1-4c2a-3b4c-5d6e7f890a17": { nombre: "ARMANDO MANZANERO", nivel: "PRIMARIA", promedio: "9.8", conclusion: "2026-08-12", emision: "2026-08-22", lugar: "MERIDA, YUCATAN", id: "5864270847" },
     "80d8d9e0-b1c2-4d3b-4c5d-6e7f890a1b28": { nombre: "BELINDA PEREGRIN", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2026-08-15", emision: "2026-08-25", lugar: "CDMX", id: "5965270958" },
