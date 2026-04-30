@@ -80,7 +80,7 @@ const baseDatos = {
     "13a5a6b7-e8d9-4a0e-1f2a-3b4c5d6e7f85": { nombre: "OSCAR CORREA MIMILA", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ECATEPEC, EDO MEX", id: "5662270625" },
     "02b6b7c8-f9a0-4b1f-2a3b-4c5d6e7f8906": { nombre: "ANA MARIA SAMANIEGO CHAVEZ", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALUPE, NL", id: "5763270736" },
     "91c7c8d9-a0b1-4c2a-3b4c-5d6e7f890a17": { nombre: "MARCOS ELOY RAMOS HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "APODACA, NUEVO LEÓN", id: "5864270847" },
-    "80d8d9e0-b1c2-4d3b-4c5d-6e7f890a1b28": { nombre: "...", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2026-08-15", emision: "2026-08-25", lugar: "CDMX", id: "5965270958" },
+    "80d8d9e0-b1c2-4d3b-4c5d-6e7f890a1b28": { nombre: "GIOVANNI DAVID TOVAR SERVIN", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TOLUCA, EDO,MEX", id: "5965270958" },
     "79e9e0f1-c2d3-4e4c-5d6e-7f890a1b2c39": { nombre: "---", nivel: "SECUNDARIA", promedio: "7.5", conclusion: "2026-08-18", emision: "2026-08-28", lugar: "TEPITO, CDMX", id: "6066271069" },
     "68f0f1a2-d3e4-4f5d-6e7f-890a1b2c3d40": { nombre: "DULCE MARIA ESPINOZA", nivel: "PRIMARIA", promedio: "8.9", conclusion: "2026-08-20", emision: "2026-08-30", lugar: "TLAXCALA, TLAX", id: "6167271170" },
     "57a1a2b3-e4d5-4a6e-7f89-0a1b2c3d4e51": { nombre: "EUGENIO DERBEZ V.", nivel: "SECUNDARIA", promedio: "8.4", conclusion: "2026-08-22", emision: "2026-09-01", lugar: "CIUDAD DE MEXICO", id: "6268271281" },
