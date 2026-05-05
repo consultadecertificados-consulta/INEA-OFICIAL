@@ -74,7 +74,7 @@ const baseDatos = {
     "79a90a1b-e2d3-4a4e-5f6a-7b8c9d0e1f29": { nombre: "MARIA SELENE TREJO RANGEL", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "REYNOSA, TAMAULIPAS", id: "5056269969" },
     "68b0b1c2-f3e4-4b5f-6a7b-8c9d0e1f2a30": { nombre: "JOSE LUIS HERNANDEZ GOMEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "NEZAHUALCÓYOTL, EDO MEX", id: "5157270070" },
     "57c1c2d3-a4f5-4c6a-7b8c-9d0e1f2a3b41": { nombre: "JOSE JOAQUIN VILLALOBOS MORENO", nivel: "SECUNDARIA", promedio: "6.8", conclusion: "14-06-2022", emision: "2022-06-14", lugar: "ECATEPEC, EDO MEX", id: "5258270181" },
-    "46d2d3e4-b5a6-4d7b-8c9d-0e1f2a3b4c52": { nombre: "......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "LA PILA, SLP", id: "5359270292" },
+    "46d2d3e4-b5a6-4d7b-8c9d-0e1f2a3b4c52": { nombre: "PERLA VERONICA ALVAREZ MIRANDA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SOLEDAD DE GRACIANO SÁNCHEZ, SLP", id: "5359270292" },
     "35e3e4f5-c6b7-4e8c-9d0e-1f2a3b4c5d63": { nombre: ".....", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2014-05-23", emision: "2014-05-25", lugar: "TEXCOCO,EDO MEX", id: "5460270403" },
     "24f4f5a6-d7c8-4f9d-0e1f-2a3b4c5d6e74": { nombre: "FRANSISCANO MARTINEZ CRISANTO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "TEZONAPA, VERACRUZ", id: "5561270514" },
     "13a5a6b7-e8d9-4a0e-1f2a-3b4c5d6e7f85": { nombre: "OSCAR CORREA MIMILA", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ECATEPEC, EDO MEX", id: "5662270625" },
