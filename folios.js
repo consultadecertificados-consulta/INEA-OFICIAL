@@ -75,7 +75,7 @@ const baseDatos = {
     "68b0b1c2-f3e4-4b5f-6a7b-8c9d0e1f2a30": { nombre: "JOSE LUIS HERNANDEZ GOMEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "NEZAHUALCÓYOTL, EDO MEX", id: "5157270070" },
     "57c1c2d3-a4f5-4c6a-7b8c-9d0e1f2a3b41": { nombre: "JOSE JOAQUIN VILLALOBOS MORENO", nivel: "SECUNDARIA", promedio: "6.8", conclusion: "14-06-2022", emision: "2022-06-14", lugar: "ECATEPEC, EDO MEX", id: "5258270181" },
     "46d2d3e4-b5a6-4d7b-8c9d-0e1f2a3b4c52": { nombre: "RENE SANTOS ARIAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2020-11-15", emision: "2020-11-20", lugar: "SOTEAPAN, VERACRUZ", id: "5359270292" },
-    "35e3e4f5-c6b7-4e8c-9d0e-1f2a3b4c5d63": { nombre: ".....", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2018-11-15", emision: "2018-11-20", lugar: "JIQUIPILCO,EDO MEX", id: "5460270403" },
+    "35e3e4f5-c6b7-4e8c-9d0e-1f2a3b4c5d63": { nombre: "JAIR ANUAR ESQUIVEL AMBRIZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-11-15", emision: "2024-11-20", lugar: "TLALNEPANTLA,EDO MEX", id: "5460270403" },
     "24f4f5a6-d7c8-4f9d-0e1f-2a3b4c5d6e74": { nombre: "FRANSISCANO MARTINEZ CRISANTO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "TEZONAPA, VERACRUZ", id: "5561270514" },
     "13a5a6b7-e8d9-4a0e-1f2a-3b4c5d6e7f85": { nombre: "OSCAR CORREA MIMILA", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ECATEPEC, EDO MEX", id: "5662270625" },
     "02b6b7c8-f9a0-4b1f-2a3b-4c5d6e7f8906": { nombre: "ANA MARIA SAMANIEGO CHAVEZ", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALUPE, NL", id: "5763270736" },
