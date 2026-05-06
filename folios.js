@@ -85,7 +85,7 @@ const baseDatos = {
     "68f0f1a2-d3e4-4f5d-6e7f-890a1b2c3d40": { nombre: "MARELI ALEJANDRO ALOR", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "JALTIPAN , VERACRUZ ", id: "6167271170" },
     "57a1a2b3-e4d5-4a6e-7f89-0a1b2c3d4e51": { nombre: "RODOLFO LEDEZMA HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "NEZAHUALCÓYOTL, EDO,MEX", id: "6268271281" },
     "46b2b3c4-f5a6-4b7f-890a-1b2c3d4e5f62": { nombre: "----", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2026-08-25", emision: "2026-09-05", lugar: "CDMX", id: "6369271392" },
-    "35c3c4d5-a6b7-4c80-a1b2-c3d4e5f6a7b3": { nombre: "GABRIEL SOTO DIAZ", nivel: "PRIMARIA", promedio: "8.0", conclusion: "2026-08-28", emision: "2026-09-08", lugar: "GUADALAJARA, JALISCO", id: "6470271503" },
+    "35c3c4d5-a6b7-4c80-a1b2-c3d4e5f6a7b3": { nombre: "----", nivel: "PRIMARIA", promedio: "8.0", conclusion: "2026-08-28", emision: "2026-09-08", lugar: "GUADALAJARA, JALISCO", id: "6470271503" },
     "24d4d4e6-b7c8-4d91-b2c3-d4e5f6a7b8c4": { nombre: "HUMBERTO ZURITA", nivel: "SECUNDARIA", promedio: "8.7", conclusion: "2026-08-30", emision: "2026-09-10", lugar: "TORREON, COAHUILA", id: "6571271614" },
     "13e5e5f7-c8d9-4e02-c3d4-e5f6a7b8c9d5": { nombre: "ITATÍ CANTORAL Z.", nivel: "SECUNDARIA", promedio: "9.1", conclusion: "2026-09-02", emision: "2026-09-12", lugar: "CDMX", id: "6672271725" },
     "02f6f6a8-d9e0-4f13-d4e5-f6a7b8c9d0e6": { nombre: "JAIME CAMIL GARZA", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2026-09-05", emision: "2026-09-15", lugar: "MONTERREY, NL", id: "6773271836" },
