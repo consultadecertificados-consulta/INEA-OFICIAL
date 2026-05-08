@@ -88,7 +88,7 @@ const baseDatos = {
     "35c3c4d5-a6b7-4c80-a1b2-c3d4e5f6a7b3": { nombre: "JOSE RUBEN DENIS PEÑA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2022-11-15", emision: "2022-11-20", lugar: "TONALA, JALISCO", id: "6470271503" },
     "24d4d4e6-b7c8-4d91-b2c3-d4e5f6a7b8c4": { nombre: "BEATRIZ JOSEFINA GONZALEZ SANCHEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-11-15", emision: "2024-11-20", lugar: "TULTITLAN, EDO MEX", id: "6571271614" },
     "13e5e5f7-c8d9-4e02-c3d4-e5f6a7b8c9d5": { nombre: "-----", nivel: "SECUNDARIA", promedio: "9.1", conclusion: "2026-09-02", emision: "2026-09-12", lugar: "CDMX", id: "6672271725" },
-    "02f6f6a8-d9e0-4f13-d4e5-f6a7b8c9d0e6": { nombre: "JAIME CAMIL GARZA", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2026-09-05", emision: "2026-09-15", lugar: "MONTERREY, NL", id: "6773271836" },
+    "02f6f6a8-d9e0-4f13-d4e5-f6a7b8c9d0e6": { nombre: "....", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2026-09-05", emision: "2026-09-15", lugar: "MONTERREY, NL", id: "6773271836" },
     "91a7a7b9-e0f1-4a24-e5f6-a7b8c9d0e1f7": { nombre: "KATE DEL CASTILLO", nivel: "SECUNDARIA", promedio: "8.8", conclusion: "2026-09-08", emision: "2026-09-18", lugar: "CIUDAD DE MEXICO", id: "6874271947" },
     "80b8b8c0-f1a2-4b35-f6a7-b8c9d0e1f2a8": { nombre: "LUCERO HOGAZA L.", nivel: "SECUNDARIA", promedio: "9.4", conclusion: "2026-09-10", emision: "2026-09-20", lugar: "CDMX", id: "6975272058" },
     "79c9c9d1-a2b3-4c46-a7b8-c9d0e1f2a3b9": { nombre: "MAITE PERRONI B.", nivel: "PRIMARIA", promedio: "9.0", conclusion: "2026-09-12", emision: "2026-09-22", lugar: "CIUDAD DE MEXICO", id: "7076272169" },
