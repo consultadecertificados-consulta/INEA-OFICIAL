@@ -92,7 +92,7 @@ const baseDatos = {
     "91a7a7b9-e0f1-4a24-e5f6-a7b8c9d0e1f7": { nombre: "MARIA DE LOURDES ESTRADA ROSAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "TLALNEPANTLA DE BAZ, EDO MEX", id: "6874271947" },
     "80b8b8c0-f1a2-4b35-f6a7-b8c9d0e1f2a8": { nombre: "VICTORIA CELINA BARAJAS BENUTO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-17", emision: "2025-07-25", lugar: "COLIMA, COLIMA", id: "6975272058" },
     "79c9c9d1-a2b3-4c46-a7b8-c9d0e1f2a3b9": { nombre: "MODESTO FAZ GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2020-11-15", emision: "2020-11-20", lugar: "MATEHUALA, SLP", id: "7076272169" },
-    "68d0d0e2-b3c4-4d57-b8c9-d0e1f2a3b4c0": { nombre: "VIVIANA HERRERA MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2023-11-15", emision: "2023-11-20", lugar: "SOLEDAD DE GRACIANO SANCHEZ, SLP", id: "7177272270" },
+    "68d0d0e2-b3c4-4d57-b8c9-d0e1f2a3b4c-": { nombre: "VIVIANA HERRERA MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2023-11-15", emision: "2023-11-20", lugar: "SOLEDAD DE GRACIANO SANCHEZ, SLP", id: "7177272270" },
     "57e1e1f3-c4d5-4e68-c9d0-e1f2a3b4c5d1": { nombre: "......", nivel: "SECUNDARIA", promedio: "8.4", conclusion: "2026-09-18", emision: "2026-09-28", lugar: "CHIHUAHUA, CHIH", id: "7278272381" },
     "46f2f2a4-d5e6-4f79-d0e1-f2a3b4c5d6e2": { nombre: "PEDRO FERNANDEZ", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2026-09-20", emision: "2026-09-30", lugar: "GUADALAJARA, JAL", id: "7379272492" },
     "35a3a3b5-e6f7-4a80-e1f2-a3b4c5d6e7f3": { nombre: "REBECA JONES F.", nivel: "SECUNDARIA", promedio: "9.3", conclusion: "2026-09-22", emision: "2026-10-02", lugar: "CIUDAD DE MEXICO", id: "7480272603" },
