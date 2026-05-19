@@ -104,7 +104,7 @@ const baseDatos = {
     "79a9a9b1-e2f3-4a46-e7f8-90a1b2c3d4e9": { nombre: "XIMENA SARIÑANA", nivel: "SECUNDARIA", promedio: "9.6", conclusion: "2026-10-08", emision: "2026-10-18", lugar: "CDMX", id: "8086273269" },
     "68b0b0c2-f3a4-4b57-f890-a1b2c3d4e5f0": { nombre: "YAHIR OTHON PARRA", nivel: "SECUNDARIA", promedio: "8.4", conclusion: "2026-10-10", emision: "2026-10-20", lugar: "HERMOSILLO, SON", id: "8187273370" },
     // --- TERCERA TANDA DE REGISTROS SIMULADOS (50 ADICIONALES) ---
-    "a1c1b2c3-d4e5-4a6b-c7d8-e9f0a1b2c3d1": { nombre: "ANA DAMARIS RAMIREZ MEJIA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2016-11-15", emision: "2016-11-15", lugar: "NEZAHUALCÓYOTL, EDO MEX", id: "8289273481" },
+    "a1c1b2c3-d4e5-4a6b-c7d8-e9f0a1b2c3d1": { nombre: "ANA DAMARIS RAMIREZ MEJIA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2016-11-15", emision: "2016-11-20", lugar: "NEZAHUALCÓYOTL, EDO MEX", id: "8289273481" },
     "b2d2c3d4-f5a6-4b7c-d8e9-f0a1b2c3d4e2": { nombre: ".....", nivel: "SECUNDARIA", promedio: "9.8", conclusion: "2026-10-15", emision: "2026-10-25", lugar: "CIUDAD GOTICA, EDOMEX", id: "8390273592" },
     "c3e3d4e5-a6f7-4c8d-e9f0-a1b2c3d4e5f3": { nombre: "CARMEN SALINAS LOZANO", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2026-10-18", emision: "2026-10-28", lugar: "TORREON, COAHUILA", id: "8491273703" },
     "d4f4e5f6-b7a8-4d9e-f0a1-b2c3d4e5f6a4": { nombre: "DAVID ALFARO SIQUEIROS", nivel: "SECUNDARIA", promedio: "9.1", conclusion: "2026-10-20", emision: "2026-10-30", lugar: "CHIHUAHUA, CHIH", id: "8592273814" },
