@@ -97,7 +97,7 @@ const baseDatos = {
     "46f2f2a4-d5e6-4f79-d0e1-f2a3b4c5d6e2": { nombre: "JORGE VIDAL CHAVEZ GOMEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "TLAJOMULCO DE ZUÑIGA, JALISCO", id: "7379272492" },
     "35a3a3b5-e6f7-4a80-e1f2-a3b4c5d6e7f3": { nombre: "JOSE ANTONIO DE LA ROSA CANO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "SANTA MARÍA DEL RIO, SLP", id: "7480272603" },
     "24b4b4c6-f7a8-4b91-f2a3-b4c5d6e7f894": { nombre: "UBALDA GONZALEZ ESCOBAR", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2022-07-15", emision: "2022-07-20", lugar: "TOLUCA, EDO MEX", id: "7581272714" },
-    "13c5c5d7-a8b9-4c02-a3b4-c5d6e7f890a5": { nombre: "....", nivel: "PRIMARIA", promedio: "9.1", conclusion: "2026-09-28", emision: "2026-10-08", lugar: "CDMX", id: "7682272825" },
+    "13c5c5d7-a8b9-4c02-a3b4-c5d6e7f890a5": { nombre: "MA. GUADALUPE ALMAGUER TORRES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2016-11-15", emision: "2016-11-20", lugar: "LEÓN, GUANAJUATO", id: "7682272825" },
     "02d6d6e8-b9c0-4d13-b4c5-d6e7f890a1b6": { nombre: "----", nivel: "SECUNDARIA", promedio: "8.0", conclusion: "2026-09-30", emision: "2026-10-10", lugar: "PUEBLA, PUE", id: "7783272936" },
     "91e7e7f9-c0d1-4e24-c5d6-e7f890a1b2c7": { nombre: "VADHIR DERBEZ A.", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2026-10-02", emision: "2026-10-12", lugar: "CIUDAD DE MEXICO", id: "7884273047" },
     "80f8f8a0-d1e2-4f35-d6e7-f890a1b2c3d8": { nombre: "WILLIAM LEVY G.", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2026-10-05", emision: "2026-10-15", lugar: "VERACRUZ, VER", id: "7985273158" },
