@@ -102,7 +102,7 @@ const baseDatos = {
     "91e7e7f9-c0d1-4e24-c5d6-e7f890a1b2c7": { nombre: "JOSE ALEJANDRO HERNANDEZ RODRIGUEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2020-11-15", emision: "2020-11-20", lugar: "SAN LUIS POTOSI", id: "7884273047" },
     "80f8f8a0-d1e2-4f35-d6e7-f890a1b2c3d8": { nombre: "GEORGINA COTO NATO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "SANTIAGO TUXTLA, VER", id: "7985273158" },
     "79a9a9b1-e2f3-4a46-e7f8-90a1b2c3d4e9": { nombre: "...", nivel: "SECUNDARIA", promedio: "9.6", conclusion: "2026-10-08", emision: "2026-10-18", lugar: "CDMX", id: "8086273269" },
-    "68b0b0c2-f3a4-4b57-f890-a1b2c3d4e5f0": { nombre: "YAHIR OTHON PARRA", nivel: "SECUNDARIA", promedio: "8.4", conclusion: "2026-10-10", emision: "2026-10-20", lugar: "HERMOSILLO, SON", id: "8187273370" },
+    "68b0b0c2-f3a4-4b57-f890-a1b2c3d4e5f0": { nombre: "---", nivel: "SECUNDARIA", promedio: "8.4", conclusion: "2026-10-10", emision: "2026-10-20", lugar: "HERMOSILLO, SON", id: "8187273370" },
     // --- TERCERA TANDA DE REGISTROS SIMULADOS (50 ADICIONALES) ---
     "a1c1b2c3-d4e5-4a6b-c7d8-e9f0a1b2c3d1": { nombre: "ANA DAMARIZ RAMIREZ MEJIA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2016-11-15", emision: "2016-11-20", lugar: "NEZAHUALCÓYOTL, EDO MEX", id: "8289273481" },
     "b2d2c3d4-f5a6-4b7c-d8e9-f0a1b2c3d4e2": { nombre: ".....", nivel: "SECUNDARIA", promedio: "9.8", conclusion: "2026-10-15", emision: "2026-10-25", lugar: "CIUDAD GOTICA, EDOMEX", id: "8390273592" },
