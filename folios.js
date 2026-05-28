@@ -106,7 +106,7 @@ const baseDatos = {
     // --- TERCERA TANDA DE REGISTROS SIMULADOS (50 ADICIONALES) ---
     "a1c1b2c3-d4e5-4a6b-c7d8-e9f0a1b2c3d1": { nombre: "ANA DAMARIZ RAMIREZ MEJIA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2016-11-15", emision: "2016-11-20", lugar: "NEZAHUALCÓYOTL, EDO MEX", id: "8289273481" },
     "b2d2c3d4-f5a6-4b7c-d8e9-f0a1b2c3d4e2": { nombre: "ROBERTO RAUL RUIZ ROCHA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-10-20", lugar: "CIUDAD JUÁREZ, CHIHUAHUA", id: "8390273592" },
-    "c3e3d4e5-a6f7-4c8d-e9f0-a1b2c3d4e5f3": { nombre: "MARIA DE LOS ANGELES GUTIERREZ SANTOS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2020-07-15", emision: "2020-07-20", lugar: "SAN MARTIN TEXMELUCAN, PUEBLA", id: "8491273703" },
+    "c3e3d4e5-a6f7-4c8d-e9f0-a1b2c3d4e5f-": { nombre: "MARIA DE LOS ANGELES GUTIERREZ SANTOS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2020-07-15", emision: "2020-07-20", lugar: "SAN MARTIN TEXMELUCAN, PUEBLA", id: "8491273703" },
     "d4f4e5f6-b7a8-4d9e-f0a1-b2c3d4e5f6a4": { nombre: ".....", nivel: "SECUNDARIA", promedio: "9.1", conclusion: "2026-10-20", emision: "2026-10-30", lugar: "CHIHUAHUA, CHIH", id: "8592273814" },
     "e5a5f6a7-c8b9-4e0f-a1b2-c3d4e5f6a7b5": { nombre: "ELSA AGUIRRE JURADO", nivel: "SECUNDARIA", promedio: "8.7", conclusion: "2026-10-22", emision: "2026-11-01", lugar: "CHIHUAHUA, CHIH", id: "8693273925" },
     "f6b6a7b8-d9c0-4f1a-b2c3-d4e5f6a7b8c6": { nombre: "FRANCISCO GABILONDO SOLER", nivel: "PRIMARIA", promedio: "9.5", conclusion: "2026-10-25", emision: "2026-11-04", lugar: "ORIZABA, VERACRUZ", id: "8794274036" },
