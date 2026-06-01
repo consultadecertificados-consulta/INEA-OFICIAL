@@ -111,7 +111,7 @@ const baseDatos = {
     "e5a5f6a7-c8b9-4e0f-a1b2-c3d4e5f6a7b50": { nombre: "ARMANDO MARTINEZ MORALES", nivel: "SECUNDARIA", promedio: "7.6", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "HUEHUETLAN, SAN LUIS POTOSI", id: "8693273925" },
     "f6b6a7b8-d9c0-4f1a-b2c3-d4e5f6a7b8c6-": { nombre: "JORGE LUIS MATA BALDERAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "VICTORIA, TAMAULIPAS", id: "8794274036" },
     "a7c7b8c9-e0d1-4a2b-c3d4-e5f6a7b8c9d7": { nombre: "SALVADOR LEON CEBALLOS", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2016-07-17", emision: "2016-07-25", lugar: "COLIMA, COLIMA", id: "8895274147" },
-    "b8d8c9d0-f1e2-4b3c-d4e5-f6a7b8c9d0e8": { nombre: "....", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2026-11-01", emision: "2026-11-11", lugar: "CIUDAD DE MEXICO", id: "8996274258" },
+    "b8d8c9d0-f1e2-4b3c-d4e5-f6a7b8c9d0e8": { nombre: "BERNABE SALVADOR HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-25", lugar: "CANCUN, QUINTANA ROO", id: "8996274258" },
     "c9e9d0e1-a2f3-4c4d-e5f6-a7b8c9d0e1f9": { nombre: "....", nivel: "PRIMARIA", promedio: "9.4", conclusion: "2026-11-04", emision: "2026-11-14", lugar: "CDMX", id: "9097274369" },
     "d0f0e1f2-b3a4-4d5e-f6a7-b8c9d0e1f2a0": { nombre: "JOSEFA ORTIZ DE D.", nivel: "SECUNDARIA", promedio: "8.9", conclusion: "2026-11-07", emision: "2026-11-17", lugar: "QUERETARO, QRO", id: "9198274480" },
     "e1a1f2a3-c4b5-4e6f-a7b8-c9d0e1f2a3b1": { nombre: "KATY JURADO GARCIA", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2026-11-10", emision: "2026-11-20", lugar: "TLAXCALA, TLAX", id: "9299274591" },
