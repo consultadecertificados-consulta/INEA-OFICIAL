@@ -115,7 +115,7 @@ const baseDatos = {
     "c9e9d0e1-a2f3-4c4d-e5f6-a7b8c9d0e1f-": { nombre: "PAULINA MARTINEZ GONZALEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2026-05-08", emision: "2026-05-15", lugar: "MECAYAPAN, VERACRUZ", id: "9097274369" },
     "d0f0e1f2-b3a4-4d5e-f6a7-b8c9d0e1f2a0": { nombre: "ESTEBAN ISMAEL PONCE", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2024-07-15", emision: "2024-07-20", lugar: "TIJUANA, BC", id: "9198274480" },
     "e1a1f2a3-c4b5-4e6f-a7b8-c9d0e1f2a3b1": { nombre: "FLORENCIO MARQUEZ SANTIAGO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "JALTICAN , PUEBLA", id: "9299274591" },
-    "f2b2a3b4-d5c6-4f7a-b8c9-d0e1f2a3b4c-": { nombre: "JORGE ALEJANDRO VAZQUEZ BELLO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "CUAUTITLÁN IZCALLI, EDO MEX", id: "9310274702" },
+    "f2b2a3b4-d5c6-4f7a-b8c9-d0e1f2a3b4c2": { nombre: "AVELINO CASTRO JIMÉNEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "PAPANTLA, VERACRUZ", id: "9310274702" },
     "a3c3b4c5-e6d7-4a8b-c9d0-e1f2a3b4c5d-": { nombre: "JOCE MANUEL PATIÑO RUIZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2023-07-15", emision: "2023-07-20", lugar: "HERMOSILLO, SONORA", id: "9411274813" },
     "b4d4c5d6-f7e8-4b9c-d0e1-f2a3b4c5d6e4": { nombre: ",,,,", nivel: "SECUNDARIA", promedio: "9.0", conclusion: "2026-11-18", emision: "2026-11-28", lugar: "MONTERREY, NL", id: "9512274924" },
     "c5e5d6e7-a8f9-4c0a-1b2c-3d4e5f6a7b85": { nombre: "OFELIA GUILMAIN", nivel: "PRIMARIA", promedio: "8.4", conclusion: "2026-11-20", emision: "2026-11-30", lugar: "CDMX", id: "9613275035" },
