@@ -1,7 +1,18 @@
 // folios.js - Base de datos completa de certificados INEA (60 Registros)
 const baseDatos = {
    
-    // --- NUEVOS REGISTROS SIMULADOS (50 ADICIONALES) ---
+     "3da9226f-6e07-41cc-8155-23cb903e659311": { nombre: "VIRGINIA TORRES LUNA", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GRAL. ESCOBEDO, NUEVO LEON", id: "6167261360" },
+    "3da9226f-6e07-41cc-8155-23cb9000000011": { nombre: "ANAYELI MOLINA MENDOZA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TEOLOYUCAN, EDO MEX", id: "6268261471" },
+    "3da9226f-6e07-41cc-8155-23cb9000876511": { nombre: "FEDERICO ARENAS ALDABA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "LAGOS DE MORENO, JALISCO", id: "6369261582" },
+    "3da9226f-6e07-41cc-8155-23cb9000888811": { nombre: "TERESA BIANEY MOCTEZUMA CRUZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "NAUCALPAN DE JUAREZ, EDO,MEX", id: "6470261693" },
+    "3da9226f-6e07-41cc-8155-23cb9000050911": { nombre: "MARIA CONCEPCION LOPEZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-11-15", emision: "2024-11-20", lugar: "NICOLAS ROMERO, EDO MEX", id: "6571261804" },
+    "3da9226f-6e07-41cc-8155-23cb9000050811": { nombre: "ERIKA RAMIREZ MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TEMASCALCINGO, ESTADO DE MEXICO", id: "6672261915" },
+    "3da9226f-6e07-41cc-8155-23cb9000050511": { nombre: "GEOVANNA JAZMIN MONTOYA RUIZ", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEON", id: "6773262026" },
+    "3da9226f-6e07-41cc-8155-23cb9000050111": { nombre: "MARIA ESTHER MALDONADO NORIEGA", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTEREY, NUEVO LEON", id: "6874262137" },
+    "3da9226f-6e07-41cc-8155-23cb9000050211": { nombre: "FAUSTO MEJIA RUIZ", nivel: "SECUNDARIA", promedio: "8.0", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TULANCINGO DE BRAVO, HIDALGO", id: "6975262248" },
+    "2da9226f-6e07-41cc-81f6-23cb903e65c011": { nombre: "MARTHA GUADALUPE REYES ARENAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ATIZAPAN DE ZARAGOZA, ESTADO DE MÉXICO", id: "7076262359" },
+    "2da9226f-6e07-41cc-81f6-23cb903e65y011": { nombre: "ADOLFO HERNANDEZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CUAUTITLAN IZCALLI, ESTADO DE MÉXICO", id: "7177262470" },
+   // --- NUEVOS REGISTROS SIMULADOS (50 ADICIONALES) ---
     "a1b2c3d4-e5f6-47a8-b9c0-1d2e3f4a5b6ll": { nombre: "LAURA JUAREZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "TIJUANA, BC", id: "7278262471" },
     "b2c3d4e5-f6a7-48b9-c0d1-2e3f4a5b6c72": { nombre: "SERGIO SAMUEL SIMBRON SANTES", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "REYNOSA, TAMAULIPAS", id: "7379262582" },
     "c3d4e5f6-a7b8-49c0-d1e2-3f4a5b6c7d00": { nombre: ".....", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2018-07-15", emision: "2018-07-20", lugar: "ACAPETAHUA, CHIAPAS", id: "7480262693" },
