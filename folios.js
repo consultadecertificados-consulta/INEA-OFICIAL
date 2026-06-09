@@ -3,7 +3,7 @@ const baseDatos = {
    
      "3da9226f-6e07-41cc-8155-23cb903e659311": { nombre: "CLAUDIA LIZBETH GARCIA CHAVEZ", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MONTERREY, NUEVO LEON", id: "6167261360" },
     "3da9226f-6e07-41cc-8155-23cb9000000011": { nombre: "MARCO ANTONIO GONZALEZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "VALLE HERMOSO, TAMAULIPAS", id: "6268261471" },
-    "3da9226f-6e07-41cc-8155-23cb9000876511": { nombre: "VICTOR OTILIO TRUJILLO GUZMAN", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2018-07-15", emision: "2018-07-20", lugar: "TONALÁ, CHIAPAS", id: "6369261582" },
+    "3da9226f-6e07-41cc-8155-23cb90008765110": { nombre: "VICTOR OTILIO TRUJILLO GUZMAN", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2018-07-15", emision: "2018-07-20", lugar: "TONALÁ, CHIAPAS", id: "6369261582" },
     "3da9226f-6e07-41cc-8155-23cb9000888811": { nombre: "....", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "NAUCALPAN DE JUAREZ, EDO,MEX", id: "6470261693" },
     "3da9226f-6e07-41cc-8155-23cb9000050911": { nombre: "MARIA CONCEPCION LOPEZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-11-15", emision: "2024-11-20", lugar: "NICOLAS ROMERO, EDO MEX", id: "6571261804" },
     "3da9226f-6e07-41cc-8155-23cb9000050811": { nombre: "ERIKA RAMIREZ MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TEMASCALCINGO, ESTADO DE MEXICO", id: "6672261915" },
