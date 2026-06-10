@@ -8,8 +8,8 @@ const baseDatos = {
     "3da9226f-6e07-41cc-8155-23cb9000050911": { nombre: "JUANA LOPEZ DE LA CRUZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2021-07-15", emision: "2021-07-20", lugar: "CANCUN, QUINTANA ROO", id: "6571261804" },
     "3da9226f-6e07-41cc-8155-23cb90000508110": { nombre: "MOISES ABRAHAM SAVIÑON DOMINGUEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "CANCÚN, QUINTANA ROO", id: "6672261915" },
     "3da9226f-6e07-41cc-8155-23cb90000505110": { nombre: "ISRAEL TURRADO CONTRERAS", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TLAJOMULCO DE ZÚÑIGA, JALISCO", id: "6773262026" },
-    "3da9226f-6e07-41cc-8155-23cb9000050111": { nombre: "-----", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTEREY, NUEVO LEON", id: "6874262137" },
-    "3da9226f-6e07-41cc-8155-23cb9000050211": { nombre: "FAUSTO MEJIA RUIZ", nivel: "SECUNDARIA", promedio: "8.0", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TULANCINGO DE BRAVO, HIDALGO", id: "6975262248" },
+    "3da9226f-6e07-41cc-8155-23cb90000501112": { nombre: "MARIA ISABEL GUEVARA PESINA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2020-07-15", emision: "2020-07-20", lugar: "REYNOSA, TAMAULIPAS", id: "6874262137" },
+    "3da9226f-6e07-41cc-8155-23cb9000050211": { nombre: "...", nivel: "SECUNDARIA", promedio: "8.0", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TULANCINGO DE BRAVO, HIDALGO", id: "6975262248" },
     "2da9226f-6e07-41cc-81f6-23cb903e65c011": { nombre: "MARTHA GUADALUPE REYES ARENAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ATIZAPAN DE ZARAGOZA, ESTADO DE MÉXICO", id: "7076262359" },
     "2da9226f-6e07-41cc-81f6-23cb903e65y011": { nombre: "ADOLFO HERNANDEZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CUAUTITLAN IZCALLI, ESTADO DE MÉXICO", id: "7177262470" },
    // --- NUEVOS REGISTROS SIMULADOS (50 ADICIONALES) ---
