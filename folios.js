@@ -10,7 +10,7 @@ const baseDatos = {
     "3da9226f-6e07-41cc-8155-23cb90000505110": { nombre: "ISRAEL TURRADO CONTRERAS", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TLAJOMULCO DE ZÚÑIGA, JALISCO", id: "6773262026" },
     "3da9226f-6e07-41cc-8155-23cb90000501112": { nombre: "MARIA ISABEL GUEVARA PESINA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2020-07-15", emision: "2020-07-20", lugar: "REYNOSA, TAMAULIPAS", id: "6874262137" },
     "3da9226f-6e07-41cc-8155-23cb90000502119": { nombre: "ROSENDA VELAZQUEZ MARTINEZ", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "VERACRUZ, VER", id: "6975262248" },
-    "2da9226f-6e07-41cc-81f6-23cb903e65c01190": { nombre: "....", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "TLAJOMULCO DE ZÚÑIGA, JALISCO", id: "7076262359" },
+    "2da9226f-6e07-41cc-81f6-23cb903e65c01190": { nombre: "JUAN JOSE MARTINEZ SERRANO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2020-07-15", emision: "2020-07-20", lugar: "PROGRESO DE OBREGÓN, HGO", id: "7076262359" },
     "2da9226f-6e07-41cc-81f6-23cb903e65y011": { nombre: ".....", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CUAUTITLAN IZCALLI, ESTADO DE MÉXICO", id: "7177262470" },
    // --- NUEVOS REGISTROS SIMULADOS (50 ADICIONALES) ---
     "a1b2c3d4-e5f6-47a8-b9c0-1d2e3f4a5b6ll": { nombre: "LAURA JUAREZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "TIJUANA, BC", id: "7278262471" },
