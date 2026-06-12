@@ -16,7 +16,7 @@ const baseDatos = {
     "a1b2c3d4-e5f6-47a8-b9c0-1d2e3f4a5b6ll": { nombre: "LAURA JUAREZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "TIJUANA, BC", id: "7278262471" },
     "b2c3d4e5-f6a7-48b9-c0d1-2e3f4a5b6c72": { nombre: "SERGIO SAMUEL SIMBRON SANTES", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "REYNOSA, TAMAULIPAS", id: "7379262582" },
     "c3d4e5f6-a7b8-49c0-d1e2-3f4a5b6c7d00": { nombre: "IMELDA LEYVA VAZQUEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2018-07-15", emision: "2018-07-20", lugar: "CULIACÁN, SINALOA", id: "7480262693" },
-    "d4e5f6a7-b8c9-40d1-e2f3-4a5b6c7d8e94": { nombre: "....", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-07-08", emision: "2015-07-15", lugar: "SANTIAGO LACHIGUIRI TEHUANTEPEC, OAXACA", id: "7581262804" },
+    "d4e5f6a7-b8c9-40d1-e2f3-4a5b6c7d8e94": { nombre: "RICARDO ELISEO ARMENTA RAMIREZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2022-07-15", emision: "2022-07-20", lugar: "SARIC, SONORA", id: "7581262804" },
     "e5f6a7b8-c9d0-41e2-f3a4-5b6c7d8e9f05": { nombre: "MARIANO ISMAEL ROSAS SANTIAGO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "7682262915" },
     "f6a7b8c9-d0e1-42f3-a4b5-6c7d8e9f0a16": { nombre: "MARIA DEL REFUGIO SANTIAGO HARO", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2025-11-17", emision: "2025-11-22", lugar: "GUADALAJARA, JALISCO", id: "7783263026" },
     "a7b8c9d0-e1f2-43a4-b5c6-7d8e9f0a1b2": { nombre: "RICARDO YAÑEZ MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-08-15", emision: "2024-08-20", lugar: "REYNOSA, TAMAULIPAS", id: "7884263137" },
