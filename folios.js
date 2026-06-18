@@ -128,7 +128,7 @@ const baseDatos = {
     "e1a1f2a3-c4b5-4e6f-a7b8-c9d0e1f2a3b1": { nombre: "FLORENCIO MARQUEZ SANTIAGO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "JALTICAN , PUEBLA", id: "9299274591" },
     "f2b2a3b4-d5c6-4f7a-b8c9-d0e1f2a3b4c2": { nombre: "GERARDO MOISES AGUILAR GARCIA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "AGUASCALIENTES", id: "9310274702" },
     "a3c3b4c5-e6d7-4a8b-c9d0-e1f2a3b4c5d33": { nombre: "NEFTALI BARRIOS PEREZ", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2013-07-15", emision: "2013-07-20", lugar: "MAPASTEPEC, CHIAPAS", id: "9411274813" },
-    "b4d4c5d6-f7e8-4b9c-d0e1-f2a3b4c5d6e46": { nombre: ".....", nivel: "SECUNDARIA", promedio: "9.0", conclusion: "2026-11-18", emision: "2026-11-28", lugar: "MONTERREY, NL", id: "9512274924" },
+    "b4d4c5d6-f7e8-4b9c-d0e1-f2a3b4c5d6e46": { nombre: "NEFTALI BARRIOS PEREZ", nivel: "SECUNDARIA", promedio: "8.7", conclusion: "2015-04-04", emision: "2015-04-15", lugar: "MAPASTEPEC, CHIAPAS", id: "9512274924" },
     "c5e5d6e7-a8f9-4c0a-1b2c-3d4e5f6a7b858": { nombre: "....", nivel: "PRIMARIA", promedio: "8.4", conclusion: "2026-11-20", emision: "2026-11-30", lugar: "CDMX", id: "9613275035" },
     "d6f6e7f8-b9a0-4d1b-2c3d-4e5f6a7b8c96": { nombre: "PABLO MONTERO RUIZ", nivel: "SECUNDARIA", promedio: "7.9", conclusion: "2026-11-22", emision: "2026-12-02", lugar: "TORREON, COAHUILA", id: "9714275146" },
     "e7a7f890-c0b1-4e2c-3d4e-5f6a7b8c9d07": { nombre: "QUETA LAVAT ESPARZA", nivel: "SECUNDARIA", promedio: "9.2", conclusion: "2026-11-25", emision: "2026-12-05", lugar: "CIUDAD DE MEXICO", id: "9815275257" },
