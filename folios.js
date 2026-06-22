@@ -133,7 +133,7 @@ const baseDatos = {
     "d6f6e7f8-b9a0-4d1b-2c3d-4e5f6a7b8c966": { nombre: "SANTOS LUCIA GUILLEN ESCOBAR", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MONTERREY, NL", id: "9714275146" },
     "e7a7f890-c0b1-4e2c-3d4e-5f6a7b8c9d074": { nombre: "EDGAR OMAR CARRIZOSA MEJIA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2020-07-15", emision: "2020-07-20", lugar: "CD JUÁREZ, CHIHUAHUA", id: "9815275257" },
     "f8b890a1-d1c2-4f3d-4e5f-6a7b8c9d0e185": { nombre: "ALONSO EMMANUEL CASTAÑON MURILLO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TIJUANA, BC", id: "9916275368" },
-    "90c90a1b-e2d3-4a4e-5f6a-7b8c9d0e1f2-": { nombre: "ADRIANA VIANEY PEREZ MATA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "SLP", id: "1017275479" },
+    "90c90a1b-e2d3-4a4e-5f6a-7b8c9d0e1f29": { nombre: "ADRIANA VIANEY PEREZ MATA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "SLP", id: "1017275479" },
     "0a1a1b2c-f3e4-4b5f-6a7b-8c9d0e1f2a30": { nombre: "...", nivel: "SECUNDARIA", promedio: "8.9", conclusion: "2026-12-04", emision: "2026-12-14", lugar: "MONTERREY, NL", id: "1118275580" },
     "1b2b2c3d-a4f5-4c6a-7b8c-9d0e1f2a3b41": { nombre: "URIEL DEL TORO L.", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2026-12-07", emision: "2026-12-17", lugar: "CDMX", id: "1219275691" },
     "2c3c3d4e-b5a6-4d7b-8c9d-0e1f2a3b4c52": { nombre: "VERONICA CASTRO A.", nivel: "SECUNDARIA", promedio: "9.0", conclusion: "2026-12-10", emision: "2026-12-20", lugar: "CIUDAD DE MEXICO", id: "1320275802" },
