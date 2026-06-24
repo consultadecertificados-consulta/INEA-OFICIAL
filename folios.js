@@ -135,7 +135,7 @@ const baseDatos = {
     "f8b890a1-d1c2-4f3d-4e5f-6a7b8c9d0e185": { nombre: "ALONSO EMMANUEL CASTAÑON MURILLO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TIJUANA, BC", id: "9916275368" },
     "90c90a1b-e2d3-4a4e-5f6a-7b8c9d0e1f29": { nombre: "ADRIANA VIANEY PEREZ MATA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "SLP", id: "1017275479" },
     "0a1a1b2c-f3e4-4b5f-6a7b-8c9d0e1f2a30": { nombre: "...", nivel: "SECUNDARIA", promedio: "8.9", conclusion: "2026-12-04", emision: "2026-12-14", lugar: "MONTERREY, NL", id: "1118275580" },
-    "1b2b2c3d-a4f5-4c6a-7b8c-9d0e1f2a3b41": { nombre: "URIEL DEL TORO L.", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2026-12-07", emision: "2026-12-17", lugar: "CDMX", id: "1219275691" },
+    "1b2b2c3d-a4f5-4c6a-7b8c-9d0e1f2a3b41": { nombre: "....", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2026-12-07", emision: "2026-12-17", lugar: "CDMX", id: "1219275691" },
     "2c3c3d4e-b5a6-4d7b-8c9d-0e1f2a3b4c52": { nombre: "VERONICA CASTRO A.", nivel: "SECUNDARIA", promedio: "9.0", conclusion: "2026-12-10", emision: "2026-12-20", lugar: "CIUDAD DE MEXICO", id: "1320275802" },
     "3d4d4e5f-c6b7-4e8c-9d0e-1f2a3b4c5d63": { nombre: "WAGNER MANOEL S.", nivel: "SECUNDARIA", promedio: "8.4", conclusion: "2026-12-12", emision: "2026-12-22", lugar: "TOLUCA, EDOMEX", id: "1421275913" },
     "4e5e5f6a-d7c8-4f9d-0e1f-2a3b4c5d6e74": { nombre: "XIMENA NAVARRETE R.", nivel: "PRIMARIA", promedio: "9.6", conclusion: "2026-12-15", emision: "2026-12-25", lugar: "GUADALAJARA, JALISCO", id: "1522276024" },
