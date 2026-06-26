@@ -136,7 +136,7 @@ const baseDatos = {
     "90c90a1b-e2d3-4a4e-5f6a-7b8c9d0e1f29": { nombre: "ADRIANA VIANEY PEREZ MATA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "SLP", id: "1017275479" },
     "0a1a1b2c-f3e4-4b5f-6a7b-8c9d0e1f2a30": { nombre: "RAUL MARTINEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2020-08-17", emision: "2020-08-25", lugar: "CD JUÁREZ,  CHIHUAHUA", id: "1118275580" },
     "1b2b2c3d-a4f5-4c6a-7b8c-9d0e1f2a3b41": { nombre: "ALEXANDRA MICHELLE MARTINEZ PICHARDO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2021-07-15", emision: "2021-07-20", lugar: "TEZOYUCA, EDO MEX", id: "1219275691" },
-    "2c3c3d4e-b5a6-4d7b-8c9d-0e1f2a3b4c52": { nombre: "....", nivel: "SECUNDARIA", promedio: "9.0", conclusion: "2026-12-10", emision: "2026-12-20", lugar: "CIUDAD DE MEXICO", id: "1320275802" },
+    "2c3c3d4e-b5a6-4d7b-8c9d-0e1f2a3b4c52": { nombre: "LAURA LETICIA ANDRADE ROQUE", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "APODACA, NL", id: "1320275802" },
     "3d4d4e5f-c6b7-4e8c-9d0e-1f2a3b4c5d63": { nombre: "...", nivel: "SECUNDARIA", promedio: "8.4", conclusion: "2026-12-12", emision: "2026-12-22", lugar: "TOLUCA, EDOMEX", id: "1421275913" },
     "4e5e5f6a-d7c8-4f9d-0e1f-2a3b4c5d6e74": { nombre: "XIMENA NAVARRETE R.", nivel: "PRIMARIA", promedio: "9.6", conclusion: "2026-12-15", emision: "2026-12-25", lugar: "GUADALAJARA, JALISCO", id: "1522276024" },
     "5f6f6a7b-e8d9-4a0e-1f2a-3b4c5d6e7f85": { nombre: "YALITZA APARICIO M.", nivel: "SECUNDARIA", promedio: "9.4", conclusion: "2026-12-18", emision: "2026-12-28", lugar: "TLAXIACO, OAXACA", id: "1623276135" },
