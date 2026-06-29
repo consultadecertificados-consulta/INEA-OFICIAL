@@ -143,7 +143,7 @@ const baseDatos = {
     "6a7a7b8c-f9a0-4b1f-2a3b-4c5d6e7f8906": { nombre: "YASHIRE NATALY DIAZ ROMAN", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2020-07-15", emision: "2020-07-20", lugar: "IGUALA, GUERRERO", id: "1724276246" },
     "7b8b8c9d-a0b1-4c2a-3b4c-5d6e7f890a17": { nombre: "ABRAHAM ALBERTO VALENCIA RUVALCABA", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "EL SALTO, JALISCO", id: "1825276357" },
     "8c9c9d0e-b1c2-4d3b-4c5d-6e7f890a1b28": { nombre: "LEIDY JOHANA LEON RUIZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "PASEO EL ALTO,GTO", id: "1926276468" },
-    "9d0d0e1f-c2d3-4e4c-5d6e-7f890a1b2c39": { nombre: "----", nivel: "SECUNDARIA", promedio: "9.5", conclusion: "2026-12-28", emision: "2027-01-08", lugar: "HUAMANTLA, TLAXCALA", id: "2027276579" },
+    "9d0d0e1f-c2d3-4e4c-5d6e-7f890a1b2c39": { nombre: "FABIOLA JAVIER RAMIREZ ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2016-07-15", emision: "2016-07-20", lugar: "CUAUTITLÁN, EDO MEX", id: "2027276579" },
     "0e1e1f2a-d3e4-4f5d-6e7f-890a1b2c3d40": { nombre: "....", nivel: "PRIMARIA", promedio: "8.9", conclusion: "2026-12-30", emision: "2027-01-10", lugar: "CIUDAD DE MEXICO", id: "2128276680" },
     "1f2f2a3b-e4d5-4a6e-7f89-0a1b2c3d4e51": { nombre: "ELSA BENITEZ Y.", nivel: "SECUNDARIA", promedio: "9.0", conclusion: "2027-01-02", emision: "2027-01-12", lugar: "HERMOSILLO, SONORA", id: "2229276791" },
     "2a3a3b4c-f5a6-4b7f-890a-1b2c3d4e5f62": { nombre: "FRIDA KAHLO CALDERON", nivel: "SECUNDARIA", promedio: "9.3", conclusion: "2027-01-05", emision: "2027-01-15", lugar: "COYOACAN, CDMX", id: "2330276902" },
