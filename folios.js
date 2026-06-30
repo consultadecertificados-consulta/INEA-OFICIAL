@@ -147,7 +147,7 @@ const baseDatos = {
     "0e1e1f2a-d3e4-4f5d-6e7f-890a1b2c3d4-": { nombre: "WENDY SAMANTHA MOLINA MELGOZA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TIZATLAN, TLAXCALA", id: "2128276680" },
     "1f2f2a3b-e4d5-4a6e-7f89-0a1b2c3d4e51": { nombre: "IVAN ZARATE TORRES", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "VERACRUZ, VER", id: "2229276791" },
     "2a3a3b4c-f5a6-4b7f-890a-1b2c3d4e5f62": { nombre: "DIANA PATRICIA PEREZ MATA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "SAN LUIS POTOSI", id: "2330276902" },
-    "3b4b4c5d-a6b7-4c80-a1b2-c3d4e5f6a7b3": { nombre: "......", nivel: "PRIMARIA", promedio: "8.6", conclusion: "2027-01-08", emision: "2027-01-18", lugar: "GUADALAJARA, JALISCO", id: "2431277013" },
+    "3b4b4c5d-a6b7-4c80-a1b2-c3d4e5f6a7b3": { nombre: "JOSE TRINIDAD PLATA HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "APODACA, NL", id: "2431277013" },
     "4c5c5d6e-b7c8-4d91-b2c3-d4e5f6a7b8c4": { nombre: ".....", nivel: "SECUNDARIA", promedio: "8.4", conclusion: "2027-01-10", emision: "2027-01-20", lugar: "CDMX", id: "2532277124" },
     "5d6d6e7f-c8d9-4e02-c3d4-e5f6a7b8c9d5": { nombre: "ISAAC HERNANDEZ F.", nivel: "SECUNDARIA", promedio: "9.8", conclusion: "2027-01-12", emision: "2027-01-22", lugar: "GUADALAJARA, JAL", id: "2633277235" },
     "6e7e7f89-d9e0-4f13-d4e5-f6a7b8c9d0e6": { nombre: "JUAN GABRIEL AGUILERA", nivel: "PRIMARIA", promedio: "8.1", conclusion: "2027-01-15", emision: "2027-01-25", lugar: "PARACUARO, MICHOACAN", id: "2734277346" },
