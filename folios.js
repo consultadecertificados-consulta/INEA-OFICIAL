@@ -151,7 +151,7 @@ const baseDatos = {
     "4c5c5d6e-b7c8-4d91-b2c3-d4e5f6a7b8c4": { nombre: "JUAN CARLOS CORONA HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "SALAMANCA, GUANAJUATO", id: "2532277124" },
     "5d6d6e7f-c8d9-4e02-c3d4-e5f6a7b8c9d5": { nombre: "MARTHA LORENA GONZALEZ MALDONADO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "CIUDAD JUAREZ, CHIHUAHUA", id: "2633277235" },
     "6e7e7f89-d9e0-4f13-d4e5-f6a7b8c9d0e3": { nombre: ".....", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "TIJUANA, BC", id: "2734277346" },
-    "7f8f890a-e0f1-4a24-e5f6-a7b8c9d0e1f7": { nombre: "BERENICE GONZALEZ MEDINA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "ATIZAPÁN, EDO MEX", id: "2835277457" },
+    "7f8f890a-e0f1-4a24-e5f6-a7b8c9d0e1f7": { nombre: "ELIX LOPEZ LOPEZ", nivel: "SECUNDARIA", promedio: "8.7", conclusion: "2016-08-20", emision: "2016-08-25", lugar: "VILLAHERMOSA, TABASCO", id: "2835277457" },
     "8a9a90a1-f1a2-4b35-f6a7-b8c9d0e1f2a8": { nombre: "LUIS MIGUEL GALLEGO", nivel: "SECUNDARIA", promedio: "8.0", conclusion: "2027-01-20", emision: "2027-01-30", lugar: "VERACRUZ, VER", id: "2936277568" },
     "9b0b0b1c-a2b3-4c46-a7b8-c9d0e1f2a3b9": { nombre: "MARTHA HIGAREDA C.", nivel: "PRIMARIA", promedio: "9.3", conclusion: "2027-01-22", emision: "2027-02-01", lugar: "VILLAHERMOSA, TABASCO", id: "3037277679" },
     "0c1c1c2d-b3c4-4d57-b8c9-d0e1f2a3b4c0": { nombre: "NATALIA TELLEZ M.", nivel: "SECUNDARIA", promedio: "8.8", conclusion: "2027-01-25", emision: "2027-02-04", lugar: "CDMX", id: "3138277780" },
