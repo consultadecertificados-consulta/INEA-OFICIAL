@@ -155,7 +155,7 @@ const baseDatos = {
     "8a9a90a1-f1a2-4b35-f6a7-b8c9d0e1f2a8": { nombre: "JOSE LUIS PONCE FUENTES", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-17", emision: "2025-07-25", lugar: "CD JUÁREZ, CHIHUAHUA", id: "2936277568" },
     "9b0b0b1c-a2b3-4c46-a7b8-c9d0e1f2a3b9": { nombre: "LILIANA CRUZ CRUZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "AGUASCALIENTES", id: "3037277679" },
     "0c1c1c2d-b3c4-4d57-b8c9-d0e1f2a3b4c0": { nombre: "CATALINA MONTOYA GONZALEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2018-07-15", emision: "2018-07-25", lugar: "LERMA, EDO MEX", id: "3138277780" },
-    "1d2d2d3e-c4d5-4e68-c9d0-e1f2a3b4c5d1": { nombre: "...", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2027-01-28", emision: "2027-02-07", lugar: "TORREON, COAHUILA", id: "3239277891" },
+    "1d2d2d3e-c4d5-4e68-c9d0-e1f2a3b4c5d1": { nombre: "ERIKA GARCIA HERNANDEZ", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "JUAREZ, NUEVO LEON", id: "3239277891" },
     "2e3e3e4f-d5e6-4f79-d0e1-f2a3b4c5d6e2": { nombre: "....", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2027-01-30", emision: "2027-02-10", lugar: "CIUDAD DE MEXICO", id: "3340278002" },
     "3f4f4f5a-e6f7-4a80-e1f2-a3b4c5d6e7f3": { nombre: "ROBERTO PALAZUELOS", nivel: "SECUNDARIA", promedio: "7.9", conclusion: "2027-02-02", emision: "2027-02-12", lugar: "ACAPULCO, GUERRERO", id: "3441278113" },
     "4a5a5a6b-f7a8-4b91-f2a3-b4c5d6e7f894": { nombre: "SOFIA NIETO RUIZ", nivel: "SECUNDARIA", promedio: "9.1", conclusion: "2027-02-05", emision: "2027-02-15", lugar: "MONTERREY, NL", id: "3542278224" },
