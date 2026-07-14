@@ -163,8 +163,8 @@ const baseDatos = {
     "6c7c7c8d-b9c0-4d13-b4c5-d6e7f890a1b6": { nombre: "ARTURO JORDANOF ORNELAS FERNANDEZ", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-25", lugar: "ALTOTONGA, VERACRUZ", id: "3744278446" },
     "7d8d8d9e-c0d1-4e24-c5d6-e7f890a1b2c7": { nombre: "LORENA GRISSEL GARCIA CHAVEZ", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2026-07-06", emision: "2026-07-10", lugar: "ECATEPEC, EDO MEX", id: "3845278557" },
     "8e8e8ea0-d1e2-4f35-d6e7-f890a1b2c3d8": { nombre: "MARIA ANGELES GARCIA CHAVEZ", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2026-07-06", emision: "2026-07-10", lugar: "ECATEPEC, EDO MEX", id: "3946278668" },
-    "9f9f9fb1-e2f3-4a46-e7f8-90a1b2c3d4e9": { nombre: "....", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2027-02-18", emision: "2027-02-28", lugar: "CDMX", id: "4047278779" },
-    "0a0a0ac2-f3a4-4b57-f890-a1b2c3d4e5f0": { nombre: "HECTOR  DANIEL HERNANDEZ AUDELO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "CUAUHTÉMOC, CDMX", id: "4148278890" },
+    "9f9f9fb1-e2f3-4a46-e7f8-90a1b2c3d4e9": { nombre: "JOSE GUADALUPE MERCADO CASTRO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "ZIHUATANEJO, GUERRERO", id: "4047278779" },
+    "0a0a0ac2-f3a4-4b57-f890-a1b2c3d4e5f0": { nombre: "....", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "CUAUHTÉMOC, CDMX", id: "4148278890" },
     // --- FOLIOS ORIGINALES (UUID) ---
     "9da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "WILDER RAMON ZELAYA FUNEZ", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2018-11-15", emision: "2018-11-20", lugar: "EL CARMEN, NUEVO LEÓN", id: "0410255274" },
     "8ea8226f-5f07-41cc-81f6-23cb903e7502": { nombre: "ISRAEL MEXICANO IBARRA", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GENERAL ESCOBEDO, NUEVO LEON", id: "0511255380" },
