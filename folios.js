@@ -1,4 +1,4 @@
-// folios.js - Base de datos completa de certificados INEA (60 Registros)
+o.// folios.js - Base de datos completa de certificados INEA (60 Registros)
 const baseDatos = {
    
      "3da9226f-6e07-41cc-8155-23cb903e659311": { nombre: "CLAUDIA LIZBETH GARCIA CHAVEZ", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MONTERREY, NUEVO LEON", id: "6167261360" },
@@ -168,9 +168,9 @@ const baseDatos = {
     // --- FOLIOS ORIGINALES (UUID) ---
     "9da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "FABIOLA BRET DE LA CRUZ ", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MONTERREY, NL", id: "0410255274" },
     "8ea8226f-5f07-41cc-81f6-23cb903e7502": { nombre: "OFELIA MENDOZA RIVERA", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MONTERREY, NL", id: "0511255380" },
-    "8da9226f-6e07-41cc-81f6-23cb903e6591": { nombre: "LAURA ACUÑA MALDONADO", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MONTERREY, NL", id: "1420256273" },
-    "7da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: ".....", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "COATZACOALCOS, VER", id: "1319256162" },
-    "2da9226f-6e07-41cc-81f6-23cb903e6333": { nombre: "LEIDY MAGALY RICARDO FORTUNATO", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEON", id: "1521256384" },
+    "8da9226f-6e07-41cc-81f6-23cb903e6591": { nombre: "LAURA ACUÑA MALDONADO", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MONTERREY, NL", id: "1420256273" },
+    "7da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "JORGE ALBERTO ADAME TORRES", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MONTERREY, NL", id: "1319256162" },
+    "2da9226f-6e07-41cc-81f6-23cb903e6333": { nombre: "....", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEON", id: "1521256384" },
     "0da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "INGRID ARELY MARTINEZ ESQUIVEL", nivel: "PRIMARIA", promedio: "8.5", conclusion: "15-11-2025", emision: "20-11-2025", lugar: "MONTERREY, NUEVO LEON", id: "1622256495" },
     "4da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "LILIANA VICTORIA REGINO GARAY", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-10-15", emision: "2015-10-20", lugar: "MONTERREY, NUEVO LEÓN ", id: "1723256506" },
     "3da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "MARTHA PATRICIA BRIONES GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-10-15", emision: "2025-10-20", lugar: "SALTILLO, COAHUILA", id: "1824256617" },
