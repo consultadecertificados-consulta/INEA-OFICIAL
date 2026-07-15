@@ -167,8 +167,8 @@ const baseDatos = {
     "0a0a0ac2-f3a4-4b57-f890-a1b2c3d4e5f0": { nombre: "ANNA LUCIA ORTIZ POLANCO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "SONORA, SONORA", id: "4148278890" },
     // --- FOLIOS ORIGINALES (UUID) ---
     "9da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "ANGELICA LIMA VAZQUEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "AZCAPOTZALCO, CDMX", id: "0410255274" },
-    "8ea8226f-5f07-41cc-81f6-23cb903e7502": { nombre: "....", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GENERAL ESCOBEDO, NUEVO LEON", id: "0511255380" },
-    "8da9226f-6e07-41cc-81f6-23cb903e6591": { nombre: "CLARIBEL FLORES ROJAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CANCUN, QUINTANA ROO", id: "1420256273" },
+    "8ea8226f-5f07-41cc-81f6-23cb903e7502": { nombre: "IGNACIO VELA FERMAN", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2016-07-15", emision: "2016-07-20", lugar: "GUADALAJARA, JALISCO", id: "0511255380" },
+    "8da9226f-6e07-41cc-81f6-23cb903e6591": { nombre: "....", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CANCUN, QUINTANA ROO", id: "1420256273" },
     "7da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "JOAQUIN GONZALEZ GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "COATZACOALCOS, VER", id: "1319256162" },
     "2da9226f-6e07-41cc-81f6-23cb903e6333": { nombre: "LEIDY MAGALY RICARDO FORTUNATO", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEON", id: "1521256384" },
     "0da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "INGRID ARELY MARTINEZ ESQUIVEL", nivel: "PRIMARIA", promedio: "8.5", conclusion: "15-11-2025", emision: "20-11-2025", lugar: "MONTERREY, NUEVO LEON", id: "1622256495" },
