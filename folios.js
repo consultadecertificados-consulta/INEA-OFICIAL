@@ -166,9 +166,9 @@ const baseDatos = {
     "9f9f9fb1-e2f3-4a46-e7f8-90a1b2c3d4e9": { nombre: "JOSE GUADALUPE MERCADO CASTRO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "ZIHUATANEJO, GUERRERO", id: "4047278779" },
     "0a0a0ac2-f3a4-4b57-f890-a1b2c3d4e5f": { nombre: ".…...", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "SONORA, SONORA", id: "4148278890" },
     // --- FOLIOS ORIGINALES (UUID) ---
-    "9da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: ",......", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "AZCAPOTZALCO, CDMX", id: "0410255274" },
-    "8ea8226f-5f07-41cc-81f6-23cb903e7502": { nombre: "IGNACIO VELA FERMAN", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2016-07-15", emision: "2016-07-20", lugar: "GUADALAJARA, JALISCO", id: "0511255380" },
-    "8da9226f-6e07-41cc-81f6-23cb903e6591": { nombre: "....", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CANCUN, QUINTANA ROO", id: "1420256273" },
+    "9da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "FABIOLA BRET DE LA CRUZ ", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MONTERREY, NL", id: "0410255274" },
+    "8ea8226f-5f07-41cc-81f6-23cb903e7502": { nombre: "OFELIA MENDOZA RIVERA", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2016-07-15", emision: "2016-07-20", lugar: "MONTERREY, NL", id: "0511255380" },
+    "8da9226f-6e07-41cc-81f6-23cb903e6591": { nombre: "LAURA ACUÑA MALDONADO", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MONTERREY, NL", id: "1420256273" },
     "7da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "JORGE ALBERTO ADAME TORRES", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MONTERREY, NL", id: "1319256162" },
     "2da9226f-6e07-41cc-81f6-23cb903e6333": { nombre: ".....", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEON", id: "1521256384" },
     "0da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "INGRID ARELY MARTINEZ ESQUIVEL", nivel: "PRIMARIA", promedio: "8.5", conclusion: "15-11-2025", emision: "20-11-2025", lugar: "MONTERREY, NUEVO LEON", id: "1622256495" },
