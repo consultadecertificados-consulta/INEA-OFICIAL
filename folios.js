@@ -174,7 +174,7 @@ const baseDatos = {
     "0da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "CLEMENTINA BARRON SERVIN", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "15-07-2023", emision: "20-07-2023", lugar: "QUERETARO, QUERETARO", id: "1622256495" },
     "4da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "MARIA DEL ROCIO LOPEZ PONCE", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "AGUASCALIENTES", id: "1723256506" },
     "3da9226f-6e07-41cc-81f6-23cb903e6593": { nombre: "EDGAR OMAR RODRIGUEZ CARRIZALES", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2023-07-15", emision: "2023-07-20", lugar: "SALINAS VICTORIA, NL", id: "1824256617" },
-    "2da9226f-6e07-41cc-81f6-23cb903e6590": { nombre: ".....", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2018-10-15", emision: "2018-10-20", lugar: "SAN ANDRES SOLAGA, OAXACA", id: "1925256728" },
+    "2da9226f-6e07-41cc-81f6-23cb903e6590": { nombre: "JOSE LUIS ARROYO CRUZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2018-07-15", emision: "2018-07-20", lugar: "EDO,GUERRERO", id: "1925256728" },
     "1da9226f-6e07-41cc-81f6-23cb903e6500": { nombre: "....", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "JALISCO, JALISCO", id: "2026256839" },
     "11a9226f-6e07-41cc-81f6-23cb000e6593": { nombre: "RENE ALONSO CHAVEZ LUGO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2022-07-27", emision: "2022-08-10", lugar: "CHIHUAHUA, CHIHUAHUA", id: "2127256940" },
     "0aa9226f-6e07-41cc-81f6-23cb903e659c": { nombre: "MARIO LOPEZ GUTIERREZ", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-25", lugar: "TAMAULIPAS, TAMAULIPAS", id: "2228257051" },
