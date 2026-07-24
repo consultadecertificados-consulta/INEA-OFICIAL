@@ -2,7 +2,7 @@
 const baseDatos = {
    
      "3da9226f-6e07-41cc-8155-2343cb903e659311": { nombre: "RUPERTA HERNANDEZ HILARIO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2020-07-15", emision: "2020-07-20", lugar: "ATITALAQUIA , HIDALGO", id: "6167261360" },
-    "3da9226f-6e07-41cc-8155-23cb9000000011": { nombre: "MARCO ANTONIO GONZALEZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "VALLE HERMOSO, TAMAULIPAS", id: "6268261471" },
+    "3da9226f-6e07-41cc-8155-23cb900000001144": { nombre: "ARLETH MAYRANI ZAMORA PORTADA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "PUEBLA, PUEBLA", id: "6268261471" },
     "3da9226f-6e07-41cc-8155-23cb90008765110": { nombre: "VICTOR OTILIO TRUJILLO GUZMAN", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2018-07-15", emision: "2018-07-20", lugar: "TONALÁ, CHIAPAS", id: "6369261582" },
     "3da9226f-6e07-41cc-8155-23cb9000888811": { nombre: "JOSE LUIS GUERRERO GOMEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "TIJUANA, BAJA CALIFORNIA", id: "6470261693" },
     "3da9226f-6e07-41cc-8155-23cb9000050911": { nombre: "JUANA LOPEZ DE LA CRUZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2021-07-15", emision: "2021-07-20", lugar: "CANCUN, QUINTANA ROO", id: "6571261804" },
