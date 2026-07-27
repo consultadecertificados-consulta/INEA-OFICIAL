@@ -120,7 +120,7 @@ const baseDatos = {
     "c3e3d4e5-a6f7-4c8d-e9f0-a1b2c3d4e5f-": { nombre: "MARIA DE LOS ANGELES GUTIERREZ SANTOS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2020-q07-15", emision: "2020-07-20", lugar: "SAN MARTIN TEXMELUCAN, PUEBLA", id: "8491273703" },
     "d4f4e5f6-b7a8-4d9e-f0a1-b2c3d4e5f6a4": { nombre: "SILVERIO HERNANDEZ ZENDEJAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "TULTITLÁN, EDO MEX", id: "8592273814" },
     "e5a5f6a7-c8b9-4e0f-a1b2-c3d4e5f6a7b50": { nombre: "ARMANDO MARTINEZ MORALES", nivel: "SECUNDARIA", promedio: "7.6", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "HUEHUETLAN, SAN LUIS POTOSI", id: "8693273925" },
-    "f6b6a7b8-d9c0-4f1a-b2c3-d4e5f6a7b8c6": { nombre: "ALDO LOPEZ SANCHEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "PUEBLA, PUEBLA", id: "8794274036" },
+    "f6b6a7b8-d9c0-4f1a-b2c3-d4e5f6a7b8c6": { nombre: "....", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "PUEBLA, PUEBLA", id: "8794274036" },
     "a7c7b8c9-e0d1-4a2b-c3d4-e5f6a7b8c9d7": { nombre: "SALVADOR LEON CEBALLOS", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2016-07-17", emision: "2016-07-25", lugar: "COLIMA, COLIMA", id: "8895274147" },
     "b8d8c9d0-f1e2-4b3c-d4e5-f6a7b8c9d0e8": { nombre: "BERNABE SALVADOR HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-25", lugar: "CANCUN, QUINTANA ROO", id: "8996274258" },
     "c9e9d0e1-a2f3-4c4d-e5f6-a7b8c9d0e1f-": { nombre: ".....", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2026-05-08", emision: "2026-05-15", lugar: "MECAYAPAN, VERACRUZ", id: "9097274369" },
