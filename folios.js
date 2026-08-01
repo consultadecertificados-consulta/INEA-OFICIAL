@@ -5,7 +5,7 @@ const baseDatos = {
     "b2c3d4e5-f6a7-48b9-c0d1-2e3f4a5b6c7277": { nombre: "ELIBERTO GARCIA GARCIA", nivel: "SECUNDARIA", promedio: "9.5", conclusion: "1990-07-15", emision: "1990-07-20", lugar: "CÁRDENAS, TABASCO", id: "7379262582" },
     "c3d4e5f6-a7b8-49c0-d1e2-3f4a5b6c7d0077553": { nombre: "YASMIN VIRGINIA COVARRUBIAS OCAMPO", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "EL ARENAL, JALISCO", id: "7480262693" },
     "d4e5f6a7-b8c9-40d1-e2f3-4a5b6c7d8e9477112": { nombre: "GABRIEL DE JESUS RODRIGUEZ CHEGÜES", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "CHALCO, EDO MEX", id: "7581262804" },
-    "e5f6a7b8-c9d0-41e2-f3a4-5b6c7d8e9f0577": { nombre: ".......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "7682262915" },
+    "e5f6a7b8-c9d0-41e2-f3a4-5b0006c7d8e9f0577": { nombre: "ORFA CASIANO MEDINA", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NL", id: "7682262915" },
     "f6a7b8c9-d0e1-42f3-a4b5-6c7d8e9f0a1677": { nombre: ".......", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2025-11-17", emision: "2025-11-22", lugar: "GUADALAJARA, JALISCO", id: "7783263026" },
     "a7b8c9d0-e1f2-43a4-b5c6-7d8e9f0a1b2777": { nombre: ".......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-08-15", emision: "2024-08-20", lugar: "REYNOSA, TAMAULIPAS", id: "7884263137" },
     "b8c9d0e1-f2a3-44b5-c6d7-8e9f0a1b2c4556": { nombre: ".......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "COATEPEC, VERACRUZ", id: "7985263248" },
