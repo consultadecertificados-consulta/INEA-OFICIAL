@@ -8,7 +8,7 @@ const baseDatos = {
     "e5f6a7b8-c9d0-41e2-f3a4-5b0006c7d8e9f0577": { nombre: "ORFA CASIANO MEDINA", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NL", id: "7682262915" },
     "f6a7b8c9-d0e1-42f3-a4b5-6c7000d8e9f0a167-": { nombre: "FRANCISCO ADRIAN PEREZ PEREZ", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "AGUASCALIENTES, AGUASCALIENTES", id: "7783263026" },
     "a7b8c9d0-e1f2-43a4-b5c6-7d0008e9f0a1b2777": { nombre: "BRIAN ALONSO DIAZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "CIUDAD JUAREZ ,CHIHUAHUA", id: "7884263137" },
-    "b8c9d0e1-f2a3-44b5-c6d7-8e0009f0a1b2c4556": { nombre: ".......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "COATEPEC, VERACRUZ", id: "7985263248" },
+    "b8c9d0e1-f2a3-44b5-c6d7-8e0009f0a1b2c4556": { nombre: "JOSE ANTONIO TOXQUI MONTERO", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CHOLULA, PUEBLA", id: "7985263248" },
     "c9d0e1f2-a3b4-45c6-d7e8-9f0a1b2c3d4977": { nombre: ".......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MATAMOROS,TAMAULIPAS", id: "8086263359" },
     "d0e1f2a3-b4c5-46d7-e8f9-0a1b2c3d4e5077": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "8187263470" },
     "e1f2a3b4-c5d6-47e8-f90a-1b2c3d98767777": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEON", id: "8288263581" },
