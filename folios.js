@@ -11,7 +11,7 @@ const baseDatos = {
     "b8c9d0e1-f2a3-44b5-c6d7-8e0009f0a1b2c4556": { nombre: "JOSE ANTONIO TOXQUI MONTERO", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CHOLULA, PUEBLA", id: "7985263248" },
     "c9d0e1f2-a3b4-45c6-d7e8-9f0a1000b2c3d4977": { nombre: "GEIDY MARIELA  PEREZ  VASQUEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2016-07-15", emision: "2016-07-20", lugar: "JOLALPAN, PUEBLA", id: "8086263359" },
     "d0e1f2a3-b4c5-46d7-e8f9-0a1b0002c3d40e500": { nombre: "JESUS MORALES DURAN", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "MEXICALI, BC", id: "8187263470" },
-    "e1f2a3b4-c5d6-47e8-f90a-1b2c3d9879896777-": { nombre: "YORDI BERNAL LUIS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "CIUDAD JUÁREZ,CHIHUAHUA", id: "8288263581" },
+    "e1f2a3b4-c5d6-47e8-f90a-1b2c3d98798967770": { nombre: "ANSELMO BARRADAS PALMEROS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2016-07-15", emision: "2016-07-20", lugar: "TANTOYUCA, VERACRUZ", id: "8288263581" },
     "f2a3b4c5-d6e7-48f9-0a1b-2c3d4e55432877": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "8389263692" },
     "a3b4c5d6-e7f8-490a-1b2c-3d4e5f6a7b8777": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "8490263803" },
     "b4c5d6e7-f890-4a1b-2c3d-4e5f6a7b8c9757": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEON", id: "8591263914" },
