@@ -14,7 +14,7 @@ const baseDatos = {
     "e1f2a3b4-c5d6-47e8-f90a-1b2c3d98798967770": { nombre: "ANSELMO BARRADAS PALMEROS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2016-07-15", emision: "2016-07-20", lugar: "TANTOYUCA, VERACRUZ", id: "8288263581" },
     "f2a3b4c5-d6e7-48f9-0a1b-2c3d4e55430002877": { nombre: "JUAN RAUL PALMA ENRIQUEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2019-07-15", emision: "2019-07-20", lugar: "SANTIAGO MILTEPEC, TOLUCA DE LERDO", id: "8389263692" },
     "a3b4c5d6-e7f8-490a-1b2c-3d4e5f6000a7b8777": { nombre: "VICTORIA JANETH CADENA HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-07-15", emision: "2024-07-20", lugar: "CULIACÁN, SINALOA", id: "8490263803" },
-    "b4c5d6e7-f890-4a1b-2c3d-4e5f6a7b8c9757": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEON", id: "8591263914" },
+    "b4c5d6e7-f890-4a1b-2c3d-4e5f6a7b8000c9757": { nombre: "JUAN DIEGO GARCIA DIANAS", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "SAN LUIS POTOSI", id: "8591263914" },
     "c5d6e7f8-90a1-4b2c-3d4e-5f6a7b8c9d0557": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TOLUCA, ESTADO DE MÉXICO", id: "8692264025" },
     "d6e7f890-a1b2-4c3d-4e5f-6a7b8c9d0e5555": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2017-08-15", emision: "2017-08-20", lugar: "IZTAPALAPA, CIUDAD DE MEXICO", id: "8793264136" },
     "e7f890a1-b2c3-4d4e-5f6a-7b8c9d0e1f2766": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "8894264247" },
