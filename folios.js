@@ -17,7 +17,7 @@ const baseDatos = {
     "b4c5d6e7-f890-4a1b-2c3d-4e5f6a7b8000c9750": { nombre: "ANA KAREN DE ITA CRUZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "AMOZOC, PUEBLA", id: "8591263914" },
     "c5d6e7f8-90a1-4b2c-3d4e-5f6a7b8c9d0000557": { nombre: "JOSE EDUARDO ALCARAZ GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TIJUANA, BC", id: "8692264025" },
     "d6e7f890-a1b2-4c3d-4e5f-6a7b8c9d0000e5555": { nombre: "MILAGROS TRINIDAD COTA VERDUGO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "HUATABAMPO, SONORA", id: "8793264136" },
-    "e7f890a1-b2c3-4d4e-5f6a-7b8c9d0e1f2766": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "8894264247" },
+    "e7f890a1-b2c3-4d4e-5f6a-7b8c9d0e1000f2766": { nombre: "SERGIO HAUMADA ESCATEL", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MEXICALI, BC", id: "8894264247" },
     "f890a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a3655": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "BOCA DEL RIO, VERACRUZ", id: "8995264358" },
     "90a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4996": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "COLIMA, COLIMA", id: "9096264469" },
     "0a1b2c3d-4e5f-46a7-b8c9-d0e1f2a3b4c066": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEON", id: "9197264570" },
