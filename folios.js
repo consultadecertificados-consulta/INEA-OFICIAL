@@ -19,7 +19,7 @@ const baseDatos = {
     "d6e7f890-a1b2-4c3d-4e5f-6a7b8c9d0000e5557": { nombre: "ANA ROSA GARCIA TORRES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2019-07-15", emision: "2019-07-20", lugar: "ECATEPEC, EDO MEX", id: "8793264136" },
     "e7f890a1-b2c3-4d4e-5f6a-7b8c9d0e1000f2766": { nombre: "SERGIO HAUMADA ESCATEL", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MEXICALI, BC", id: "8894264247" },
     "f890a1b2-c3d4-4e5f-6a7b-8c9000d0e1f2a3655": { nombre: "MAURICIO ALEJANDRO HERNANDEZ SALINAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2026-06-15", emision: "2026-06-20", lugar: "MEXICALI, BC", id: "8995264358" },
-    "90a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b0084996": { nombre: "MELISSA MONTELONGO RAMIREZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2007-07-15", emision: "2007-07-20", lugar: "JIMENEZ, COAHUILA", id: "9096264469" },
+    "90a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b0084996": { nombre: "MELISSA MONTELONGO RAMIREZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2002-07-15", emision: "2002-07-20", lugar: "JIMENEZ, COAHUILA", id: "9096264469" },
     "0a1b2c3d-4e5f-46a7-b8c9-d0e1f2a3b4c066": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEON", id: "9197264570" },
     "1b2c3d4e-5f6a-47b8-c9d0-e1f2a3b4c5d177": { nombre: "......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "ECATEPEC DE MORELOS, ESTADO DE MÉXICO", id: "9298264681" },
     "2c3d4e5f-6a7b-48c9-d0e1-f2a3b4c5d6e757": { nombre: "......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2021-11-15", emision: "2021-11-20", lugar: "TUZANTAN DE MORELOS ,CHIAPAS", id: "9399264792" },
