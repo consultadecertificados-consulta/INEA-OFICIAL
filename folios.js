@@ -20,7 +20,7 @@ const baseDatos = {
     "e7f890a1-b2c3-4d4e-5f6a-7b8c9d0e1000f2766": { nombre: "SERGIO HAUMADA ESCATEL", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MEXICALI, BC", id: "8894264247" },
     "f890a1b2-c3d4-4e5f-6a7b-8c9000d0e1f2a3655": { nombre: "MAURICIO ALEJANDRO HERNANDEZ SALINAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2026-06-15", emision: "2026-06-20", lugar: "MEXICALI, BC", id: "8995264358" },
     "90a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b0084996": { nombre: "MELISSA MONTELONGO RAMIREZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2002-07-15", emision: "2002-07-20", lugar: "JIMENEZ, COAHUILA", id: "9096264469" },
-    "0a1b2c3d-4e5f-46a7-b8c9-d0e1f2a3b4c066": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEON", id: "9197264570" },
+    "0a1b2c3d-4e5f-46a7-b8c9-d0e0001f2a3b4c066": { nombre: "HECTOR DAMIAN ALVAREZ RAMOS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-07-15", emision: "2025-07-20", lugar: "GUADALAJARA, JALISCO", id: "9197264570" },
     "1b2c3d4e-5f6a-47b8-c9d0-e1f2a3b4c5d177": { nombre: "......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "ECATEPEC DE MORELOS, ESTADO DE MÉXICO", id: "9298264681" },
     "2c3d4e5f-6a7b-48c9-d0e1-f2a3b4c5d6e757": { nombre: "......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2021-11-15", emision: "2021-11-20", lugar: "TUZANTAN DE MORELOS ,CHIAPAS", id: "9399264792" },
     "3d4e5f6a-7b8c-49d0-e1f2-a3b4c5d6e7f575": { nombre: "......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "9410264903" },
