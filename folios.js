@@ -25,7 +25,7 @@ const baseDatos = {
     "2c3d4e5f-6a7b-48c9-d0e1-f2097a3b4c5d6e757": { nombre: "RODRIGO SAAVEDRA ARCEGA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MEXICALI, BC", id: "9399264792" },
     "3d4e5f6a-7b8c-49d0-e1f2-a3b4c0065d6e7f575": { nombre: "JOSE ALEJANDRO ORNELAS SANCHEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "SALTILLO, COAHUILA", id: "9410264903" },
     "4e5f6a7b-8c9d-40e1-f2a3-b4000c5d6e7f89457": { nombre: "EVELIN JEZABEL  LEON CERVANTES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "AGUASCALIENTES", id: "9511265014" },
-    "5f6a7b8c-9d0e-41f2-a3b4-c5d6e7f890a557": { nombre: ".......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ECATEPEC DE MORELOS, ESTADO DE MÉXICO", id: "9612265125" },
+    "5f6a7b8c-9d0e-41f2-a3b4-c5d6e7f888890a557": { nombre: "MARIA DE LOS ANGELES DE LA VEGA MORENO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2013-07-15", emision: "2013-07-20", lugar: "AZCAPOTZALCO,CDMX", id: "9612265125" },
     "6a7b8c9d-0e1f-42a3-b4c5-d6e7f890a1b657": { nombre: ".......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CIENEGA DE FLORES, NUEVO LEÓN", id: "9713265236" },
     "7b8c9d0e-1f2a-43b4-c5d6-e7f890a1b2c777": { nombre: "......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TECATE,BC", id: "9814265347" },
     "8c9d0e1f-2a3b-44c5-d6e7-f890a1b2c3d877": { nombre: ".......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2023-11-15", emision: "2023-11-20", lugar: "REYNOSA ,TAMAULIPAS", id: "9915265458" },
