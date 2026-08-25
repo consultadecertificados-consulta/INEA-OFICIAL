@@ -33,7 +33,7 @@ const baseDatos = {
     "0e1f2a3b-4c5d-46e7-f890-a1b2c3d0004e5f045": { nombre: "DOROTEO PEREZ CRUZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "OCOSINGO, CHIAPAS", id: "1117265670" },
     "1f2a3b4c-5d6e-47f8-90a1-b2c3d4e5000f65577": { nombre: "REBECA  MAYELI PEREZ SIMON", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2014-07-15", emision: "2014-07-20", lugar: "PAJAPAN, VERACRUZ", id: "1218265781" },
     "2a3b4c5d-6e7f-4809-a1b2-c3d4e5f6099a7b444": { nombre: "AMALIA GUADALUPE PIÑON CARMONA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "JESUS MARIA, AGUASCALIENTES", id: "1319265892" },
-    "3b4c5d6e-7f89-490a-1b2c-3d4e5f6a7b8357": { nombre: "........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2018-11-15", emision: "2018-11-20", lugar: "TLAJOMULCO DE ZUÑIGA, JALISCO", id: "1420266003" },
+    "3b4c5d6e-7f89-490a-1b2c-3d4e5f6a7330b8357": { nombre: "SERGIO GABRIEL DE LEON ROBLERO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TAPACHULA, CHIAPAS", id: "1420266003" },
     "4c5d6e7f-890a-4a1b-2c3d-4e5f6a7b8c9455": { nombre: ".........", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NL", id: "1521266114" },
     "5d6e7f89-0a1b-4b2c-3d4e-5f6a7b8c9d0577": { nombre: ".........", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ELOTA, SINALOA", id: "1622266225" },
     "6d7e8f90-a1b2-4c3d-4e5f-6a7b8c9d0e1677": { nombre: "..........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "COLIMA, COLIMA", id: "1723266336" },
