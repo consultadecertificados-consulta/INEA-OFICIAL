@@ -35,7 +35,7 @@ const baseDatos = {
     "2a3b4c5d-6e7f-4809-a1b2-c3d4e5f6099a7b444": { nombre: "AMALIA GUADALUPE PIÑON CARMONA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "JESUS MARIA, AGUASCALIENTES", id: "1319265892" },
     "3b4c5d6e-7f89-490a-1b2c-3d4e5f6a7330b835": { nombre: "JOVANNY DAVID FLORES LOPEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "IZTAPALAPA, CDMX", id: "1420266003" },
     "4c5d6e7f-890a-4a1b-2c3d-4e5f6a0097b8c9455": { nombre: "OMAR EDUARDO MONDRAGON RAMIREZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2023-07-15", emision: "2023-07-20", lugar: "URUAPAN,  MICHOACAN", id: "1521266114" },
-    "5d6e7f89-0a1b-4b2c-3d4e-5f6a7b8c9d0577": { nombre: ".........", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ELOTA, SINALOA", id: "1622266225" },
+    "5d6e7f89-0a1b-4b2c-3d4e-5f6a7b8c9d0000577": { nombre: "RODRIGO GOMEZ BUSTOS", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-06-15", emision: "2025-06-20", lugar: "CHIHUAHUA,   CHIHUAHUA ", id: "1622266225" },
     "6d7e8f90-a1b2-4c3d-4e5f-6a7b8c9d0e1677": { nombre: "..........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "COLIMA, COLIMA", id: "1723266336" },
     "7e8f90a1-b2c3-4d4e-5f6a-7b8c9d0e1f2445": { nombre: "..........", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUSTAVO A MADERO, CIUDAD DE MÉXICO", id: "1824266447" },
     "8f90a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a3857": { nombre: "..........", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2025-02-08", emision: "2025-03-03", lugar: "APATZINGÁN, MICHOACÁN", id: "1925266558" },
