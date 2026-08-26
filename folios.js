@@ -38,7 +38,7 @@ const baseDatos = {
     "5d6e7f89-0a1b-4b2c-3d4e-5f6a7b8c9d0000577": { nombre: "RODRIGO GOMEZ BUSTOS", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-06-15", emision: "2025-06-20", lugar: "CHIHUAHUA,   CHIHUAHUA ", id: "1622266225" },
     "6d7e8f90-a1b2-4c3d-4e5f-6a7b8c9d0e100067-": { nombre: "KARINA DE JESUS ARIAS ROSADO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-06-15", emision: "2025-06-20", lugar: "MERIDA,  YUCATÁN", id: "1723266336" },
     "7e8f90a1-b2c3-4d4e-5f6a-7b8c9d0e1f0062445": { nombre: "KARLA JAQUELINE LOPEZ MIRELES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-03-17", emision: "2025-03-20", lugar: "REYNOSA,TAMAULIPAS", id: "1824266447" },
-    "8f90a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a3857": { nombre: "..........", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2025-02-08", emision: "2025-03-03", lugar: "APATZINGÁN, MICHOACÁN", id: "1925266558" },
+    "8f90a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a003857": { nombre: "GERMAN HERNANDEZ SANCHEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MARTINEZ DE LA TORRE,   VERACRUZ", id: "1925266558" },
     "90a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4977": { nombre: "..........", nivel: "SECUNDARIA", promedio: "7.8", conclusion: "2024-08-23", emision: "2024-08-25", lugar: "COLIMA, COLIMA", id: "2026266669" },
     "a1b2c3d4-4e5f-46a7-b8c9-d0e1f2a3b4c066": { nombre: ".........", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CARDENAS ,TABASCO", id: "2127266770" },
     "b2c3d4e5-5f6a-47b8-c9d0-e1f2a3b4c5d555": { nombre: ".......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2018-11-15", emision: "2018-11-20", lugar: "TECAMAC, ESTADO DE MEXICO", id: "2228266881" },
