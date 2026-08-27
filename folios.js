@@ -39,7 +39,7 @@ const baseDatos = {
     "6d7e8f90-a1b2-4c3d-4e5f-6a7b8c9d0e100067-": { nombre: "KARINA DE JESUS ARIAS ROSADO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-06-15", emision: "2025-06-20", lugar: "MERIDA,  YUCATÁN", id: "1723266336" },
     "7e8f90a1-b2c3-4d4e-5f6a-7b8c9d0e1f0062445": { nombre: "KARLA JAQUELINE LOPEZ MIRELES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-03-17", emision: "2025-03-20", lugar: "REYNOSA,TAMAULIPAS", id: "1824266447" },
     "8f90a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a0038575": { nombre: "KARLA PAOLA BARTOLO TAPIA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-03-17", emision: "2025-03-20", lugar: "PUERTO VALLARTA,   JALISCO ", id: "1925266558" },
-    "90a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4977": { nombre: "..........", nivel: "SECUNDARIA", promedio: "7.8", conclusion: "2024-08-23", emision: "2024-08-25", lugar: "COLIMA, COLIMA", id: "2026266669" },
+    "90a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4987677": { nombre: "JESUS MANUEL VERA MOLINA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "NOGALES,   SONORA", id: "2026266669" },
     "a1b2c3d4-4e5f-46a7-b8c9-d0e1f2a3b4c066": { nombre: ".........", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "CARDENAS ,TABASCO", id: "2127266770" },
     "b2c3d4e5-5f6a-47b8-c9d0-e1f2a3b4c5d555": { nombre: ".......", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2018-11-15", emision: "2018-11-20", lugar: "TECAMAC, ESTADO DE MEXICO", id: "2228266881" },
     "c3d4e5f6-6a7b-48c9-d0e1-f2a3b4c5d6e666": { nombre: "-------", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2015-08-15", emision: "2015-08-20", lugar: "COLIMA, COLIMA", id: "2329266992" },
