@@ -44,7 +44,7 @@ const baseDatos = {
     "b2c3d4e5-5f6a-47b8-c9d0-e1f2a3b000400c5d5": { nombre: "FERNANDO ANWAR GUARDADO FIGAROLA", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2023-04-17", emision: "2023-04-20", lugar: "CHIAPAS,  CHIAPAS", id: "2228266881" },
     "c3d4e5f6-6a7b-48c9-d0e1-f2a3000b4c5d6e666": { nombre: "MARCO ARTURO LOPEZ CASTILLO", nivel: "SECUNDARIA", promedio: "8.7", conclusion: "2015-08-15", emision: "2015-08-20", lugar: "COLIMA, COLIMA", id: "2329266992" },
     "d4e5f6a7-7b8c-49d0-e1f2-a3b4c5d6e7f440004": { nombre: "GUSTAVO ESPINDOLA VIOLANTE", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-03-17", emision: "2025-03-20", lugar: "CUAUTLA, MORELOS", id: "2430267103" },
-    "e5f6a7b8-8c9d-40e1-f2a3-b4c5d6e7f89466": { nombre: "----------", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2021-11-15", emision: "2021-11-20", lugar: "TULANCINGO DE BRAVO, HIDALGO", id: "2531267214" },
+    "e5f6a7b8-8c9d-40e1-f2a3-b4c5d6e7f80009466": { nombre: "JOSE LUIS VICTORIANO REGALADO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-03-17", emision: "2025-03-20", lugar: "ACUÑA,   COAHUILA ", id: "2531267214" },
     "f6a7b8c9-9d0e-41f2-a3b4-c5d6e7f890a566": { nombre: "---------", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEÓN", id: "2632267325" },
     "6a7b8c9d-1e1f-42a3-b4c5-d6e7f890a1b675": { nombre: "-------", nivel: "PRIMARIA", promedio: "8.6", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEÓN", id: "2733267436" },
     "7b8c9d0e-2f2a-43b4-c5d6-e7f890a1b2c765": { nombre: "--------", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2026-05-15", emision: "2026-05-25", lugar: "ENSENADA, BC", id: "2834267547" },
