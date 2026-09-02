@@ -55,7 +55,7 @@ const baseDatos = {
     "f7a1b2c3-d4e5-4a6b-c7d8-e9f0a1b2c0003d166": { nombre: "BRIAN ALEXIS AGUILAR BAUTISTA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2026-07-15", emision: "2026-07-20", lugar: "EL MARQUÉS,  QUERÉTARO", id: "3238267981" },
     "e6b2c3d4-f5a6-4b7c-d8e9-f0a1b0002c3d4e255": { nombre: "ISAIAS ANGEL RESENDIS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "CD JUAREZ , CHIHUAHUA", id: "3339268092" }, 
         
-    "d5c3d4e5-a6f7-4c8d-e9f0-a1b2c3d4e5f366": { nombre: "-------", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ZAPOPAN, JALISCO", id: "3440268203" },
+    "d5c3d4e5-a6f7-4c8d-e9f0-a1b2c3d4e5f366": { nombre: "ESPERANZA GONZALEZ REYES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "HIDALGO,   TAMAULIPAS", id: "3440268203" },
     "c4d4e5f6-b7a8-4d9e-f0a1-b2c3d4e5f6a477": { nombre: "----------", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ZAPOPAN, JALISCO", id: "3541268314" },
     "b3e5f6a7-c8b9-4e0f-a1b2-c3d4e5f6a7b577": { nombre: "ISABEL GUADALUPE ESPINOZA CHAPA", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SAN JOSE GARCIA, NUEVO LEÓN", id: "3642268425" },
     "a2f6a7b8-d9c0-4f1a-b2c3-d4e5f6a7b8c657": { nombre: "DIEGO VENTURA ALFARO OVIEDO", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2018-11-15", emision: "2018-11-20", lugar: "MONTERREY, NL", id: "3743268536" },
