@@ -47,7 +47,7 @@ const baseDatos = {
     "e5f6a7b8-8c9d-40e1-f2a3-b4c5d6e7f80009466": { nombre: "JOSE LUIS VICTORIANO REGALADO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-03-17", emision: "2025-03-20", lugar: "ACUÑA,   COAHUILA ", id: "2531267214" },
     "f6a7b8c9-9d0e-41f2-a3b4-c5d6000e7f890a566": { nombre: "DANIEL MORENO NAJERA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TIJUANA,  BC", id: "2632267325" },
     "6a7b8c9d-1e1f-42a3-b4c5-d6e7000f890a1b675": { nombre: "LEONARDO GALLEGOS ROJAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2018-07-15", emision: "2018-07-20", lugar: "SAN MIGUEL DE ALLENDE,    GUANAJUATO ", id: "2733267436" },
-    "7b8c9d0e-2f2a-43b4-c5d6-e7f890a1b2c765": { nombre: "--------", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2026-05-15", emision: "2026-05-25", lugar: "ENSENADA, BC", id: "2834267547" },
+    "7b8c9d0e-2f2a-43b4-c5d6-e7f890a1b0002c765": { nombre: "JAZIBED MENDOZA PIÑA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TOLUCA,  EDO MEX", id: "2834267547" },
     "8c9d0e1f-3a3b-44c5-d6e7-f890a1b2c3d886": { nombre: "--------", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "IZTAPALAPA, CDMX", id: "2935267658" },
     "9d0e1f2a-4b4c-45d6-e7f8-90a1b2c3d4e966": { nombre: "--------", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2019-11-15", emision: "2019-11-20", lugar: "COATEPEC, VERACRUZ", id: "3036267769" },
     "0e1f2a3b-5c5d-46e7-f890-a1b2c3d4e5f056": { nombre: "---------", nivel: "SECUNDARIA", promedio: "9.0", conclusion: "2016-11-15", emision: "2016-11-20", lugar: "ZUMPANGO , ESTADO DE MÉXICO", id: "3137267870" },
