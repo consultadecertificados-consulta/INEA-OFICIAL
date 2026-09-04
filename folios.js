@@ -50,7 +50,7 @@ const baseDatos = {
     "7b8c9d0e-2f2a-43b4-c5d6-e7f890a1b0002c765": { nombre: "JAZIBED MENDOZA PIÑA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TOLUCA,  EDO MEX", id: "2834267547" },
     "8c9d0e1f-3a3b-44c5-d6e7-f890a1b2c3000d886": { nombre: "ANGELICA DANIELA DAMIAN CRUZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "CANCUN,   QUINTANARO", id: "2935267658" },
     "9d0e1f2a-4b4c-45d6-e7f8-90a1b2c3d0004e966": { nombre: "SARA VERONICA NAJERA MOGOLLAN", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "AZCAPOTZALCO,  CDMX", id: "3036267769" },
-    "0e1f2a3b-5c5d-46e7-f890-a1b2c3d4e5f056": { nombre: "---------", nivel: "SECUNDARIA", promedio: "9.0", conclusion: "2016-11-15", emision: "2016-11-20", lugar: "ZUMPANGO , ESTADO DE MÉXICO", id: "3137267870" },
+    "0e1f2a3b-5c5d-46e7-f890-a1b2c3d0004e5f056": { nombre: "JOSE JULIAN  CHAGALA RAMIREZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MEDELLIN,  VERACRUZ", id: "3137267870" },
      // --- SEGUNDA TANDA DE REGISTROS SIMULADOS (50 ADICIONALES) ---
     "f7a1b2c3-d4e5-4a6b-c7d8-e9f0a1b2c0003d166": { nombre: "BRIAN ALEXIS AGUILAR BAUTISTA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2026-07-15", emision: "2026-07-20", lugar: "EL MARQUÉS,  QUERÉTARO", id: "3238267981" },
     "e6b2c3d4-f5a6-4b7c-d8e9-f0a1b0002c3d4e255": { nombre: "ISAIAS ANGEL RESENDIS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "CD JUAREZ , CHIHUAHUA", id: "3339268092" }, 
