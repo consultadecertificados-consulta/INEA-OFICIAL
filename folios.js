@@ -56,8 +56,8 @@ const baseDatos = {
     "e6b2c3d4-f5a6-4b7c-d8e9-f0a1b0002c3d4e255": { nombre: "ISAIAS ANGEL RESENDIS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "CD JUAREZ , CHIHUAHUA", id: "3339268092" }, 
         
     "d5c3d4e5-a6f7-4c8d-e9f0-a1b2c3d4e5f366": { nombre: "ESPERANZA GONZALEZ REYES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "HIDALGO,   TAMAULIPAS", id: "3440268203" },
-    "c4d4e5f6-b7a8-4d9e-f0a1-b2c3d4e5f6a477": { nombre: "----------", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ZAPOPAN, JALISCO", id: "3541268314" },
-    "b3e5f6a7-c8b9-4e0f-a1b2-c3d4e5f6a7b577": { nombre: "ISABEL GUADALUPE ESPINOZA CHAPA", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SAN JOSE GARCIA, NUEVO LEÓN", id: "3642268425" },
+    "c4d4e5f6-b7a8-4d9e-f0a1-b2c3d4e5f6a477": { nombre: "MARIO EFRAIN RODRIGUEZ MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "LEÓN DE LOS ALDAMA,  GTO", id: "3541268314" },
+    "b3e5f6a7-c8b9-4e0f-a1b2-c3d4e5f6a7b577": { nombre: "....", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "SAN JOSE GARCIA, NUEVO LEÓN", id: "3642268425" },
     "a2f6a7b8-d9c0-4f1a-b2c3-d4e5f6a7b8c657": { nombre: "DIEGO VENTURA ALFARO OVIEDO", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2018-11-15", emision: "2018-11-20", lugar: "MONTERREY, NL", id: "3743268536" },
     "91a7b8c9-e0d1-4a2b-c3d4-e5f6a7b8c9d777": { nombre: "TERESA DE JESUS ESTRADA ESTRADA", nivel: "PRIMARIA", promedio: "8.2", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "JUAREZ, NUEVO LEON", id: "3844268647" },
     "80b8c9d0-f1e2-4b3c-d4e5-f6a7b8c9d0e877": { nombre: "IRVING ALEJANDRO RIVERA LUNA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2020-11-15", emision: "2020-11-20", lugar: "VENUSTIANO CARRANZA, CDMX", id: "3945268758" },
