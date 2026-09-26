@@ -2,7 +2,7 @@
 const baseDatos = {
 
     "a1b2c3d4-e5f6-47a8-b9c0-1d2e3f4a5b6ll7777": { nombre: "ALEJANDRA CHAVEZ GOMEZ", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2026-02-26", emision: "2026-02-27", lugar: "TOLUCA, MÉXICO", id: "7278262471" },
-    "b2c3d4e5-f6a7-48b9-c0d1-2e3f4a5b6c7277": { nombre: "ELIBERTO GARCIA GARCIA", nivel: "SECUNDARIA", promedio: "9.5", conclusion: "1990-07-15", emision: "1990-07-20", lugar: "CÁRDENAS, TABASCO", id: "7379262582" },
+    "b2c3d4e5-f6a7-48b9-c0d1-2e3f4a5b6c7277": { nombre: "MANUEL ALEJANDRO JUAREZ GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MONTERREY, NUEVO LEON", id: "7379262582" },
     "c3d4e5f6-a7b8-49c0-d1e2-3f4a5b6c7d0077553": { nombre: "YASMIN VIRGINIA COVARRUBIAS OCAMPO", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "EL ARENAL, JALISCO", id: "7480262693" },
     "d4e5f6a7-b8c9-40d1-e2f3-4a5b6c7d8e9477112": { nombre: "GABRIEL DE JESUS RODRIGUEZ CHEGÜES", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "CHALCO, EDO MEX", id: "7581262804" },
     "e5f6a7b8-c9d0-41e2-f3a4-5b0006c7d8e9f0577": { nombre: "ORFA CASIANO MEDINA", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NL", id: "7682262915" },
