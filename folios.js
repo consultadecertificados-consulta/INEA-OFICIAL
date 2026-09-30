@@ -110,8 +110,8 @@ const baseDatos = {
     "3da9226f-6e07-41cc-8155-23cb900005091-": { nombre: "RAMON LEYVA GONZALEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2021-07-15", emision: "2021-07-20", lugar: "ESTADO DE MICHOACÁN", id: "6571261804" },
     "3da9226f-6e07-41cc-8155-23cb90000508110": { nombre: "LUIS ANGEL ESTRADA TORRES", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "SALTILLO, COAHUILA", id: "6672261915" },
     "3da9226f-6e07-41cc-8155-23cb9000050511-": { nombre: "CRISTIAN GEOVANY MENDOZA HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "ESCOBEDO, NUEVO LEÓN", id: "6773262026" },
-    "3da9226f-6e07-41cc-8155-23cb90000501112": { nombre: "...", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2020-07-15", emision: "2020-07-20", lugar: "REYNOSA, TAMAULIPAS", id: "6874262137" },
-    "3da9226f-6e07-41cc-8155-23cb90000502119": { nombre: "ROSENDA VELAZQUEZ MARTINEZ", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "VERACRUZ, VER", id: "6975262248" },
+    "3da9226f-6e07-41cc-8155-23cb90000501112": { nombre: "CLAUDIA ELIZABETH RUIZ CARRILLO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "ESTADO DE AGUASCALIENTES", id: "6874262137" },
+    "3da9226f-6e07-41cc-8155-23cb90000502119": { nombre: "...", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "VERACRUZ, VER", id: "6975262248" },
     "2da9226f-6e07-41cc-81f6-23cb903e65c01198": { nombre: "JAVIER FRANCISCO HERNANDEZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "CHIMALHUACAN, EDO MEX", id: "7076262359" },
     "2da9226f-6e07-41cc-81f6-23cb903e65y01154": { nombre: "ERIKA  ALVARES OCHOA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "OAXACA, OAXACA", id: "7177262470" },
    // --- NUEVOS REGISTROS SIMULADOS (50 ADICIONALES) ---
