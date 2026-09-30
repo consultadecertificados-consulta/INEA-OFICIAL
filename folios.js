@@ -113,9 +113,9 @@ const baseDatos = {
     "3da9226f-6e07-41cc-8155-23cb90000501112": { nombre: "CLAUDIA ELIZABETH RUIZ CARRILLO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "ESTADO DE AGUASCALIENTES", id: "6874262137" },
     "3da9226f-6e07-41cc-8155-23cb90000502119": { nombre: "ANAHI CAMPO MAYA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "CHIMALHUACÁN, EDO MEX", id: "6975262248" },
     "2da9226f-6e07-41cc-81f6-23cb903e65c0119-": { nombre: "JESUS ANTONIO RUIZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "OAXACA DE JUÁREZ", id: "7076262359" },
-    "2da9226f-6e07-41cc-81f6-23cb903e65y01154": { nombre: "...", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "OAXACA, OAXACA", id: "7177262470" },
+    "2da9226f-6e07-41cc-81f6-23cb903e65y01154": { nombre: "ISAIAS PATIÑO PAREDES", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "ACAJETE, PUEBLA", id: "7177262470" },
    // --- NUEVOS REGISTROS SIMULADOS (50 ADICIONALES) ---
-    "a1b2c3d4-e5f6-47a8-b9c0-1d2e3f4a5b6ll": { nombre: "LAURA JUAREZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "TIJUANA, BC", id: "7278262471" },
+    "a1b2c3d4-e5f6-47a8-b9c0-1d2e3f4a5b6ll": { nombre: "...", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "TIJUANA, BC", id: "7278262471" },
     "b2c3d4e5-f6a7-48b9-c0d1-2e3f4a5b6c72": { nombre: "SERGIO SAMUEL SIMBRON SANTES", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "REYNOSA, TAMAULIPAS", id: "7379262582" },
     "c3d4e5f6-a7b8-49c0-d1e2-3f4a5b6c7d00": { nombre: "IMELDA LEYVA VAZQUEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2018-07-15", emision: "2018-07-20", lugar: "CULIACÁN, SINALOA", id: "7480262693" },
     "d4e5f6a7-b8c9-40d1-e2f3-4a5b6c7d8e94": { nombre: "RICARDO ELISEO ARMENTA RAMIREZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2022-07-15", emision: "2022-07-20", lugar: "SARIC, SONORA", id: "7581262804" },
