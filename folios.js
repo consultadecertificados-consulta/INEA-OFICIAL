@@ -112,7 +112,7 @@ const baseDatos = {
     "3da9226f-6e07-41cc-8155-23cb9000050511-": { nombre: "CRISTIAN GEOVANY MENDOZA HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "ESCOBEDO, NUEVO LEÓN", id: "6773262026" },
     "3da9226f-6e07-41cc-8155-23cb90000501112": { nombre: "CLAUDIA ELIZABETH RUIZ CARRILLO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "ESTADO DE AGUASCALIENTES", id: "6874262137" },
     "3da9226f-6e07-41cc-8155-23cb90000502119": { nombre: "ANAHI CAMPO MAYA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "CHIMALHUACÁN, EDO MEX", id: "6975262248" },
-    "2da9226f-6e07-41cc-81f6-23cb903e65c01198": { nombre: "JESUS ANTONIO RUIZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "OAXACA DE JUÁREZ", id: "7076262359" },
+    "2da9226f-6e07-41cc-81f6-23cb903e65c0119-": { nombre: "JESUS ANTONIO RUIZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "OAXACA DE JUÁREZ", id: "7076262359" },
     "2da9226f-6e07-41cc-81f6-23cb903e65y01154": { nombre: "...", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "OAXACA, OAXACA", id: "7177262470" },
    // --- NUEVOS REGISTROS SIMULADOS (50 ADICIONALES) ---
     "a1b2c3d4-e5f6-47a8-b9c0-1d2e3f4a5b6ll": { nombre: "LAURA JUAREZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "TIJUANA, BC", id: "7278262471" },
