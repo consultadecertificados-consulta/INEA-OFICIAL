@@ -226,7 +226,7 @@ const baseDatos = {
     "a7c7b8c9-e0d1-4a2b-c3d4-e5f6a7b8c9d7": { nombre: "SALVADOR LEON CEBALLOS", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2016-07-17", emision: "2016-07-25", lugar: "COLIMA, COLIMA", id: "8895274147" },
     "b8d8c9d0-f1e2-4b3c-d4e5-f6a7b8c9d0e8": { nombre: "BERNABE SALVADOR HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-25", lugar: "CANCUN, QUINTANA ROO", id: "8996274258" },
     "c9e9d0e1-a2f3-4c4d-e5f6-a7b8c9d0e1f5": { nombre: "SAUL ERNESTO GONZALEZ MORENO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TONALA, JALISCO", id: "9097274369" },
-    "d0f0e1f2-b3a4-4d5e-f6a7-b8c9d0e1f2a0": { nombre: "..", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2024-07-15", emision: "2024-07-20", lugar: "TIJUANA, BC", id: "9198274480" },
+    "d0f0e1f2-b3a4-4d5e-f6a7-b8c9d0e1f2a0": { nombre: "ITAYETZY MONSERRAT GUTIERREZ SANDOVAL", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "JEREZ DE GARCIA SALINAS,  ZACATECAS", id: "9198274480" },
     "e1a1f2a3-c4b5-4e6f-a7b8-c9d0e1f2a3b1": { nombre: "..", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "JALTICAN , PUEBLA", id: "9299274591" },
     "f2b2a3b4-d5c6-4f7a-b8c9-d0e1f2a3b4c2": { nombre: "GERARDO MOISES AGUILAR GARCIA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "AGUASCALIENTES", id: "9310274702" },
     "a3c3b4c5-e6d7-4a8b-c9d0-e1f2a3b4c5d33": { nombre: "NEFTALI BARRIOS PEREZ", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2013-07-15", emision: "2013-07-20", lugar: "MAPASTEPEC, CHIAPAS", id: "9411274813" },
