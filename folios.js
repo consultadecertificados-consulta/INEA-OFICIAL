@@ -1,7 +1,7 @@
 // folios.js - Base de datos completa de certificados INEA (60 Registros)
 const baseDatos = {
 
-    "a1b2c3d4-e5f6-47a8-b9c0-1d2e3f4a5b6ll7777": { nombre: "RODRIGO JOSHUA RESENDIZ GALLARDO", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2026-02-26", emision: "2026-02-27", lugar: "TOLUCA, MÉXICO", id: "7278262471" },
+    "a1b2c3d4-e5f6-47a8-b9c0-1d2e3f4a5b6ll7777": { nombre: "RODRIGO JOSHUA RESENDIZ GALLARDO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "COACALCO, EDO MEX", id: "7278262471" },
     "b2c3d4e5-f6a7-48b9-c0d1-2e3f4a5b6c7277": { nombre: "MANUEL ALEJANDRO JUAREZ GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MONTERREY, NUEVO LEON", id: "7379262582" },
     "c3d4e5f6-a7b8-49c0-d1e2-3f4a5b6c7d0077553": { nombre: "YASMIN VIRGINIA COVARRUBIAS OCAMPO", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "EL ARENAL, JALISCO", id: "7480262693" },
     "d4e5f6a7-b8c9-40d1-e2f3-4a5b6c7d8e9477112": { nombre: "GABRIEL DE JESUS RODRIGUEZ CHEGÜES", nivel: "SECUNDARIA", promedio: "8.1", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "CHALCO, EDO MEX", id: "7581262804" },
