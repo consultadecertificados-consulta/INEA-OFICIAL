@@ -123,7 +123,7 @@ const baseDatos = {
     "f6a7b8c9-d0e1-42f3-a4b5-6c7d8e9f0a1": { nombre: "MARTIN PARRA IBARRA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "VERACRUZ, VER", id: "7783263026" },
     "a7b8c9d0-e1f2-43a4-b5c6-7d8e9f0a1b4": { nombre:  "JOSE MANUEL MATIAS COBRALES", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2023-07-15", emision: "2023-07-20", lugar: "TIJUANA,  BAJA CALIFORNIA", id: "7884263137" },
     "b8c9d0e1-f2a3-44b5-c6d7-8e9f0a1b2c": { nombre:   "XIMENA GERALDINE MONZON GARCIA ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "CELAYA, GUANAJUATO", id: "7985263248" },
-    "c9d0e1f2-a3b4-45c6-d7e8-9f0a1b2c3d4": { nombre: "lEVARISTO VALENCIA SANCHEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "CHIMALHUACÁN,EDO MEX", id: "8086263359" },
+    "c9d0e1f2-a3b4-45c6-d7e8-9f0a1b2c3d-": { nombre: "lEVARISTO VALENCIA SANCHEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "CHIMALHUACÁN,EDO MEX", id: "8086263359" },
     "d0e1f2a3-b4c5-46d7-e8f9-0a1b2c3d4e50": { nombre: "...", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "8187263470" },
     "e1f2a3b4-c5d6-47e8-f90a-1b2c3d98767": { nombre: "JOSE ALBERTO CEPEDA MORAN", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEON", id: "8288263581" },
     "f2a3b4c5-d6e7-48f9-0a1b-2c3d4e554328": { nombre: "ANAI RAFAELA MURILLO MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALAJARA, JALISCO", id: "8389263692" },
