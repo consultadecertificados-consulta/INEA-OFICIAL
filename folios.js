@@ -327,8 +327,8 @@ const baseDatos = {
     "3da9226f-6e07-41cc-8155-23cb90000509": { nombre: "MARIA CONCEPCION LOPEZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-11-15", emision: "2024-11-20", lugar: "NICOLAS ROMERO, EDO MEX", id: "6571261804" },
     "3da9226f-6e07-41cc-8155-23cb90000508": { nombre: "ERIKA RAMIREZ MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TEMASCALCINGO, ESTADO DE MEXICO", id: "6672261915" },
     "3da9226f-6e07-41cc-8155-23cb90000505": { nombre: "GEOVANNA JAZMIN MONTOYA RUIZ", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NUEVO LEON", id: "6773262026" },
-    "3da9226f-6e07-41cc-8155-23cb90000501": { nombre: "MARIA ESTHER MALDONADO NORIEGA", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTEREY, NUEVO LEON", id: "6874262137" },
-    "3da9226f-6e07-41cc-8155-23cb90000502": { nombre: "....", nivel: "SECUNDARIA", promedio: "8.0", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TULANCINGO DE BRAVO, HIDALGO", id: "6975262248" },
+    "3da9226f-6e07-41cc-8155-23cb90000501": { nombre: "..,.", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTEREY, NUEVO LEON", id: "6874262137" },
+    "3da9226f-6e07-41cc-8155-23cb90000502": { nombre: "VICENTE SACRAMENTO JIMENEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "VERACRUZ,   VERACRUZ", id: "6975262248" },
     "2da9226f-6e07-41cc-81f6-23cb903e65c0": { nombre: "HECTOR ALBERTO NAJERA MOGOLLAN", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "AZCAPOTZALCO,  CIUDAD DE MÉXICO", id: "7076262359" },
     "2da9226f-6e07-41cc-81f6-23cb903e65y0": { nombre: "FLORENCIO LOZORIA ARREOLA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2026-07-15", emision: "2026-07-20", lugar: "ESTADO DE DURANGO", id: "7177262470" },
 };
