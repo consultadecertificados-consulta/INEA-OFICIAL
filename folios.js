@@ -1,6 +1,125 @@
 // folios.js - Base de datos completa de certificados INEA (60 Registros)
 const baseDatos = {
 
+
+    "a1b2c3d4-e5f6-47a8-b9c0-012e3f4a5b6ll7777": { nombre: ".....", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "VILLAMAR,  MICHOACAN", id: "7278262471" },
+    "b2c3d4e5-f6a7-48b9-c0d1-023f4a5b6c7277": { nombre: "MANUEL ALEJANDRO JUAREZ GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MONTERREY, NUEVO LEON", id: "7379262582" },
+    "c3d4e5f6-a7b8-49c0-d1e2-034a5b6c7d0077553": { nombre: "NOEL AVILA RAMIREZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "ESTADO DE CHIHUAHUA", id: "7480262693" },
+    "d4e5f6a7-b8c9-40d1-e2f3-045b6c7d8e9477117": { nombre: "FLOR DEL ROSARIO CACERES CARAVANTES", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "IXTAPALUCA,  ESTADO DE MÉXICO", id: "7581262804" },
+    "e5f6a7b8-c9d0-41e2-f3a4-050006c7d8e9f0577": { nombre: "NOEL AVILA RAMIREZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "ESTADO DE CHIHUAHUA", id: "7682262915" },
+    "f6a7b8c9-d0e1-42f3-a4b5-067000d8e9f0a1670": { nombre: "MARIBEL GARCIA ORTIZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2010-07-15", emision: "2010-07-25", lugar: "CD JUAREZ, CHIHUAHUA", id: "7783263026" },
+    "a7b8c9d0-e1f2-43a4-b5c6-070008e9f0a1b2777": { nombre: "DIEGO ARMANDO GAEL OLMOS CARRILLO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TONALA, JALISCO", id: "7884263137" },
+    "b8c9d0e1-f2a3-44b5-c6d7-080009f0a1b2c4556": { nombre: "ERNESTO PEREZ MONTOYA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MONTERREY, NUEVO LEON", id: "7985263248" },
+    "c9d0e1f2-a3b4-45c6-d7e8-09f0a1000b2c3d4977": { nombre: "GEIDY MARIELA  PEREZ  VASQUEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2016-07-15", emision: "2016-07-20", lugar: "JOLALPAN, PUEBLA", id: "8086263359" },
+    "d0e1f2a3-b4c5-46d7-e8f9-101b0002c3d40e500": { nombre: "VICTORIA CALIXTO HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "1992-07-15", emision: "1992-07-20", lugar: "LAS CHOAPAS, VERACRUZ", id: "8187263470" },
+    "e1f2a3b4-c5d6-47e8-f90a-112c3d98798967776": { nombre: "JULIO ALBERTO GOMEZ ALEMAN", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "REYNOSA, TAMAULIPAS", id: "8288263581" },
+    "f2a3b4c5-d6e7-48f9-0a1b-123d4e5543000287-": { nombre: "VICTORIA JOSEFINA RUIZ VILLA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "JALISCO,  JALISCO", id: "8389263692" },
+    "a3b4c5d6-e7f8-490a-1b2c-134e5f6000a7b8777": { nombre: "VICTORIA JANETH CADENA HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-07-15", emision: "2024-07-20", lugar: "CULIACÁN, SINALOA", id: "8490263803" },
+    "b4c5d6e7-f890-4a1b-2c3d-145f6a7b8000c9750": { nombre: "ANA KAREN DE ITA CRUZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "AMOZOC, PUEBLA", id: "8591263914" },
+    "c5d6e7f8-90a1-4b2c-3d4e-156a7b8c9d0000557": { nombre: "JOSE EDUARDO ALCARAZ GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TIJUANA, BC", id: "8692264025" },
+    "d6e7f890-a1b2-4c3d-4e5f-167b8c9d0000e5557": { nombre: "ANA ROSA GARCIA TORRES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2019-07-15", emision: "2019-07-20", lugar: "ECATEPEC, EDO MEX", id: "8793264136" },
+    "e7f890a1-b2c3-4d4e-5f6a-178c9d0e1000f2766": { nombre: "SERGIO HAUMADA ESCATEL", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MEXICALI, BC", id: "8894264247" },
+    "f890a1b2-c3d4-4e5f-6a7b-189000d0e1f2a3655": { nombre: "MAURICIO ALEJANDRO HERNANDEZ SALINAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2026-06-15", emision: "2026-06-20", lugar: "MEXICALI, BC", id: "8995264358" },
+    "90a1b2c3-d4e5-4f6a-7b8c-190e1f2a3b0084996": { nombre: "MELISSA MONTELONGO RAMIREZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2002-07-15", emision: "2002-07-20", lugar: "JIMENEZ, COAHUILA", id: "9096264469" },
+    "0a1b2c3d-4e5f-46a7-b8c9-20e0001f2a3b4c066": { nombre: "HECTOR DAMIAN ALVAREZ RAMOS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-07-15", emision: "2025-07-20", lugar: "GUADALAJARA, JALISCO", id: "9197264570" },
+    "1b2c3d4e-5f6a-47b8-c9d0-21001f2a3b4c5d178": { nombre: "ERASMO VERDUGO VAZQUEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TAPACHULA, CHIAPAS", id: "9298264681" },
+    "2c3d4e5f-6a7b-48c9-d0e1-22097a3b4c5d6e757": { nombre: "RODRIGO SAAVEDRA ARCEGA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MEXICALI, BC", id: "9399264792" },
+    "3d4e5f6a-7b8c-49d0-e1f2-23b4c0065d6e7f575": { nombre: "JOSE ALEJANDRO ORNELAS SANCHEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "SALTILLO, COAHUILA", id: "9410264903" },
+    "4e5f6a7b-8c9d-40e1-f2a3-24000c5d6e7f89457": { nombre: "EVELIN JEZABEL  LEON CERVANTES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "AGUASCALIENTES", id: "9511265014" },
+    "5f6a7b8c-9d0e-41f2-a3b4-25d6e7f888890a557": { nombre: "MARIA DE LOS ANGELES DE LA VEGA MORENO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2013-07-15", emision: "2013-07-20", lugar: "AZCAPOTZALCO,CDMX", id: "9612265125" },
+    "6a7b8c9d-0e1f-42a3-b4c5-26e7f000890a1b657": { nombre: "FELICIA DEL CARMEN SALINAS ALVARADO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TIJUANA, BC", id: "9713265236" },
+    "7b8c9d0e-1f2a-43b4-c5d6-27f890a1b2c700077": { nombre: "MARIA CONCEPCION GASPAR DEL CARMEN", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2011-07-15", emision: "2011-07-20", lugar: "FORTIN, VER", id: "9814265347" },
+    "8c9d0e1f-2a3b-44c5-d6e7-2890a0001b2c3d877": { nombre: "FELIX ALFREDO HERNANDEZ SALINAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TIJUANA, BC", id: "9915265458" },
+    "9d0e1f2a-3b4c-45d6-e7f8-29a1b2c0003d4e577": { nombre: "PATRIK DANIEL HERNANDEZ TORRES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "CHILPANCINGO, GUERRERO", id: "1016265569" },
+    "0e1f2a3b-4c5d-46e7-f890-30b2c3d0004e5f045": { nombre: "DOROTEO PEREZ CRUZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "OCOSINGO, CHIAPAS", id: "1117265670" },
+    "1f2a3b4c-5d6e-47f8-90a1-31c3d4e5000f65577": { nombre: "REBECA  MAYELI PEREZ SIMON", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2014-07-15", emision: "2014-07-20", lugar: "PAJAPAN, VERACRUZ", id: "1218265781" },
+    "2a3b4c5d-6e7f-4809-a1b2-32d4e5f6099a7b444": { nombre: "AMALIA GUADALUPE PIÑON CARMONA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "JESUS MARIA, AGUASCALIENTES", id: "1319265892" },
+    "3b4c5d6e-7f89-490a-1b2c-334e5f6a7330b835": { nombre: "JOVANNY DAVID FLORES LOPEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "IZTAPALAPA, CDMX", id: "1420266003" },
+    "4c5d6e7f-890a-4a1b-2c3d-345f6a0097b8c9455": { nombre: "OMAR EDUARDO MONDRAGON RAMIREZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2023-07-15", emision: "2023-07-20", lugar: "URUAPAN,  MICHOACAN", id: "1521266114" },
+    "5d6e7f89-0a1b-4b2c-3d4e-356a7b8c9d0000577": { nombre: "RODRIGO GOMEZ BUSTOS", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2025-06-15", emision: "2025-06-20", lugar: "CHIHUAHUA,   CHIHUAHUA ", id: "1622266225" },
+    "6d7e8f90-a1b2-4c3d-4e5f-367b8c9d0e10006": { nombre: "EMILIANO GUADALUPE RODRIGUEZ TREVIÑO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2026-08-15", emision: "2026-08-20", lugar: "RAMOS ARIZPE,  COAHUILA", id: "1723266336" },
+    "7e8f90a1-b2c3-4d4e-5f6a-378c9d0e1f0062445": { nombre: "KARLA JAQUELINE LOPEZ MIRELES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-03-17", emision: "2025-07-20", lugar: "REYNOSA,TAMAULIPAS", id: "1824266447" },
+    "8f90a1b2-c3d4-4e5f-6a7b-389d0e1f2a0038574": { nombre: "MIGUEL ANGEL CISNEROS ALVARADO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "REYNOSA , TAMAULIPAS", id: "1925266558" },
+    "90a1b2c3-d4e5-4f6a-7b8c-390e1f2a3b4987677": { nombre: "BRANDON KREING LOPEZ LUNA", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "PUEBLA ,PUEBLA", id: "2026266669" },
+    "b2c3d4e5-5f6a-47b8-c9d0-40f2a3b0004c5d555": { nombre: "JOSE MANUEL VERA MOLINA", nivel: "SECUNDARIA", promedio: "8.7", conclusion: "2025-05-25", emision: "2025-05-26", lugar: " NOGALES,   SONORA", id: "2127266770" },
+    "b2c3d4e5-5f6a-47b8-c9d0-41f2a3b000400c5d5": { nombre: "FERNANDO ANWAR GUARDADO FIGAROLA", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2023-04-17", emision: "2023-04-20", lugar: "CHIAPAS,  CHIAPAS", id: "2228266881" },
+    "c3d4e5f6-6a7b-48c9-d0e1-42a3000b4c5d6e666": { nombre: "MARCO ARTURO LOPEZ CASTILLO", nivel: "SECUNDARIA", promedio: "8.7", conclusion: "2015-08-15", emision: "2015-08-20", lugar: "COLIMA, COLIMA", id: "2329266992" },
+    "d4e5f6a7-7b8c-49d0-e1f2-43b4c5d6e7f440004": { nombre: "GUSTAVO ESPINDOLA VIOLANTE", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-03-17", emision: "2025-03-20", lugar: "CUAUTLA, MORELOS", id: "2430267103" },
+    "e5f6a7b8-8c9d-40e1-f2a3-44c5d6e7f80009466": { nombre: "JOSE LUIS VICTORIANO REGALADO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-03-17", emision: "2025-03-20", lugar: "ACUÑA,   COAHUILA ", id: "2531267214" },
+    "f6a7b8c9-9d0e-41f2-a3b4-45d6000e7f890a566": { nombre: "DANIEL MORENO NAJERA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TIJUANA,  BC", id: "2632267325" },
+    "6a7b8c9d-1e1f-42a3-b4c5-46e7000f890a1b675": { nombre: "LEONARDO GALLEGOS ROJAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2018-07-15", emision: "2018-07-20", lugar: "SAN MIGUEL DE ALLENDE,    GUANAJUATO ", id: "2733267436" },
+    "7b8c9d0e-2f2a-43b4-c5d6-47f890a1b0002c765": { nombre: "JAZIBED MENDOZA PIÑA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TOLUCA,  EDO MEX", id: "2834267547" },
+    "8c9d0e1f-3a3b-44c5-d6e7-4890a1b2c3000d886": { nombre: "ANGELICA DANIELA DAMIAN CRUZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "CANCUN,   QUINTANARO", id: "2935267658" },
+    "9d0e1f2a-4b4c-45d6-e7f8-49a1b2c3d0004e966": { nombre: "SARA VERONICA NAJERA MOGOLLAN", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "AZCAPOTZALCO,  CDMX", id: "3036267769" },
+    "0e1f2a3b-5c5d-46e7-f890-50b2c3d0004e5f056": { nombre: "JOSE JULIAN  CHAGALA RAMIREZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MUNICIPIO DE MEDELLIN DE BRAVO,  VERACRUZ ", id: "3137267870" },
+     // --- SEGUNDA TANDA DE REGISTROS SIMULADOS (50 ADICIONALES) ---
+    "f7a1b2c3-d4e5-4a6b-c7d8-51f0a1b2c0003d166": { nombre: "BRIAN ALEXIS AGUILAR BAUTISTA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2026-07-15", emision: "2026-07-20", lugar: "EL MARQUÉS,  QUERÉTARO", id: "3238267981" },
+    "e6b2c3d4-f5a6-4b7c-d8e9-52a1b0002c3d4e255": { nombre: "ISAIAS ANGEL RESENDIS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "CD JUAREZ , CHIHUAHUA", id: "3339268092" }, 
+    "d5c3d4e5-a6f7-4c8d-e9f0-53b2c3d4e5f366": { nombre: "ESPERANZA GONZALEZ REYES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "HIDALGO,   TAMAULIPAS", id: "3440268203" },
+    "c4d4e5f6-b7a8-4d9e-f0a1-54c3d4e5f6a477": { nombre: "MARIO EFRAIN RODRIGUEZ MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "LEÓN DE LOS ALDAMA,  GTO", id: "3541268314" },
+    "b3e5f6a7-c8b9-4e0f-a1b2-55d4e5f6a7b577": { nombre: "OMAR SANTIAGO MARTINEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "NICOLÁS ROMERO,   EDO MEX", id: "3642268425" },
+    "a2f6a7b8-d9c0-4f1a-b2c3-56e5f6a7b8c657": { nombre: "JOSE LEONARDO MARTINEZ NIEVES", nivel: "PRIMARIA", promedio: "8.5", conclusion: "2026-07-15", emision: "2026-07-20", lugar: "GUADALAJARA,  JALISCO", id: "3743268536" },
+    "91a7b8c9-e0d1-4a2b-c3d4-57f6a7b8c9d777": { nombre: "MARISOL PEREZ SANDOVAL", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2026-01-15", emision: "2026-01-20", lugar: "AZCAPOTZALCO,  CDMX", id: "3844268647" },
+    "80b8c9d0-f1e2-4b3c-d4e5-58a7b8c9d0e877": { nombre: "JESSICA GABRIELA CRUZ SALDAÑA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2021-07-15", emision: "2021-07-20", lugar: "NEZAHUALCÓYOTL,   EDO MEX", id: "3945268758" },
+    "79c9d0e1-a2f3-4c4d-e5f6-59b8c9d0e1f9758": { nombre: "JESUS IVAN LOPEZ LUGO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2026-08-17", emision: "2026-08-23", lugar: "MONTERREY,  NUEVO LEON ", id: "4046268869" },
+    "68d0e1f2-b3a4-4d5e-f6a7-60c9d0e1f2a077": { nombre: "JUAN FRANCISCO FLORES GARCIA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2019-07-15", emision: "2019-07-20", lugar: "VERACRUZ, VER", id: "4147268970" },
+    "57e1f2a3-c4b5-4e6f-a7b8-61d0e1f2a3b178": { nombre: "ROBERTO LOPEZ HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "1990-07-15", emision: "1990-07-20", lugar: "LAS CHOAPAS, VERACRUZ", id: "4248269081" },
+    "46f2a3b4-d5c6-4f7a-b8c9-62e1f2a3b4c258": { nombre: "JULIO DAVID HERNANDEZ DE LEON", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2017-07-15", emision: "2017-07-20", lugar: "TAPACHULA, CHIAPAS", id: "4349269192" },
+    "35a3b4c5-e6d7-4a8b-c9d0-63f2a3b4c5d357": { nombre: "MARIA GUADALUPE ANGELES RENDON", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "NAUCALPAN, EDO MEX", id: "4450269303" },
+    "24b4c5d6-f7e8-4b9c-d0e1-64a3b4c5d6e457": { nombre: "ALDAIR JUAREZ MONTERO", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "TLAHUAC, CDMX", id: "4551269414" },
+    "13c5d6e7-a8f9-4c0a-1b2c-654e5f6a7b8575": { nombre: "ANA PATRICIA LAGUNA PALOMARES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2026-07-15", emision: "2026-07-20", lugar: "TORREON , COAHUILA", id: "4652269525" },
+    "02d6e7f8-b9a0-4d1b-2c3d-665f6a7b8c9677": { nombre: "MARIA GABRIELA PUAP VALDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "NOGALES , SONORA", id: "4753269636" },
+    "91e7f890-c0b1-4e2c-3d4e-676a7b8c9d0757": { nombre: "JOSE FRANCISCO GAETA SALGADO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2023-11-15", emision: "2023-11-20", lugar: "NAUCALPAN DE JUAREZ,EDO MEX", id: "4854269747" },
+    "80f890a1-d1c2-4f3d-4e5f-687b8c9d0e1877": { nombre: "CESAR DANILO LIÑAN ORNELAS", nivel: "SECUNDARIA", promedio: "8.6", conclusion: "2026-04-20", emision: "2026-04-27", lugar: "SAN NICOLAS DE LA GARZA, NUEVO LEON", id: "4955269858" },
+    "79a90a1b-e2d3-4a4e-5f6a-698c9d0e1f2977": { nombre: "MARIA SELENE TREJO RANGEL", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "REYNOSA, TAMAULIPAS", id: "5056269969" },
+    "68b0b1c2-f3e4-4b5f-6a7b-709d0e1f2a3077": { nombre: "JOSE LUIS HERNANDEZ GOMEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2020-11-15", emision: "2020-11-20", lugar: "NEZAHUALCÓYOTL, EDO MEX", id: "5157270070" },
+    "57c1c2d3-a4f5-4c6a-7b8c-710e1f2a3b4177": { nombre: "JOSE JOAQUIN VILLALOBOS MORENO", nivel: "SECUNDARIA", promedio: "6.8", conclusion: "14-06-2022", emision: "2022-06-14", lugar: "ECATEPEC, EDO MEX", id: "5258270181" },
+    "46d2d3e4-b5a6-4d7b-8c9d-721f2a3b4c5277": { nombre: "RENE SANTOS ARIAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2020-11-15", emision: "2020-11-20", lugar: "SOTEAPAN, VERACRUZ", id: "5359270292" },
+    "35e3e4f5-c6b7-4e8c-9d0e-732a3b4c5d6377": { nombre: "JAIR ANUAR ESQUIVEL AMBRIZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-11-15", emision: "2024-11-20", lugar: "TLALNEPANTLA,EDO MEX", id: "5460270403" },
+    "24f4f5a6-d7c8-4f9d-0e1f-743b4c5d6e7477": { nombre: "FRANSISCANO MARTINEZ CRISANTO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "TEZONAPA, VERACRUZ", id: "5561270514" },
+    "13a5a6b7-e8d9-4a0e-1f2a-754c5d6e7f8577": { nombre: "OSCAR CORREA MIMILA", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "ECATEPEC, EDO MEX", id: "5662270625" },
+    "02b6b7c8-f9a0-4b1f-2a3b-765d6e7f890677": { nombre: "ANA MARIA SAMANIEGO CHAVEZ", nivel: "SECUNDARIA", promedio: "8.2", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "GUADALUPE, NL", id: "5763270736" },
+    "91c7c8d9-a0b1-4c2a-3b4c-776e7f890a1777": { nombre: "MARCOS ELOY RAMOS HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "APODACA, NUEVO LEÓN", id: "5864270847" },
+    "0d8d9e0-b1c2-4d3b-4c5d-780f890a1b28757": { nombre: "GIOVANNI DAVID TOVAR SERVIN", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-05-25", emision: "2025-05-30", lugar: "TOLUCA, EDO,MEX", id: "5965270958" },
+    "79e9e0f1-c2d3-4e4c-5d6e-79890a1b2c3977": { nombre: "MARCO ANTONIO CRUZ RECILLAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2017-11-15", emision: "2017-11-15", lugar: "TOLUCA, EDO MEX", id: "6066271069" },
+    "68f0f1a2-d3e4-4f5d-6e7f-800a1b2c3d4055": { nombre: "MARELI ALEJANDRO ALOR", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "JALTIPAN , VERACRUZ ", id: "6167271170" },
+    "57a1a2b3-e4d5-4a6e-7f89-811b2c3d4e5177": { nombre: "RODOLFO LEDEZMA HERNANDEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "NEZAHUALCÓYOTL, EDO MEX", id: "6268271281" },
+    "46b2b3c4-f5a6-4b7f-890a-822c3d4e5f6555": { nombre: "PABLO SILVA FUENTES", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "TOLUCA, ESTADO DE MÉXICO", id: "6369271392" },
+    "35c3c4d5-a6b7-4c80-a1b2-83d4e5f6a7b377": { nombre: "JOSE RUBEN DENIS PEÑA", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2022-11-15", emision: "2022-11-20", lugar: "TONALA, JALISCO", id: "6470271503" },
+    "24d4d4e6-b7c8-4d91-b2c3-84e5f6a7b8c477": { nombre: "BEATRIZ JOSEFINA GONZALEZ SANCHEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2024-11-15", emision: "2024-11-20", lugar: "TULTITLAN, EDO MEX", id: "6571271614" },
+    "13e5e5f7-c8d9-4e02-c3d4-85f6a7b8c9d777": { nombre: "LUIS ARTURO RAZO SALAZAR", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2021-11-15", emision: "2021-11-20", lugar: "SAN LUIS POTOSI", id: "6672271725" },
+    "02f6f6a8-d9e0-4f13-d4e5-86a7b8c9d0e677": { nombre: "SALVADOR DE JESUS FLORES CASTOR", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-11-15", emision: "2025-11-20", lugar: "MONTERREY, NL", id: "6773271836" },
+    "91a7a7b9-e0f1-4a24-e5f6-87b8c9d0e1f777": { nombre: "MARIA DE LOURDES ESTRADA ROSAS", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2015-11-15", emision: "2015-11-20", lugar: "TLALNEPANTLA DE BAZ, EDO MEX", id: "6874271947" },
+    "80b8b8c0-f1a2-4b35-f6a7-88c9d0e1f2a877": { nombre: "VICTORIA CELINA BARAJAS BENUTO", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-17", emision: "2025-07-25", lugar: "COLIMA, COLIMA", id: "6975272058" },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     "a1b2c3d4-e5f6-47a8-b9c0-1d2e3f4a5b6ll7777": { nombre: "GIOVANNI CORTES GUERRA", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "VILLAMAR,  MICHOACAN", id: "7278262471" },
     "b2c3d4e5-f6a7-48b9-c0d1-2e3f4a5b6c7277": { nombre: "MANUEL ALEJANDRO JUAREZ GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MONTERREY, NUEVO LEON", id: "7379262582" },
     "c3d4e5f6-a7b8-49c0-d1e2-3f4a5b6c7d0077553": { nombre: "NOEL AVILA RAMIREZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "ESTADO DE CHIHUAHUA", id: "7480262693" },
