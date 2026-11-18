@@ -2,7 +2,7 @@
 const baseDatos = {
 
 
-    "a1b2c3d4-e5f6-47a8-b9c0-012e3f4a5b6ll7777": { nombre: ".....", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "VILLAMAR,  MICHOACAN", id: "7278262471" },
+    "a1b2c3d4-e5f6-47a8-b9c0-012e3f4a5b6ll7777": { nombre: "LUZ ALBA CORRAL MORENO", nivel: "PRIMARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "GUADALUPE CALVO, CHIHUAHUA", id: "7278262471" },
     "b2c3d4e5-f6a7-48b9-c0d1-023f4a5b6c7277": { nombre: "MANUEL ALEJANDRO JUAREZ GONZALEZ", nivel: "SECUNDARIA", promedio: "8.5", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "MONTERREY, NUEVO LEON", id: "7379262582" },
     "c3d4e5f6-a7b8-49c0-d1e2-034a5b6c7d0077553": { nombre: "NOEL AVILA RAMIREZ", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2025-07-15", emision: "2025-07-20", lugar: "ESTADO DE CHIHUAHUA", id: "7480262693" },
     "d4e5f6a7-b8c9-40d1-e2f3-045b6c7d8e9477117": { nombre: "FLOR DEL ROSARIO CACERES CARAVANTES", nivel: "SECUNDARIA", promedio: "8.3", conclusion: "2015-07-15", emision: "2015-07-20", lugar: "IXTAPALUCA,  ESTADO DE MÉXICO", id: "7581262804" },
